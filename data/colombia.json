@@ -1,0 +1,2384 @@
+[
+  {
+    "id": "41569",
+    "name": "Radio Romania Actualități",
+    "url": "http://89.238.227.6:8006/;",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41571",
+    "name": "Dance FM 89.5 Bucharest",
+    "url": "http://edge126.rdsnet.ro:84/profm/dancefm.mp3",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png_cache_rel-20220913-06-3"
+  },
+  {
+    "id": "41572",
+    "name": "Deep House Radio - Bucharest Romania",
+    "url": "http://live.dancemusic.ro:7000/listen.pls?sid=1",
+    "country": "Colombia",
+    "image": "dancemusic-favicon.png"
+  },
+  {
+    "id": "41574",
+    "name": "Radio Manele FM",
+    "url": "http://a.fmradiomanele.ro:8054/;",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41575",
+    "name": "DIGI FM",
+    "url": "http://edge76.rdsnet.ro:84/digifm/digifm.mp3",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png_v_2.0_cache_rls-2021111100-v9"
+  },
+  {
+    "id": "41576",
+    "name": "Kiss Fm Ro",
+    "url": "https://www.kissfm.ro/listen.pls",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41577",
+    "name": "Pro FM",
+    "url": "http://edge126.rdsnet.ro:84/profm/profm.mp3",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png_v_2.0_cache_rel-20240507-11-22"
+  },
+  {
+    "id": "41578",
+    "name": "Play 90's",
+    "url": "http://live.playradio.org:9090/90HD",
+    "country": "Colombia",
+    "image": "280x280.jpg"
+  },
+  {
+    "id": "41579",
+    "name": "Radio Guerrilla",
+    "url": "http://live.guerrillaradio.ro:8010/guerrilla.aac",
+    "country": "Colombia",
+    "image": "logo.png"
+  },
+  {
+    "id": "41580",
+    "name": "Radio Cafe Romania",
+    "url": "http://live.radiocafe.ro:8048/live.aac",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41581",
+    "name": "Lautaru Populara",
+    "url": "http://live.radiolautaru.ro:9000/;stream.nsv",
+    "country": "Colombia",
+    "image": "cropped-1-2-radio-png-file-180x180.png"
+  },
+  {
+    "id": "41582",
+    "name": "Radio Zu",
+    "url": "http://zuicast.digitalag.ro:9420/zu",
+    "country": "Colombia",
+    "image": "favicon-96x96.png"
+  },
+  {
+    "id": "41588",
+    "name": "Romantic FM",
+    "url": "http://zuicast.digitalag.ro:9420/romanticfm",
+    "country": "Colombia",
+    "image": "favicon.png"
+  },
+  {
+    "id": "41589",
+    "name": "RFI Romania",
+    "url": "http://asculta.rfi.ro:9128/live.aac",
+    "country": "Colombia",
+    "image": "android-chrome-192x192.png"
+  },
+  {
+    "id": "41590",
+    "name": "Gherla FM",
+    "url": "http://89.39.189.52:8000/;",
+    "country": "Colombia",
+    "image": "cropped-logomic2-180x180.png"
+  },
+  {
+    "id": "41592",
+    "name": "Chill FM Romania",
+    "url": "http://edge126.rdsnet.ro:84/profm/chillfm.mp3",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41593",
+    "name": "Radio Tequila Dance Romania",
+    "url": "http://dance.radiotequila.ro:7000/;stream.nsv",
+    "country": "Colombia",
+    "image": "87390.v8.png"
+  },
+  {
+    "id": "41596",
+    "name": "Smart FM",
+    "url": "http://live.smartradio.ro:9128/live",
+    "country": "Colombia",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "41599",
+    "name": "Focus FM",
+    "url": "http://live.focusfm.ro:8000/focusfmhigh.ogg.m3u",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41600",
+    "name": "Radio 1 Manele",
+    "url": "http://radio1manele.no-ip.org:8000/;",
+    "country": "Colombia",
+    "image": "65075.v6.png"
+  },
+  {
+    "id": "41601",
+    "name": "Realitatea FM",
+    "url": "https://shout.realitatea.net:8001/rfmweb",
+    "country": "Colombia",
+    "image": "favicon.png"
+  },
+  {
+    "id": "41604",
+    "name": "Radio Manele Premium",
+    "url": "http://88.198.70.25:8894/;",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41605",
+    "name": "Radio Gold FM",
+    "url": "http://80.86.106.110:8002/listen.pls",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41606",
+    "name": "Radio România Iași",
+    "url": "http://89.238.227.6:8202/listen.pls",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41607",
+    "name": "Radio Pro Manele",
+    "url": "http://radiopromanele.zapto.org:8000/;",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41608",
+    "name": "Digi24FM",
+    "url": "https://edge76.rcs-rds.ro/digifm/digi24fm.mp3",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41609",
+    "name": "Radio Bucuresti FM",
+    "url": "http://89.238.227.6:8032/;stream/1",
+    "country": "Colombia",
+    "image": "favicon-96x96.png"
+  },
+  {
+    "id": "41612",
+    "name": "DeeaRadio",
+    "url": "http://live.radiodeea.ro:8090/listen.pls",
+    "country": "Colombia",
+    "image": "cropped-fav2.jpg_fit_180_2c180__038_ssl_1"
+  },
+  {
+    "id": "41613",
+    "name": "FM Radio Manele",
+    "url": "http://a.fmradiomanele.ro:8054/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41614",
+    "name": "RADIO Petrecere",
+    "url": "https://ssl.servereradio.ro/8123/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41615",
+    "name": "One FM Dance",
+    "url": "https://live.onefm.ro/onefm.aacp",
+    "country": "Colombia",
+    "image": "onefm-logo.png"
+  },
+  {
+    "id": "41617",
+    "name": "RADAIO ROMANCE21.ROMANIA",
+    "url": "https://stream.rcast.net/200392",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41618",
+    "name": "Super FM",
+    "url": "https://live.superfm.ro/stream.mp3",
+    "country": "Colombia",
+    "image": "apple-icon-120x120.png",
+    "localIcon": "assets/station-icons/superfm.png"
+  },
+  {
+    "id": "41620",
+    "name": "Radio Romania International",
+    "url": "http://stream2.srr.ro:8052/;",
+    "country": "Colombia",
+    "image": "android-chrome-512x512-1-150x150.png"
+  },
+  {
+    "id": "41621",
+    "name": "Rock Fm Hard Rock",
+    "url": "https://live.rockfm.ro/hard.rock",
+    "country": "Colombia",
+    "image": "qyxv7nnrvwnnokjxrxgi.jpg"
+  },
+  {
+    "id": "41622",
+    "name": "MusicFM",
+    "url": "http://edge126.rdsnet.ro:84/profm/music-fm.mp3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41623",
+    "name": "Radio Impuls Romania",
+    "url": "http://live2.radio-impuls.ro/",
+    "country": "Colombia",
+    "image": "logo.png"
+  },
+  {
+    "id": "41626",
+    "name": "Radio Cafe Romania",
+    "url": "http://live.radiocafe.ro:8048/live.aac",
+    "country": "Colombia",
+    "image": "logo-fara-90fm-resize-e1546368131330.png"
+  },
+  {
+    "id": "41628",
+    "name": "Radio Doxologia",
+    "url": "https://doxologia.ro/radio/radio_doxologia.pls",
+    "country": "Colombia",
+    "image": "favicon_doxologia.png"
+  },
+  {
+    "id": "41629",
+    "name": "Dance FM",
+    "url": "https://edge126.rcs-rds.ro/profm/dancefm.mp3",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png_cache_rel-20221003-07-3"
+  },
+  {
+    "id": "41631",
+    "name": "Play Radio Cafe",
+    "url": "http://live.playradio.org:9090/CafeHD",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41632",
+    "name": "Nationa FM",
+    "url": "http://www.nationalfm.ro/assets/national-fm.pls",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41633",
+    "name": "Radio Tequila Manele",
+    "url": "http://live.radiotequila.ro:7000/;",
+    "country": "Colombia",
+    "image": "cropped-favicon-santa-180x180.png"
+  },
+  {
+    "id": "41635",
+    "name": "Play Radio 91.6",
+    "url": "http://live.playradio.org:9090/FMHD",
+    "country": "Colombia",
+    "image": "Logo-PNG.png"
+  },
+  {
+    "id": "41636",
+    "name": "Rock Fm Ballads",
+    "url": "https://live.rockfm.ro/ballads.rock",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41637",
+    "name": "Radio 7 Bucuresti Romania",
+    "url": "http://80.86.106.32:8000/radio7.mp3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41638",
+    "name": "Radio România Actualități",
+    "url": "https://stream4.srr.ro:8443/romania-actualitati",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41639",
+    "name": "România Oltenia-Craiova",
+    "url": "http://stream2.srr.ro:8370/;stream.mp3",
+    "country": "Colombia",
+    "image": "favicon-96x96.png"
+  },
+  {
+    "id": "41640",
+    "name": "Magic Party Mix",
+    "url": "https://live.magicfm.ro/magic.party.mix",
+    "country": "Colombia",
+    "image": "agepcxvlmp6fbmslx6tt.jpg"
+  },
+  {
+    "id": "41641",
+    "name": "Radio Guerilla",
+    "url": "http://live.guerrillaradio.ro:8010/guerrilla.aac",
+    "country": "Colombia",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "41642",
+    "name": "Digi FM",
+    "url": "https://edge76.rcs-rds.ro/digifm/digifm.mp3",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png_v_2.0_cache_release-2022091104-v15"
+  },
+  {
+    "id": "41644",
+    "name": "Play Radio",
+    "url": "https://live.playradio.org:8443/90HD",
+    "country": "Colombia",
+    "image": "favicon.png"
+  },
+  {
+    "id": "41645",
+    "name": "RADIO MANELE PETRECERE",
+    "url": "https://ssl.servereradio.ro/8123/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41648",
+    "name": "West City Radio",
+    "url": "http://live.westcityradio.ro:8000/mp3",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41649",
+    "name": "Dance FM",
+    "url": "http://edge126.rdsnet.ro:84/profm/dancefm.mp3",
+    "country": "Colombia",
+    "image": "logo-dance-fm.png"
+  },
+  {
+    "id": "41650",
+    "name": "DJ Radio Romania",
+    "url": "https://stream.djradio.ro/radio/8000/stream.mp3",
+    "country": "Colombia",
+    "image": "apple-touch-icon-120x120.png"
+  },
+  {
+    "id": "41651",
+    "name": "ProB Radio",
+    "url": "http://live.radioprob.ro:8888/stream",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41652",
+    "name": "Radio Romania Constanta",
+    "url": "http://89.238.227.6:8332/listen.pls?sid=1",
+    "country": "Colombia",
+    "image": "favicon-96x96.png"
+  },
+  {
+    "id": "41653",
+    "name": "RockFM",
+    "url": "https://live.rockfm.ro/rockfm.aacp",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41655",
+    "name": "Radio DEEA",
+    "url": "http://radiocdn.nxthost.com/radio-deea",
+    "country": "Colombia",
+    "image": "cropped-fav2.jpg_fit_180_2c180__038_ssl_1"
+  },
+  {
+    "id": "41656",
+    "name": "Jurnal FM",
+    "url": "https://ssl.radios.show:7009/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41657",
+    "name": "itsy bitsy",
+    "url": "http://live.itsybitsy.ro:8000/itsybitsy",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41658",
+    "name": "CFM Radio",
+    "url": "http://stream2.radiocfm.ro:9090/CFM",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41660",
+    "name": "Radio România Brașov",
+    "url": "http://stream2.srr.ro:8210/;",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41661",
+    "name": "Radio Vacanta",
+    "url": "http://89.238.227.6:8330/listen.pls",
+    "country": "Colombia",
+    "image": "favicon-96x96.png"
+  },
+  {
+    "id": "41663",
+    "name": "Radio Vacanța Nostalgia",
+    "url": "https://stream4.srr.ro:8443/nostalgia_rv",
+    "country": "Colombia",
+    "image": "favicon-96x96.png"
+  },
+  {
+    "id": "41664",
+    "name": "Radio Romania Targu Mures",
+    "url": "http://streaming.radiomures.ro:8302/listen.pls;/stream",
+    "country": "Colombia",
+    "image": "logo-romania-regional.png"
+  },
+  {
+    "id": "41667",
+    "name": "Radio MANELE",
+    "url": "https://play.wrhradios.com/8044/stream",
+    "country": "Colombia",
+    "image": "play_250_250.jpg"
+  },
+  {
+    "id": "41668",
+    "name": "Marosvásárhelyi Rádió",
+    "url": "http://streaming.radiomures.ro:8312/;stream.nsv&type=mp3",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41670",
+    "name": "RADIO MIRAJUL MUZICII",
+    "url": "http://live.radiomiraj.ro:9952/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41671",
+    "name": "Radio România Târgu Mureș - Marosvásárhelyi Rádió Románia",
+    "url": "http://streaming.radiomures.ro:8312/listen.pls?sid=1",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41674",
+    "name": "Radio Transilvania - Cluj",
+    "url": "https://stream2.radiotransilvania.ro/Cluj",
+    "country": "Colombia",
+    "image": "play_250_250.jpg"
+  },
+  {
+    "id": "41675",
+    "name": "Radio Antena Braşovului",
+    "url": "http://streaming.radiomures.ro:8302/listen.pls",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41678",
+    "name": "Retró Rádió Csíkszereda",
+    "url": "http://online.radioretro.ro:8002/RetroRadio.mp3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41679",
+    "name": "RADIO MARIA ROMANIA",
+    "url": "http://dreamsiteradiocp2.com:8002/stream",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41680",
+    "name": "City Rádió",
+    "url": "http://live.city-radio.ro:8800/;",
+    "country": "Colombia",
+    "image": "favicon-32x32.png"
+  },
+  {
+    "id": "41681",
+    "name": "Radio Tequila Oldies",
+    "url": "https://stream.zeno.fm/5a1utt11fkhvv",
+    "country": "Colombia",
+    "image": "cropped-favicon-santa-180x180.png"
+  },
+  {
+    "id": "41684",
+    "name": "Radio Super Manele",
+    "url": "http://manele.capitalfm.ro:8020/listen.pls",
+    "country": "Colombia",
+    "image": "favo.png"
+  },
+  {
+    "id": "41686",
+    "name": "Black Rhino Radio",
+    "url": "https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a",
+    "country": "Colombia",
+    "image": "icon-192.png"
+  },
+  {
+    "id": "41687",
+    "name": "Radio Deep",
+    "url": "http://live.radiodeep.ro:7500/;",
+    "country": "Colombia",
+    "image": "logoRed.png"
+  },
+  {
+    "id": "41689",
+    "name": "Radio Tequila Petrecere ",
+    "url": "http://petrecere.radiotequila.ro:7000/;",
+    "country": "Colombia",
+    "image": "cropped-favicon-santa-180x180.png"
+  },
+  {
+    "id": "41690",
+    "name": "Rádió Gaga",
+    "url": "http://rc.radiogaga.ro:8000/live",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41692",
+    "name": "Rock Fm Blues",
+    "url": "https://live.rockfm.ro/blues",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41693",
+    "name": "Radio Resita",
+    "url": "http://89.238.227.6:8344/listen.pls",
+    "country": "Colombia",
+    "image": "favicon-96x96.png"
+  },
+  {
+    "id": "41694",
+    "name": "Vox FM - Székelykeresztúr",
+    "url": "http://stream.voxfm.ro:8000/listen.pls",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41695",
+    "name": "Kiss Fm",
+    "url": "https://live.kissfm.ro/kissfm.aacp",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41696",
+    "name": "Mária Rádió Erdély",
+    "url": "http://stream.mariaradio.ro:8000/MRE.m3u",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41697",
+    "name": "Radio Petrecăretzu",
+    "url": "http://live.radiopetrecaretzu.ro:8383/;",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41699",
+    "name": "Kolozsvári Rádió",
+    "url": "http://89.238.227.6:8386/listen.pls",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41700",
+    "name": "Metronom FM",
+    "url": "http://86.123.134.70:8000/metronom",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41701",
+    "name": "Magic Gold Hits",
+    "url": "https://live.magicfm.ro/magic.gold.hits",
+    "country": "Colombia",
+    "image": "x6xeyevggfagng9eahwl.jpg"
+  },
+  {
+    "id": "41702",
+    "name": "Radio Lăutaru",
+    "url": "http://live.radiolautaru.ro:9000/;",
+    "country": "Colombia",
+    "image": "cropped-1-2-radio-png-file-180x180.png"
+  },
+  {
+    "id": "41703",
+    "name": "Radio Pro Manele",
+    "url": "http://radiopromanele.zapto.org:8000/stream",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41704",
+    "name": "Radio Tequila Hip-Hop",
+    "url": "http://necenzurat.radiotequila.ro:7000/;",
+    "country": "Colombia",
+    "image": "cropped-favicon-santa-180x180.png"
+  },
+  {
+    "id": "41707",
+    "name": "Radio 3Net",
+    "url": "http://media.3netmedia.ro:8000/Live128.m3u",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41708",
+    "name": "Radio HIT Iasi",
+    "url": "http://live02.radiohit.ro:8000/hit.mp3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41709",
+    "name": "Rádio Koko",
+    "url": "https://az10.yesstreaming.net:8210/radiokoko",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41710",
+    "name": "Atmospheric dnb s0urce",
+    "url": "https://brokenbeats.net/stream/aac",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41711",
+    "name": "FunFM",
+    "url": "http://online.funfm.ro:8000/funfm.mp3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41712",
+    "name": "Plusz FM - Nagyvarad",
+    "url": "https://stream2.radiotransilvania.ro/Nagyvarad",
+    "country": "Colombia",
+    "image": "touch-icon.png"
+  },
+  {
+    "id": "41713",
+    "name": "Magic Fm",
+    "url": "https://live.magicfm.ro/magicfm.aacp",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41714",
+    "name": "Radio Guerrilla",
+    "url": "https://live.guerrillaradio.ro:8443/guerrilla.aac",
+    "country": "Colombia",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "41715",
+    "name": "Radio Manele Romania",
+    "url": "http://petrecere.fmradiomanele.ro:8123/;stream.nsv",
+    "country": "Colombia",
+    "image": "64518.v16.png"
+  },
+  {
+    "id": "41716",
+    "name": "Radio Party București ",
+    "url": "http://asculta.radiopartybucuresti.ro:8050/;",
+    "country": "Colombia",
+    "image": "logoborder.png"
+  },
+  {
+    "id": "41717",
+    "name": "TRADIȚIONAL / POPULAR - Radio Calea Spre Cer LIVE 24/7",
+    "url": "https://panel.radiocaleasprecer.com/radio/8020/radio.mp3",
+    "country": "Colombia",
+    "image": "fav-radio.png"
+  },
+  {
+    "id": "41718",
+    "name": "City Radio Romania",
+    "url": "http://live.city-radio.ro:8800/;",
+    "country": "Colombia",
+    "image": "favicon-32x32.png"
+  },
+  {
+    "id": "41720",
+    "name": "Magic FM Romania",
+    "url": "https://live.magicfm.ro/magicfm.aacp",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41721",
+    "name": "Radio Energy Cugir",
+    "url": "https://sonicssl.namehost.ro/8790/stream/;",
+    "country": "Colombia",
+    "image": "icon-unik02.png"
+  },
+  {
+    "id": "41723",
+    "name": "Radio RFM",
+    "url": "https://shout.realitatea.net:8001/mixt",
+    "country": "Colombia",
+    "image": "favicon.png"
+  },
+  {
+    "id": "41724",
+    "name": "goLOUNGE",
+    "url": "http://fr1.streamhosting.ch/lounge128.mp3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41725",
+    "name": "Radio Flo Manele ",
+    "url": "https://live.radioflomanele.ro/8084/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41728",
+    "name": "Radio Vacanța - Gold ",
+    "url": "https://stream4.srr.ro:8443/gold_rv",
+    "country": "Colombia",
+    "image": "favicon-96x96.png"
+  },
+  {
+    "id": "41729",
+    "name": "goREBEL",
+    "url": "https://live.gofm.ro:2000/stream/goREBEL/stream.mp3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41730",
+    "name": "RADIO MARIA ROMANIA HUNG.",
+    "url": "http://dreamsiteradiocp4.com:8026/stream",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41731",
+    "name": "Radio Top Suceava",
+    "url": "https://live.radiotop.ro/radio/8000/radio.mp3",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41732",
+    "name": "Aripi Spre Cer",
+    "url": "https://mobile.stream.aripisprecer.ro/radio.mp3",
+    "country": "Colombia",
+    "image": "cropped-logo-aripi-bg-rosu-logo-alb-192x192.png"
+  },
+  {
+    "id": "41733",
+    "name": "Erdély FM",
+    "url": "https://efm.radioca.st/stream",
+    "country": "Colombia",
+    "image": "erdelyFM_LOGO-1.png"
+  },
+  {
+    "id": "41734",
+    "name": "Radio Romantic",
+    "url": "https://radio-romantic.ro/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41735",
+    "name": "Capital FM - Manele",
+    "url": "http://manele.capitalfm.ro:8020/;",
+    "country": "Colombia",
+    "image": "gpg.png"
+  },
+  {
+    "id": "41737",
+    "name": "Extravaganza Radio ",
+    "url": "https://s3.radio.co/s1492c0564/listen",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41738",
+    "name": "Play Urban",
+    "url": "http://live.playradio.org:9090/UrbanHD",
+    "country": "Colombia",
+    "image": "103533.v6.png"
+  },
+  {
+    "id": "41739",
+    "name": "Radio Cartier Romania",
+    "url": "https://live.radiocartier.eu:8048/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41740",
+    "name": "Radio Maria",
+    "url": "http://cloudrad.io/radiomariaromania/listen.pls",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41741",
+    "name": "Radio Greu De Difuzat",
+    "url": "https://greudedifuzat.ro/stream/",
+    "country": "Colombia",
+    "image": "android-chrome-192x192.png_v_1.4"
+  },
+  {
+    "id": "41743",
+    "name": "Radio Cafe RO",
+    "url": "http://live.radiocafe.ro:8048/live.aac",
+    "country": "Colombia",
+    "image": "logo-fara-90fm-resize-e1546368131330.png"
+  },
+  {
+    "id": "41744",
+    "name": "Radio Bandit",
+    "url": "http://live.radiobandit.ro:8000/320.mp3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41745",
+    "name": "Sepsi Rádió",
+    "url": "https://stream.sepsiradio.ro:8001/SepsiRadio",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41746",
+    "name": "Radio Hot Style",
+    "url": "http://mp3.radiohot.ro:8000/stream",
+    "country": "Colombia",
+    "image": "cropped-cropped-cropped-RadioHot250.jpg"
+  },
+  {
+    "id": "41747",
+    "name": "GherlaFM",
+    "url": "http://89.39.189.52:8000/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41748",
+    "name": "Magic Sunset",
+    "url": "https://live.magicfm.ro/magic.lite",
+    "country": "Colombia",
+    "image": "wrguw4x7rpom6vkdyd5a.jpg"
+  },
+  {
+    "id": "41750",
+    "name": "Radio Vacanța - Fresh",
+    "url": "https://stream4.srr.ro:8443/fresh_rv",
+    "country": "Colombia",
+    "image": "favicon-96x96.png"
+  },
+  {
+    "id": "41751",
+    "name": "RadioPapuc",
+    "url": "https://stream.zeno.fm/phcn6lncrj4tv",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41753",
+    "name": "Ambiento",
+    "url": "https://ambiento-adradio.radioca.st/128",
+    "country": "Colombia",
+    "image": "logo70_0.png"
+  },
+  {
+    "id": "41754",
+    "name": "Radio Folclor",
+    "url": "https://ssl.omegahost.ro/8092/stream",
+    "country": "Colombia",
+    "image": "s152191g.png"
+  },
+  {
+    "id": "41757",
+    "name": "Radio România 3 Net",
+    "url": "http://media.3netmedia.ro:8000/Live128",
+    "country": "Colombia",
+    "image": "logo_3.png"
+  },
+  {
+    "id": "41759",
+    "name": "Free FM Rock București",
+    "url": "https://freefmrock.radioca.st/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41760",
+    "name": "Radio Dobrogea",
+    "url": "http://stream.arhivaradiodobrogea.ro:7000/dobrogea",
+    "country": "Colombia",
+    "image": "radio.ico"
+  },
+  {
+    "id": "41761",
+    "name": "Radio Taraf MANELE",
+    "url": "http://asculta.radiotaraf.ro:7100/;",
+    "country": "Colombia",
+    "image": "radio-taraf.png"
+  },
+  {
+    "id": "41763",
+    "name": "Rádió KoKo",
+    "url": "https://az10.yesstreaming.net:8210/radiokoko.mp3",
+    "country": "Colombia",
+    "image": "radiokoko-logo.png"
+  },
+  {
+    "id": "41764",
+    "name": "Doxologia",
+    "url": "https://doxologia.ro/radio/radio_doxologia.pls",
+    "country": "Colombia",
+    "image": "favicon_doxologia.png"
+  },
+  {
+    "id": "41767",
+    "name": "Radio Doza Manele",
+    "url": "https://manele.radiodoza.eu:8100/listen.pls",
+    "country": "Colombia",
+    "image": "radio-doza-manele-245-bucure_C8_99ti-romania-320.jpg"
+  },
+  {
+    "id": "41768",
+    "name": "Radio Romance 21",
+    "url": "http://live.radioromance21.ro:9950/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41773",
+    "name": "Biblia Audio - Radio Calea Spre Cer",
+    "url": "https://panel.radiocaleasprecer.com/radio/8010/radio.mp3",
+    "country": "Colombia",
+    "image": "fav-radio.png"
+  },
+  {
+    "id": "41774",
+    "name": "Radio Trandafirul Rosu",
+    "url": "https://stream-148.zeno.fm/46mdd8ebdchvv?zs=3KOOJiuCTAuEqso88MJ74A",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41776",
+    "name": "Radio Mynele",
+    "url": "http://live.radiomynele.ro:8000/;",
+    "country": "Colombia",
+    "image": "cropped-s158252g-180x180.png"
+  },
+  {
+    "id": "41777",
+    "name": "TRADIȚIONAL / POPULAR - Radio Calea Spre Cer LIVE 24/7",
+    "url": "https://panel.radiocaleasprecer.com/radio/8040/radio.mp3",
+    "country": "Colombia",
+    "image": "fav-radio.png"
+  },
+  {
+    "id": "41780",
+    "name": "Protm",
+    "url": "http://edge126.rdsnet.ro:84/profm/profm.mp3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41782",
+    "name": "MDI FM",
+    "url": "http://www.mdifm.ro/listen_mdifm.pls",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41784",
+    "name": "Aripi Spre Cer Instrumental",
+    "url": "https://instrumental.aac.aripisprecer.ro/radio.mp3;",
+    "country": "Colombia",
+    "image": "cropped-logo-aripi-bg-rosu-logo-alb-192x192.png"
+  },
+  {
+    "id": "41785",
+    "name": "Bistrița FM 92.6",
+    "url": "https://audio-edge-cmc51.fra.h.radiomast.io/66f238bb-8b61-4196-a8c3-28aea07235e8",
+    "country": "Colombia",
+    "image": "cropped-cropped-bistrita-fm-logo-alb-transparent-180x180.png"
+  },
+  {
+    "id": "41786",
+    "name": "Radio DA",
+    "url": "http://n01.radiojar.com/du8khw2d2wzuv",
+    "country": "Colombia",
+    "image": "Artboard-2.png"
+  },
+  {
+    "id": "41787",
+    "name": "Radio Impuls RO",
+    "url": "https://live.radio-impuls.ro/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41788",
+    "name": "Radio Badita Popular",
+    "url": "http://89.39.189.29:8000/listen.pls",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41789",
+    "name": "goJAZZ",
+    "url": "https://live.gofm.ro:2020/stream/goJAZZ",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41791",
+    "name": "Radio Boom House Music",
+    "url": "https://stream.radioboom.ro/listen/boom_house_music/radio.mp3",
+    "country": "Colombia",
+    "image": "album_art.1711440856.jpg"
+  },
+  {
+    "id": "41792",
+    "name": "Radio Xtream",
+    "url": "https://ssl.radios.show:7008/;",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41793",
+    "name": "Space Fm Dance",
+    "url": "https://spacefm.live/radio/8000/spacefm128",
+    "country": "Colombia",
+    "image": "Logo-alb.png"
+  },
+  {
+    "id": "41794",
+    "name": "Radio Etno Vest Timisoara",
+    "url": "http://ssl.radios.show:8020/;",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41796",
+    "name": "Radio Crazy",
+    "url": "http://live.crazyradio.ro:8024/stream",
+    "country": "Colombia",
+    "image": "dfcd248a-b4ae-4048-9cef-e9f4b1e8e2f5"
+  },
+  {
+    "id": "41797",
+    "name": "Radio KPTV",
+    "url": "https://nl1.streamingpulse.com/ssl/KPTV",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41802",
+    "name": "Baraka radio",
+    "url": "https://ice.streams.ovh:1165/stream",
+    "country": "Colombia",
+    "image": "favicon.png"
+  },
+  {
+    "id": "41803",
+    "name": "BigFM Deva",
+    "url": "http://82.208.143.10:8000/;",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41805",
+    "name": "Supravibe Radio ",
+    "url": "https://supraviberadio-radiohosting.radioca.st/stream",
+    "country": "Colombia",
+    "image": "play_250_250.jpg"
+  },
+  {
+    "id": "41807",
+    "name": "Radio Antena Satelor",
+    "url": "http://89.238.227.6:8042/listen.pls",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41808",
+    "name": "Radio Cafe Romania",
+    "url": "https://live.radiocafe.ro/live.aac",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41809",
+    "name": "Radio Elim Español",
+    "url": "http://91.213.11.102:8023/stream_high",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41811",
+    "name": "Ambiento",
+    "url": "https://ambiento-adradio.radioca.st/128",
+    "country": "Colombia",
+    "image": "logo70_0.png"
+  },
+  {
+    "id": "41812",
+    "name": "Plusz FM - Margitta",
+    "url": "https://stream2.radiotransilvania.ro/Margitta",
+    "country": "Colombia",
+    "image": "plusz_fm184x184.png"
+  },
+  {
+    "id": "41814",
+    "name": "Agnus Rádió",
+    "url": "http://radio2.tirek.hu:8000/agnusradio",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41817",
+    "name": "Radio Arges",
+    "url": "http://89.39.189.53:8000/listen.pls",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41818",
+    "name": "Radio Oltenia Craiova",
+    "url": "http://stream2.srr.ro:8370/listen.pls",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41819",
+    "name": "Radio Tequila Manele Romania",
+    "url": "https://petrecere.radiotequila.ro/7000/stream",
+    "country": "Colombia",
+    "image": "logo.png"
+  },
+  {
+    "id": "41820",
+    "name": "goROCK",
+    "url": "https://live.gofm.ro:2020/stream/goROCK",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41821",
+    "name": "Radio Vestea Buna",
+    "url": "http://c34.radioboss.fm:8175/autodj",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41822",
+    "name": "Lounge Avenue",
+    "url": "http://arlandria.go.ro:8000/lounge",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41823",
+    "name": "Free FM Bucaresti",
+    "url": "https://rocafmadrid.radioca.st/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41825",
+    "name": "Roman FM",
+    "url": "https://live.romanfm.ro:8000/;rfm",
+    "country": "Colombia",
+    "image": "cropped-rfm-favicon-1-180x180.png"
+  },
+  {
+    "id": "41826",
+    "name": "Antena Satelor",
+    "url": "https://stream4.srr.ro:8443/antena-satelor",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41827",
+    "name": "Cozy FM",
+    "url": "https://live.cozyfm.ro:8010/live",
+    "country": "Colombia",
+    "image": "cozy_square.jpg"
+  },
+  {
+    "id": "41828",
+    "name": "Radio A-Tentat ",
+    "url": "https://ssl.omegahost.ro/8066/stream",
+    "country": "Colombia",
+    "image": "radio240-150x150.png"
+  },
+  {
+    "id": "41829",
+    "name": "Radio Bucovina",
+    "url": "http://radiobucovina.ro/live.m3u",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41830",
+    "name": "Radio Calea Spre Cer LIVE 24/7",
+    "url": "https://panel.radiocaleasprecer.com/radio/8000/radio.mp3",
+    "country": "Colombia",
+    "image": "fav-radio.png"
+  },
+  {
+    "id": "41831",
+    "name": "Radio Eco Natura",
+    "url": "https://n0a.radiojar.com/fp5c3fgbyzzuv",
+    "country": "Colombia",
+    "image": "favicon.png"
+  },
+  {
+    "id": "41834",
+    "name": "Itsy Bitsy",
+    "url": "http://itsybitsy.ro/listen.pls",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41835",
+    "name": "Moinesti FM",
+    "url": "https://listen.moinestifm.ro/radio.mp3",
+    "country": "Colombia",
+    "image": "logo_color.png"
+  },
+  {
+    "id": "41836",
+    "name": "Radio Resita",
+    "url": "https://stream4.srr.ro:8443/radio-resita",
+    "country": "Colombia",
+    "image": "favicon-96x96.png"
+  },
+  {
+    "id": "41837",
+    "name": "Reintregirea",
+    "url": "https://reintregirea.ro/sites/default/files/tema/radio.pls",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41838",
+    "name": "Aripi Spre Cer Popular",
+    "url": "https://popular.stream.aripisprecer.ro/radio.mp3",
+    "country": "Colombia",
+    "image": "cropped-logo-aripi-bg-rosu-logo-alb-192x192.png"
+  },
+  {
+    "id": "41840",
+    "name": "Radio Folclor Buzau",
+    "url": "https://live.radiofolclorbuzaufm.ro:8910/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41841",
+    "name": "Radio Pro-B",
+    "url": "http://live.radioprob.ro:8888/stream",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41843",
+    "name": "Eveniment FM Sibiu 103.2",
+    "url": "https://live.gofm.ro:2000/stream/eveniment",
+    "country": "Colombia",
+    "image": "cropped-evenimentfm-180x180.png"
+  },
+  {
+    "id": "41846",
+    "name": "Radio Terra",
+    "url": "http://188.26.110.59:8000/terra_hq.mp3",
+    "country": "Colombia",
+    "image": "terra-navbar.png"
+  },
+  {
+    "id": "41849",
+    "name": "Getarum Radio",
+    "url": "https://stream.clever-host.ro/8010/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41851",
+    "name": "Next Radio",
+    "url": "https://stream.nextradio.live/listen/nextradio/NextHD",
+    "country": "Colombia",
+    "image": "next-radio-logo.png"
+  },
+  {
+    "id": "41852",
+    "name": "Radio Boom Gold",
+    "url": "https://stream.radioboom.ro/listen/boom_gold/radio.mp3",
+    "country": "Colombia",
+    "image": "album_art.1711440856.jpg"
+  },
+  {
+    "id": "41854",
+    "name": "Radio Disco Mix",
+    "url": "https://play.discomix.ro/8002/stream",
+    "country": "Colombia",
+    "image": "disco-mix-sigla-site-80x80.png"
+  },
+  {
+    "id": "41855",
+    "name": "Muscel FM 94.1",
+    "url": "http://188.27.135.199:8000/muscelfm",
+    "country": "Colombia",
+    "image": "favicon-150x150.png"
+  },
+  {
+    "id": "41856",
+    "name": "Radio Arad",
+    "url": "http://85.120.220.205:8000/radio-arad.m3u",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41857",
+    "name": "Radio Brașov",
+    "url": "https://live.radiobrasov.ro/stream.mp3?nocache=${Math.random()}",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41859",
+    "name": "Hangos Rádió",
+    "url": "https://stream.zeno.fm/mv62tmd8wp8uv.aac",
+    "country": "Colombia",
+    "image": "play_250_250.jpg"
+  },
+  {
+    "id": "41860",
+    "name": "Magic FM ",
+    "url": "https://s.s3.cloudworks.ro/magicfm/streams/playlist/2022/04/12/listen.pls",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41861",
+    "name": "Radio Armonia Romania",
+    "url": "http://audio.radioarmoniaro.bisericilive.com/mainradioarmoniaro.mp3.m3u",
+    "country": "Colombia",
+    "image": "cropped-ratv-favicon-1-180x180.png"
+  },
+  {
+    "id": "41862",
+    "name": "Radio Constanta FM",
+    "url": "http://89.238.227.6:8332/;stream/1",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41866",
+    "name": "EBS Radio",
+    "url": "https://azura.ebsmedia.ro/public/live/playlist.m3u",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41869",
+    "name": "Radio Brașov",
+    "url": "https://live.radiobrasov.ro/stream.mp3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41871",
+    "name": "Chill FM",
+    "url": "https://edge126.rcs-rds.ro/profm/chillfm.mp3?1712405207687",
+    "country": "Colombia",
+    "image": "logo-chillfm.png"
+  },
+  {
+    "id": "41873",
+    "name": "Radio Folclor Muntenia",
+    "url": "https://live.radiofolclormuntenia.ro:8008/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41877",
+    "name": "Capital FM - Dance",
+    "url": "https://ssl.omegahost.ro:8020/stream",
+    "country": "Colombia",
+    "image": "gpg.png"
+  },
+  {
+    "id": "41878",
+    "name": "Magic FM",
+    "url": "https://live.magicfm.ro/magicfm.aacp",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41879",
+    "name": "Radio Romania Muzical",
+    "url": "http://stream2.srr.ro:8020/listen.pls",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41881",
+    "name": "ROMÂNIA  Actualități",
+    "url": "https://stream4.srr.ro:8443/romania-actualitati",
+    "country": "Colombia",
+    "image": "logo-main.svg"
+  },
+  {
+    "id": "41882",
+    "name": "ascultă-Radio Levi",
+    "url": "http://audio.radioleviro.bisericilive.com/radioleviro.mp3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41883",
+    "name": "Bucuresti FM",
+    "url": "https://stream4.srr.ro:8443/bucuresti-fm",
+    "country": "Colombia",
+    "image": "favicon-96x96.png"
+  },
+  {
+    "id": "41886",
+    "name": "https://live.reintregirea.ro",
+    "url": "https://live.reintregirea.ro/",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41888",
+    "name": "Radio Renaaterea Cluj",
+    "url": "https://radiorenasterea.ro/live.pls",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41889",
+    "name": "Radio Unique",
+    "url": "http://listen.radiounique.ro:8106/live",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41891",
+    "name": "Supersonic Radio",
+    "url": "https://s5.radio.co/s08e5c5875/listen",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41892",
+    "name": "Sweet FM Romania",
+    "url": "https://live.gofm.ro:2000/stream/SWEET/stream.mp3",
+    "country": "Colombia",
+    "image": "cropped-sweetfm-e1664439016342.png"
+  },
+  {
+    "id": "41893",
+    "name": "Fain & Simplu",
+    "url": "http://zuicast.digitalag.ro:9420/fainsisimplu",
+    "country": "Colombia",
+    "image": "cropped-favicon-180x180.jpg"
+  },
+  {
+    "id": "41894",
+    "name": "FUN Radio Romania",
+    "url": "http://online.webcastradio.ro/fun",
+    "country": "Colombia",
+    "image": "favicon.png"
+  },
+  {
+    "id": "41897",
+    "name": "Dux Radio",
+    "url": "https://radio.duxradio.ro:8002/stream",
+    "country": "Colombia",
+    "image": "logo-1.png"
+  },
+  {
+    "id": "41899",
+    "name": "Radio Aquila",
+    "url": "https://s10.webradio-hosting.com/proxy/schrteam/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41900",
+    "name": "Radio Trib",
+    "url": "https://streams.radio.co/s78f983952/listen",
+    "country": "Colombia",
+    "image": "logo.png"
+  },
+  {
+    "id": "41901",
+    "name": "Radio Voces Campi",
+    "url": "http://vocescampi.ro:8001/;",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41902",
+    "name": "Dance Effect Radio",
+    "url": "http://asculta.danceeffect.ro:3333/;",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41906",
+    "name": "Radio Boom Rock",
+    "url": "https://stream.radioboom.ro/listen/boom_rock/radio.mp3",
+    "country": "Colombia",
+    "image": "album_art.1711440856.jpg"
+  },
+  {
+    "id": "41908",
+    "name": "Radio Underland",
+    "url": "https://radio.underland.team/radio/8000/radio.mp3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41909",
+    "name": "Radio Veselia Folclor",
+    "url": "http://asculta.radioveseliafolclor.com:8232/;",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41910",
+    "name": "Super FM Brasov 93.8",
+    "url": "https://live.superfm.ro/stream.mp3?time=1697692801",
+    "country": "Colombia",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "41913",
+    "name": "Radio FX Net",
+    "url": "http://asculta.radiofxnet.ro:8458/;",
+    "country": "Colombia",
+    "image": "cropped-cropped-Radio_FX_Net_logo-1-1.png"
+  },
+  {
+    "id": "41917",
+    "name": "RockFM",
+    "url": "https://live.rockfm.ro/rockfm.aacp",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41920",
+    "name": "Radio Cuibul Lupilor Albi",
+    "url": "https://stream.zeno.fm/7s5mmrtzmuhvv",
+    "country": "Colombia",
+    "image": "icon_192x192.png"
+  },
+  {
+    "id": "41921",
+    "name": "Radio Marketescu Reggae&Trip-Hop",
+    "url": "https://s37.radiolize.com/radio/8100/radio.mp3",
+    "country": "Colombia",
+    "image": "reggae_26trip-hop.png"
+  },
+  {
+    "id": "41922",
+    "name": "RadioReintregirea Alba Iulia",
+    "url": "https://reintregirea.ro/sites/default/files/tema/radio.pls",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41923",
+    "name": "Kiss Millenium Hits",
+    "url": "https://live.kissfm.ro/milleniumhits",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41924",
+    "name": "Love Marilena Galați",
+    "url": "https://radio.sonicpanel.ro/8068/stream",
+    "country": "Colombia",
+    "image": "radio-love-marilena-186-gala_C8_9Bi-romania-320.jpg"
+  },
+  {
+    "id": "41925",
+    "name": "One World Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "41926",
+    "name": "Radio Bandit",
+    "url": "https://pro.radiobandit.ro/listen/bandit/320.mp3",
+    "country": "Colombia",
+    "image": "album_art.1706302996.jpg"
+  },
+  {
+    "id": "41927",
+    "name": "Radio Boom Energy",
+    "url": "https://stream.radioboom.ro/listen/boom_energy/radio.mp3",
+    "country": "Colombia",
+    "image": "album_art.1711440856.jpg"
+  },
+  {
+    "id": "41928",
+    "name": "Radio VIP",
+    "url": "http://live1.radiovip.ro:8969/;",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41929",
+    "name": "Alien Club Fantasy",
+    "url": "http://radio.club-fantasy-hub.ro:8000/;",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41930",
+    "name": "Colinde 2025",
+    "url": "http://live.radiocolinde.ro:8140/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41933",
+    "name": "Hard Rock by Rock FM",
+    "url": "https://live.rockfm.ro/hard.rock",
+    "country": "Colombia",
+    "image": "rock-hard-rock-e82128_0ca688d0068814c0f2fb2dce950c6fd3.jpg_w_640_h_640_c_1"
+  },
+  {
+    "id": "41934",
+    "name": "Play Radio 91.6",
+    "url": "https://live.playradio.org:8443/FMHD",
+    "country": "Colombia",
+    "image": "noimage.jpg"
+  },
+  {
+    "id": "41935",
+    "name": "Radio Doza Urban",
+    "url": "https://stream.zeno.fm/cezx5b1nw98uv.pls",
+    "country": "Colombia",
+    "image": "radio-doza-urban-254-bucure_C8_99ti-romania-320.jpg"
+  },
+  {
+    "id": "41936",
+    "name": "Radio Goldies",
+    "url": "https://s10.streamingcloud.online/stream/13664",
+    "country": "Colombia",
+    "image": "PicsArt_05-19-04_25_59.png"
+  },
+  {
+    "id": "41937",
+    "name": "Radio Greenstone",
+    "url": "https://stream.clever-host.ro/8018/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41938",
+    "name": "RadioPitesteanuRomania",
+    "url": "https://free.rcast.net/246157",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41941",
+    "name": "MartAthonita Radio",
+    "url": "https://radio.mountathos.info/live",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41946",
+    "name": "Aripi Spre Cer Predici",
+    "url": "https://predici.aac.aripisprecer.ro/radio.mp3",
+    "country": "Colombia",
+    "image": "cropped-logo-aripi-bg-rosu-logo-alb-192x192.png"
+  },
+  {
+    "id": "41947",
+    "name": "dancefmRomania",
+    "url": "http://edge126.rdsnet.ro:84/profm/dancefm.mp3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41949",
+    "name": "Radio Elim Plus",
+    "url": "http://91.213.11.102:8003/stream3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41950",
+    "name": "Radio Iubire",
+    "url": "http://ssl.radios.show:8026/;",
+    "country": "Colombia",
+    "image": "cropped-staf__sig-removebg-preview-180x180.png"
+  },
+  {
+    "id": "41953",
+    "name": "Radio România 3Net",
+    "url": "http://media.3netmedia.ro:8000/Live128",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41954",
+    "name": "Supravibe Radio",
+    "url": "https://supraviberadio-radiohosting.radioca.st/stream",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41956",
+    "name": "Dark Edge Radio",
+    "url": "https://stream.darkedge.ro:8002/stream/1/",
+    "country": "Colombia",
+    "image": "logo.svg"
+  },
+  {
+    "id": "41958",
+    "name": "Manastirea Putna",
+    "url": "https://www.ortodoxradio.ro:8000/stream48",
+    "country": "Colombia",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "41960",
+    "name": "Radio Elim Air",
+    "url": "http://91.213.11.102:8011/stream_high",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41965",
+    "name": "EnJOY Radio",
+    "url": "https://live.enjoyradio.ro/radio/8000/enjoylive.mp3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41966",
+    "name": "goFM",
+    "url": "https://live.gofm.ro:2000/stream/goFMro",
+    "country": "Colombia",
+    "image": "assets_logo.8f383baf77a0cce348c8.png"
+  },
+  {
+    "id": "41970",
+    "name": "Radio Crazy Romania",
+    "url": "https://razvcarp1.radioca.st/;:80/;stream.mp3",
+    "country": "Colombia",
+    "image": "cropped-logo-3-1-q37s7kwrh7n911m5llll2n4qo73ew64sk0c5qzs4cg.png"
+  },
+  {
+    "id": "41971",
+    "name": "Radio Dada",
+    "url": "https://live.laris.ro:8004/radiodada128.mp3",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41972",
+    "name": "Radio Marketescu House&Minimal",
+    "url": "https://s31.radiolize.com/radio/8020/radio.mp3",
+    "country": "Colombia",
+    "image": "Copie_20a_20Design_20f_C4_83r_C4_83_20titlu_20_1_.png"
+  },
+  {
+    "id": "41974",
+    "name": "radio SOMEȘ",
+    "url": "http://radio.mediacp.eu/stream/radiosomes",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41978",
+    "name": "Frăsinești Radio",
+    "url": "https://stream.zeno.fm/mpmilx1n4yuuv",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41979",
+    "name": "Marlene Radio",
+    "url": "https://live.gofm.ro:2000/stream/MARLENERADIO/stream.mp3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41980",
+    "name": "OXO Radio",
+    "url": "https://s4.ssl-stream.com/listen/oxo_radio/radio.mp3",
+    "country": "Colombia",
+    "image": "logo-oxo_mobile_bw.jpg"
+  },
+  {
+    "id": "41982",
+    "name": "Radio Greu De Difuzat",
+    "url": "https://greudedifuzat.ro/listen.pls",
+    "country": "Colombia",
+    "image": "android-chrome-192x192.png_v_1.4"
+  },
+  {
+    "id": "41983",
+    "name": "Radio Marketescu Rap&Trap",
+    "url": "https://s45.radiolize.com/radio/8060/radio.mp3",
+    "country": "Colombia",
+    "image": "Rap_26trap.png"
+  },
+  {
+    "id": "41984",
+    "name": "ROMÂNIA  Antena Satelor",
+    "url": "https://stream4.srr.ro:8443/antena-satelor",
+    "country": "Colombia",
+    "image": "logo-main.svg"
+  },
+  {
+    "id": "41985",
+    "name": "Vibe FM Romania",
+    "url": "https://radiotrucker.com/en/play/vibe-fm-romania",
+    "country": "Colombia",
+    "image": "ab67706c0000da847c688eefabb0fda4219fd9d4"
+  },
+  {
+    "id": "41986",
+    "name": "Ade FM Radio",
+    "url": "https://stream.zeno.fm/rshamge8mgntv",
+    "country": "Colombia",
+    "image": "_url_https_3A_2F_2Fimages.zeno.fm_2FipUeZVbK-qD3vgkWcgNXnJX9B7w3CAB7lmPcVB86NRg_2Frs_3Afit_3A240_3A240_2Fg_3Ace_3A0_3A0_2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzRiNTgyMGRlLWNkMTItNGRjOS05Nzg3LTRhYWM2MTI4MTZkMC9pbWFnZS8_dXBkY"
+  },
+  {
+    "id": "41987",
+    "name": "Aripi Spre Cer Special",
+    "url": "https://special.aac.aripisprecer.ro/radio.mp3;",
+    "country": "Colombia",
+    "image": "cropped-logo-aripi-bg-rosu-logo-alb-192x192.png"
+  },
+  {
+    "id": "41988",
+    "name": "Aripi Spre Cer Worship",
+    "url": "https://worship.aac.aripisprecer.ro/radio.mp3;",
+    "country": "Colombia",
+    "image": "cropped-logo-aripi-bg-rosu-logo-alb-192x192.png"
+  },
+  {
+    "id": "41989",
+    "name": "Blues Radio",
+    "url": "http://stream.zeno.fm/bpn1hy0h6ehvv.m3u",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41990",
+    "name": "Club Radio",
+    "url": "https://live.clubradio.ro/listen/clubradio/live",
+    "country": "Colombia",
+    "image": "132460.v3.png"
+  },
+  {
+    "id": "41991",
+    "name": "Cross One Radio",
+    "url": "https://lb01.bpstream.com:8630/;",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "41992",
+    "name": "Play 90 Constanta",
+    "url": "https://live.playradio.org:8443/FMHD",
+    "country": "Colombia",
+    "image": "favicon-96x96.png"
+  },
+  {
+    "id": "41993",
+    "name": "radio 1 pitesti ",
+    "url": "https://ssl.radios.show/8050/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "41996",
+    "name": "Radio Noise Party",
+    "url": "https://partylive.radionoise.ro:9160/",
+    "country": "Colombia",
+    "image": "radionoiseparty.png"
+  },
+  {
+    "id": "41999",
+    "name": "Space FM",
+    "url": "http://stream.radioparadise.com/world-etc-192",
+    "country": "Colombia",
+    "image": "default.png",
+    "localIcon": "assets/station-icons/spacefm.png"
+  },
+  {
+    "id": "42003",
+    "name": "Activ România",
+    "url": "https://stream.zeno.fm/72xsfrg0bfhvv",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "42006",
+    "name": "Kolozsvári Rádió",
+    "url": "http://89.238.227.6:8386/listen.pls",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "42007",
+    "name": "Radio Gaga",
+    "url": "http://rc.radiogaga.ro:8000/live",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "42009",
+    "name": "Radio Killer Câmpia Turzii",
+    "url": "https://s12.myradiostream.com/17492/listen.mp3",
+    "country": "Colombia",
+    "image": "sigla222-150x150.png"
+  },
+  {
+    "id": "42010",
+    "name": "Radio Mioveni",
+    "url": "http://argesmioveninr1.radi0.im:8000/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "42012",
+    "name": "Acustic Radio",
+    "url": "https://stream.zeno.fm/xmgnc6mcwnhvv",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "42013",
+    "name": "DigiFM",
+    "url": "https://edge76.rcs-rds.ro/digifm/digifm.mp3",
+    "country": "Colombia",
+    "image": "digi24.png"
+  },
+  {
+    "id": "42016",
+    "name": "Radio Filadelfia",
+    "url": "https://b1.radiofiladelfia.ro:8101/filadelfia_128.aac",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "42018",
+    "name": "RadioGaga",
+    "url": "http://rc.radiogaga.ro:8000/live",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "42022",
+    "name": "Digi24 FM",
+    "url": "https://edge76.rcs-rds.ro/digifm/digi24fm.mp3",
+    "country": "Colombia",
+    "image": "digi24.png"
+  },
+  {
+    "id": "42023",
+    "name": "Rádió Koko",
+    "url": "https://radiokoko.ro/live",
+    "country": "Colombia",
+    "image": "radiokoko-logo.png"
+  },
+  {
+    "id": "42024",
+    "name": "Radio Trinitas 88.5",
+    "url": "https://live.radiotrinitas.ro:8003/;stream.nsv",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "42025",
+    "name": "ROMÂNIA  Cultural",
+    "url": "https://stream4.srr.ro:8443/romania-cultural",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "42026",
+    "name": "SuperFM Brasov 93.8 FM",
+    "url": "https://live.superfm.ro/stream.mp3?nocache=0.19023860954617056",
+    "country": "Colombia",
+    "image": "logo_red.png"
+  },
+  {
+    "id": "42028",
+    "name": "Aripi Spre Cer International",
+    "url": "https://international.aac.aripisprecer.ro/radio.mp3",
+    "country": "Colombia",
+    "image": "cropped-logo-aripi-bg-rosu-logo-alb-192x192.png"
+  },
+  {
+    "id": "42029",
+    "name": "Itsy Bitsy",
+    "url": "http://www.itsybitsy.ro/listen.pls",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "42030",
+    "name": "Jurnal FM",
+    "url": "https://ssl.radios.show:7009/stream/",
+    "country": "Colombia",
+    "image": "jurnal-fm-logo-fara-fereastra-300x103.png"
+  },
+  {
+    "id": "42032",
+    "name": "Radio Domeldo",
+    "url": "https://radiodomeldo.ro/movie",
+    "country": "Colombia",
+    "image": "cropped-radiodomeldo_nuurl_sqr-180x180.png"
+  },
+  {
+    "id": "42033",
+    "name": "Rádió GaGa Marosszék",
+    "url": "https://a3.my-control-panel.com:6660/radio.mp3?1709995925",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "42034",
+    "name": "radio pitesti 1",
+    "url": "https://ssl.radios.show/8050/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "42035",
+    "name": "Star rádió",
+    "url": "https://online.webcastradio.ro/star",
+    "country": "Colombia",
+    "image": "starradio-logo.png"
+  },
+  {
+    "id": "42036",
+    "name": "Ady picyu",
+    "url": "https://stream.zeno.fm/s5pkvvbd9e9uv",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "42037",
+    "name": "Agape Radio",
+    "url": "https://stream.zeno.fm/s38pdt9h268uv",
+    "country": "Colombia",
+    "image": "yCMkdTRoHWSzBqqdl1eQ6TJv6XZhQ84S92HN4lsp5UbeXOm3Omn679IkYcA5efVGafc"
+  },
+  {
+    "id": "42038",
+    "name": "BOOM TV",
+    "url": "https://live.radioboom.ro/live-tv/live.m3u8",
+    "country": "Colombia",
+    "image": "livetv.png"
+  },
+  {
+    "id": "42039",
+    "name": "Radio GMusic Colinde",
+    "url": "https://s9.webradio-hosting.com/proxy/rgmcolinde/stream",
+    "country": "Colombia",
+    "image": "cropped-fav-icon-180x180.png"
+  },
+  {
+    "id": "42044",
+    "name": "Ade FM",
+    "url": "https://stream.zeno.fm/nqjp3rems2rvv",
+    "country": "Colombia",
+    "image": "_url_https_3A_2F_2Fimages.zeno.fm_2F9FAO9i7C7WX4VEfKZScfmsgMgmoOHwddlr0lYDTN0z0_2Frs_3Afit_3A240_3A240_2Fg_3Ace_3A0_3A0_2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2EwN2EyYTA0LTAxYWQtNGEyZS04NjgzLTU5NWJkYjA1OWI2Mi9pbWFnZS8_dXBkY"
+  },
+  {
+    "id": "42046",
+    "name": "KISS FM 107.9",
+    "url": "https://live.kissfm.ro/kissfm.aacp",
+    "country": "Colombia",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "42047",
+    "name": "PlayRadio Urban",
+    "url": "https://live.playradio.org:8443/UrbanHD",
+    "country": "Colombia",
+    "image": "103533.v7.png"
+  },
+  {
+    "id": "42048",
+    "name": "Radio GMusic Funky",
+    "url": "https://play.webradio-hosting.com:8036/stream",
+    "country": "Colombia",
+    "image": "cropped-fav-icon-180x180.png"
+  },
+  {
+    "id": "42049",
+    "name": "Radio Kibut",
+    "url": "https://www.radioking.com/play/radiokibut",
+    "country": "Colombia",
+    "image": "radio-kibut-final-A3QraZL1w2HrrpG0.png"
+  },
+  {
+    "id": "42050",
+    "name": "Rádió Koko",
+    "url": "https://az10.yesstreaming.net:8210/radiokoko",
+    "country": "Colombia",
+    "image": "koko.jpg"
+  },
+  {
+    "id": "42051",
+    "name": "Radio Marketescu Travel",
+    "url": "https://s103.radiolize.com:8020/radio.mp3",
+    "country": "Colombia",
+    "image": "Travel.png"
+  },
+  {
+    "id": "42054",
+    "name": "Autobaza Radio",
+    "url": "http://live.smartradio.ro:9128/live",
+    "country": "Colombia",
+    "image": "logo-autobaza-radio-alb.png"
+  },
+  {
+    "id": "42056",
+    "name": "Cross One Radio",
+    "url": "https://lb01.bpstream.com:8630/;",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "42057",
+    "name": "Dark Edge Radio",
+    "url": "https://stream.darkedge.ro:8002/stream/4/",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "42058",
+    "name": "One FM Dance Station",
+    "url": "https://live.kissfm.ro/onefm.aacp",
+    "country": "Colombia",
+    "image": "onefm-logo.png"
+  },
+  {
+    "id": "42059",
+    "name": "PluszFM",
+    "url": "http://stream2.radiotransilvania.ro:8000/Nagyvarad",
+    "country": "Colombia",
+    "image": "logo-red.png"
+  },
+  {
+    "id": "42060",
+    "name": "Radio Extrem Live",
+    "url": "https://www.radio-extrem.com/asculta",
+    "country": "Colombia",
+    "image": "logo-mobile.png"
+  },
+  {
+    "id": "42061",
+    "name": "Radio GMusic Dance",
+    "url": "https://s10.webradio-hosting.com/proxy/rgmdance/stream",
+    "country": "Colombia",
+    "image": "cropped-fav-icon-180x180.png"
+  },
+  {
+    "id": "42062",
+    "name": "Radio Reîntregirea",
+    "url": "https://live.reintregirea.ro/",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "42063",
+    "name": "radio SOMEȘ",
+    "url": "https://radio.mediacp.eu/stream/radiosomes",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "42064",
+    "name": "Rock Now Radio",
+    "url": "https://listen.rocknowradio.ro/",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "42065",
+    "name": "Siculus Rádió",
+    "url": "http://46.214.17.202:8000/radioac3",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "42069",
+    "name": "West City Radio",
+    "url": "https://radiotrucker.com/en/play/west-city-radio",
+    "country": "Colombia",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "42070",
+    "name": "Erdélyi Magyar Rádió",
+    "url": "https://adas.erdelyimagyarradio.eu:8443/emr",
+    "country": "Colombia",
+    "image": "nocover.png"
+  },
+  {
+    "id": "42071",
+    "name": "MB MUSIC RADIO",
+    "url": "https://s33.myradiostream.com/16150/listen.mp3",
+    "country": "Colombia",
+    "image": "new-logo-mb.png"
+  },
+  {
+    "id": "42072",
+    "name": "Profi Rádió",
+    "url": "http://93.115.174.139:8000/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "42073",
+    "name": "Radio Campus Transilvania",
+    "url": "https://rct.unitbv.ro/shoutcast/;?sid=1",
+    "country": "Colombia",
+    "image": "radio-logo-98940189.png"
+  },
+  {
+    "id": "42074",
+    "name": "Radio Dobrogea",
+    "url": "http://stream.arhivaradiodobrogea.ro:7000/dobrogea.m3u",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "42075",
+    "name": "RADIO EASY BACĂU",
+    "url": "https://ssl.asculta.live/8108/stream",
+    "country": "Colombia",
+    "image": "default.png"
+  },
+  {
+    "id": "42076",
+    "name": "Radio GMusic Relax",
+    "url": "https://play.webradio-hosting.com:8002/stream",
+    "country": "Colombia",
+    "image": "cropped-fav-icon-180x180.png"
+  },
+  {
+    "id": "42077",
+    "name": "Radio Gmusic Retro",
+    "url": "https://s9.webradio-hosting.com/proxy/rgmretro/stream",
+    "country": "Colombia",
+    "image": "cropped-fav-icon-180x180.png"
+  },
+  {
+    "id": "42078",
+    "name": "Radio GMusic Soft",
+    "url": "https://s9.webradio-hosting.com/proxy/rgmsoft/stream",
+    "country": "Colombia",
+    "image": "cropped-fav-icon-180x180.png"
+  },
+  {
+    "id": "42079",
+    "name": "Radio GMusic Trap",
+    "url": "https://s9.webradio-hosting.com/proxy/rgmtrap/stream",
+    "country": "Colombia",
+    "image": "cropped-fav-icon-180x180.png"
+  },
+  {
+    "id": "42080",
+    "name": "Régió Rádió",
+    "url": "https://stream.regioradio.info:8000/radio.mp3",
+    "country": "Colombia",
+    "image": "avatars-000544067565-v5a6ge-t1080x1080.jpg"
+  },
+  {
+    "id": "42082",
+    "name": "Supersonic Radio",
+    "url": "https://radiotrucker.com/en/play/supersonic-radio",
+    "country": "Colombia",
+    "image": "cropped-Favicon-Supersonic-white-512x512px-1-300x300.jpg"
+  },
+  {
+    "id": "42083",
+    "name": "Szépvíz FM",
+    "url": "https://szepvizfm.ro:8000/stream",
+    "country": "Colombia",
+    "image": "3266.png"
+  },
+  {
+    "id": "42085",
+    "name": "Radio GMusic Rock",
+    "url": "https://s9.webradio-hosting.com/proxy/rgmrock/stream",
+    "country": "Colombia",
+    "image": "cropped-fav-icon-180x180.png"
+  },
+  {
+    "id": "42086",
+    "name": "Radio Sighet FM",
+    "url": "http://89.238.227.6:8390/%7CRadio",
+    "country": "Colombia",
+    "image": "default.png"
+  }
+]

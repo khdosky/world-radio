@@ -1,0 +1,4531 @@
+[
+  {
+    "id": "38839",
+    "name": "Exclusively Pink Floyd",
+    "url": "https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38840",
+    "name": "Sky Arabia News TV",
+    "url": "http://stream.skynewsarabia.com/hls/sna_720.m3u8",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-72x72.png"
+  },
+  {
+    "id": "38841",
+    "name": "Exclusively Iron Maiden",
+    "url": "https://streaming.exclusive.radio/er/ironmaiden/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c300.png"
+  },
+  {
+    "id": "38842",
+    "name": "Exclusively ABBA",
+    "url": "https://streaming.exclusive.radio/er/abba/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c300.png"
+  },
+  {
+    "id": "38843",
+    "name": "Exclusive Radio – Bob Marley",
+    "url": "https://streaming.exclusive.radio/er/bobmarley/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38844",
+    "name": "Exclusively Genesis",
+    "url": "https://streaming.exclusive.radio/er/genesis/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38845",
+    "name": "Exclusive Radio – Black Sabbath",
+    "url": "https://streaming.exclusive.radio/er/blacksabbath/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "00db5f78-23c8-40c6-86da-e0b06858e062.jpg"
+  },
+  {
+    "id": "38846",
+    "name": "Exclusive Radio – Queen",
+    "url": "https://streaming.exclusive.radio/er/queen/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38847",
+    "name": "Exclusively Guns N’ Roses",
+    "url": "https://streaming.exclusive.radio/er/gunsnroses/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c300.png"
+  },
+  {
+    "id": "38848",
+    "name": "Exclusively U2",
+    "url": "https://streaming.exclusive.radio/er/u2/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c300.png"
+  },
+  {
+    "id": "38850",
+    "name": "Radio Relax",
+    "url": "https://online.radiorelax.ua/RadioRelax_Int_HD",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38851",
+    "name": "Exclusively The Beatles",
+    "url": "http://streaming.exclusive.radio/er/beatles/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38852",
+    "name": "Exclusively Elvis Presley",
+    "url": "http://streaming.exclusive.radio/er/elvispresley/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38853",
+    "name": "Exclusively Foo Fighters",
+    "url": "https://streaming.exclusive.radio/er/foofighters/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c300.png"
+  },
+  {
+    "id": "38854",
+    "name": "Rolling Stones",
+    "url": "https://streaming.exclusive.radio/er/rollingstones/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38855",
+    "name": "Exclusively Coldplay",
+    "url": "https://streaming.exclusive.radio/er/coldplay/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38856",
+    "name": "Exclusively Dean Martin",
+    "url": "https://streaming.exclusive.radio/er/deanmartin/icecast.audio?_=1407020069",
+    "country": "United Arab Emirates",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "38857",
+    "name": "Bob Dylan",
+    "url": "https://streaming.exclusive.radio/er/bobdylan/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38858",
+    "name": "Jimi Hendrix",
+    "url": "https://streaming.exclusive.radio/er/hendrix/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38859",
+    "name": "Exclusively Italy",
+    "url": "https://streaming.exclusive.radio/er/italy/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38860",
+    "name": "sky news arabia radio",
+    "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-72x72.png"
+  },
+  {
+    "id": "38861",
+    "name": "Exclusively The Cure",
+    "url": "https://streaming.exclusive.radio/er/thecure/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38862",
+    "name": "Exclusively Michael Buble",
+    "url": "https://streaming.exclusive.radio/er/michaelbuble/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38863",
+    "name": "Exclusively Michael Jackson",
+    "url": "https://streaming.exclusive.radio/er/michaeljackson/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38864",
+    "name": "Exclusively Bob Marley",
+    "url": "http://streaming.exclusive.radio/er/bobmarley/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38865",
+    "name": "Exclusively BTS",
+    "url": "https://streaming.exclusive.radio/er/bts/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38866",
+    "name": "Exclusively Pet Shop Boys",
+    "url": "https://streaming.exclusive.radio/er/petshopboys/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38867",
+    "name": "Exclusively Led Zeppelin",
+    "url": "https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38868",
+    "name": "Exclusive Radio Bon Jovi",
+    "url": "http://streaming.exclusive.radio/er/bonjovi/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38869",
+    "name": "Exclusively Eagles",
+    "url": "https://streaming.exclusive.radio/er/eagles/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38870",
+    "name": "Exclusively Led Zeppelin - Only Hits",
+    "url": "https://streaming.exclusive.radio/er-app/ledzeppelinhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38871",
+    "name": "JS Bach - Classical Radio",
+    "url": "https://drive.uber.radio/uber/crjsbach/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120.png"
+  },
+  {
+    "id": "38872",
+    "name": "Exclusively Nirvana",
+    "url": "https://streaming.exclusive.radio/er/nirvana/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38873",
+    "name": "Exclusively Van Halen",
+    "url": "https://streaming.exclusive.radio/er/vanhalen/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38874",
+    "name": "Exclusively Ramones",
+    "url": "https://streaming.exclusive.radio/er/ramones/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38875",
+    "name": "Exclusively Engelbert Humperdinck",
+    "url": "https://streaming.exclusive.radio/er/engelberthumperdinck/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38876",
+    "name": "Classical Radio - Mozart",
+    "url": "https://drive.uber.radio/uber/crmozart/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png"
+  },
+  {
+    "id": "38877",
+    "name": "Stevie Wonder",
+    "url": "https://streaming.exclusive.radio/er/steviewonder/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38878",
+    "name": "Exclusively George Michael",
+    "url": "https://streaming.exclusive.radio/er/georgemichael/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38879",
+    "name": "Exclusively Green Day",
+    "url": "https://streaming.exclusive.radio/er/greenday/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38880",
+    "name": "Exclusively Deep Purple",
+    "url": "https://streaming.exclusive.radio/er/deeppurple/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38881",
+    "name": "Exclusively The Doors",
+    "url": "https://streaming.exclusive.radio/er-app/doors/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38882",
+    "name": "Exclusively Bee Gees",
+    "url": "https://streaming.exclusive.radio/er/beegees/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38883",
+    "name": "Exclusively Taylor Swift",
+    "url": "https://streaming.exclusive.radio/er/taylorswift/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38884",
+    "name": "Radio Classica - Strauss",
+    "url": "https://drive.uber.radio/uber/crstrauss/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png"
+  },
+  {
+    "id": "38885",
+    "name": "Exclusively Shania Twain",
+    "url": "https://streaming.exclusive.radio/er/shaniatwain/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c300.png"
+  },
+  {
+    "id": "38886",
+    "name": "Exclusively ELO",
+    "url": "https://streaming.exclusive.radio/er/elo/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38887",
+    "name": "Exclusively Creedence Clearwater Revival",
+    "url": "https://streaming.exclusive.radio/er/creedence/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38888",
+    "name": "Carpenters",
+    "url": "https://streaming.exclusive.radio/er/carpenters/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38890",
+    "name": "Exclusively Fleetwood Mac",
+    "url": "https://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38891",
+    "name": "Exclusively Santana",
+    "url": "https://streaming.exclusive.radio/er/santana/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38892",
+    "name": "Mirchi FM 102.4",
+    "url": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=/1",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38893",
+    "name": "Exclusively Sting",
+    "url": "https://streaming.exclusive.radio/er/sting/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38894",
+    "name": "Exclusively Nat King Cole",
+    "url": "https://streaming.exclusive.radio/er/natkingcole/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38895",
+    "name": "Classical Radio - London Symphony Orchestra ",
+    "url": "https://drive.uber.radio/uber/crlso/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38896",
+    "name": "Exclusively The Clash",
+    "url": "https://streaming.exclusive.radio/er/theclash/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38897",
+    "name": "Exclusively Stone Temple Pilots",
+    "url": "https://streaming.exclusive.radio/er/stonetemplepilots/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38898",
+    "name": "Aretha Franklin",
+    "url": "https://streaming.exclusive.radio/er/arethafranklin/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38899",
+    "name": "Exclusively Patsy Cline",
+    "url": "https://streaming.exclusive.radio/er/patsycline/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38900",
+    "name": "Exclusively Enrique Iglesias",
+    "url": "https://streaming.exclusive.radio/er/enriqueiglesias/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38901",
+    "name": "Exclusively Alice Cooper (Only Hits)",
+    "url": "https://streaming.exclusive.radio/er/alicecooperhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38902",
+    "name": "Classical Radio - Vivaldi",
+    "url": "https://drive.uber.radio/uber/crvivaldi/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png"
+  },
+  {
+    "id": "38903",
+    "name": "Classical Radio - Beethoven",
+    "url": "https://drive.uber.radio/uber/crbeethoven/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png"
+  },
+  {
+    "id": "38904",
+    "name": "Exclusively Eric Clapton",
+    "url": "https://streaming.exclusive.radio/er/ericclapton/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38905",
+    "name": "Easy Classical",
+    "url": "https://streaming.exclusive.radio/uber/easyclassical/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38906",
+    "name": "Classical Radio - Chopin",
+    "url": "https://drive.uber.radio/uber/crchopin/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png"
+  },
+  {
+    "id": "38907",
+    "name": "Exclusively John Coltrane",
+    "url": "http://streaming.exclusive.radio/er/johncoltrane/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38908",
+    "name": "Exclusively AHA",
+    "url": "https://streaming.exclusive.radio/er/aha/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38909",
+    "name": "Exclusively Paul McCartney",
+    "url": "https://streaming.exclusive.radio/er/paulmccartney/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38910",
+    "name": "Tinder Radio - Bollywood",
+    "url": "https://drive.uber.radio/uber/bollywoodmix/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38911",
+    "name": "Exclusively Johnny Cash",
+    "url": "https://streaming.exclusive.radio/er/johnnycash/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38912",
+    "name": "Exclusively Aerosmith",
+    "url": "https://streaming.exclusive.radio/er/aerosmith/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38913",
+    "name": "Exclusively John Lennon",
+    "url": "https://streaming.exclusive.radio/er/lennon/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38914",
+    "name": "Positively Good Morning -om",
+    "url": "https://streaming.positivity.radio/pr/goodmorning/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "69d4c30d-96a8-4ee1-9134-03a69d048519.png"
+  },
+  {
+    "id": "38915",
+    "name": "Exclusively Blondie",
+    "url": "https://streaming.exclusive.radio/er/blondie/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38916",
+    "name": "Exclusively Roxette",
+    "url": "https://streaming.exclusive.radio/er/roxette/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38917",
+    "name": "Exclusively Simon And Garfunkel",
+    "url": "https://streaming.exclusive.radio/er/simongarfunkle/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38918",
+    "name": "Classical Radio - André Rieu ",
+    "url": "https://drive.uber.radio/uber/crandrerieu/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38919",
+    "name": "Exclusively A-Ha",
+    "url": "https://streaming.exclusive.radio/er/aha/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38920",
+    "name": "Exclusively Shakira",
+    "url": "https://streaming.exclusive.radio/er/shakira/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38921",
+    "name": "Exclusively Kelly Clarkson",
+    "url": "https://streaming.exclusive.radio/er/kellyclarkson/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38922",
+    "name": "Exclusively Tony Bennett",
+    "url": "https://streaming.exclusive.radio/er/tonybennett/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38923",
+    "name": "Miles Davis",
+    "url": "https://streaming.exclusive.radio/er/milesdavis/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38924",
+    "name": "Ella Fitzgerald",
+    "url": "https://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38925",
+    "name": "Exclusively Stevie Wonder",
+    "url": "https://streaming.exclusive.radio/er/steviewonder/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38926",
+    "name": "Exclusively Daft Punk",
+    "url": "https://www.surfmusik.de/m3u/exclusively-daft-punk,20696.m3u",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38927",
+    "name": "Classical Radio  -  Chicago Symphony Orchestra ",
+    "url": "https://drive.uber.radio/uber/crchicagosymphonyorchestra/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38928",
+    "name": "Exclusively Supertramp",
+    "url": "https://streaming.exclusive.radio/er/supertramp/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38929",
+    "name": "Exclusively The Who - Only Hits",
+    "url": "https://streaming.exclusive.radio/er-app/whohits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38930",
+    "name": "Exclusively Cher",
+    "url": "https://streaming.exclusive.radio/er/cher/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38931",
+    "name": "Van Morrison",
+    "url": "https://streaming.exclusive.radio/er/vanmorrison/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38932",
+    "name": "Exclusively Frank Sinatra",
+    "url": "http://streaming.exclusive.radio/er/franksinatra/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c300.png"
+  },
+  {
+    "id": "38933",
+    "name": "Classical Radio - Handel",
+    "url": "https://drive.uber.radio/uber/crhandel/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38934",
+    "name": "Exclusively Whitney Houston",
+    "url": "https://streaming.exclusive.radio/er/whitneyhouston/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38935",
+    "name": "Exclusively Roy Orbison",
+    "url": "https://streaming.exclusive.radio/er/royorbison/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38936",
+    "name": "Exclusively Annie Lennox",
+    "url": "https://streaming.exclusive.radio/er/annielennox/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38937",
+    "name": "Exclusively The Police -  Hits",
+    "url": "https://streaming.exclusive.radio/er/policehits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38938",
+    "name": "Fun Radio For Kids - Bedtime Stories",
+    "url": "https://drive.uber.radio/uber/forkidzbedtimestories/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38939",
+    "name": "Exclusively Adele",
+    "url": "https://streaming.exclusive.radio/er/adele/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38940",
+    "name": "Exclusively Carpenters",
+    "url": "https://streaming.exclusive.radio/er/carpenters/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38941",
+    "name": "Exclusively Jethro Tull",
+    "url": "https://streaming.exclusive.radio/er/jethrotull/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38942",
+    "name": "Big FM 106.2 UAE",
+    "url": "https://funasia.streamguys1.com/live4",
+    "country": "United Arab Emirates",
+    "image": "BIG-02.png"
+  },
+  {
+    "id": "38943",
+    "name": "Classical Radio - John Williams (guitarist)",
+    "url": "https://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png"
+  },
+  {
+    "id": "38944",
+    "name": "Exclusively REM",
+    "url": "https://streaming.exclusive.radio/er/rem/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38945",
+    "name": "Exclusively Backstreet Boys",
+    "url": "https://streaming.exclusive.radio/er/backstreetboys/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38946",
+    "name": "Exclusively Depeche Mode",
+    "url": "https://streaming.exclusive.radio/er/depechemode/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38947",
+    "name": "Exclusively Neil Young",
+    "url": "https://streaming.exclusive.radio/er/neilyoung/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38949",
+    "name": "Exclusively Britney Spears",
+    "url": "https://streaming.exclusive.radio/er/britney/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38950",
+    "name": "Classical Radio - Wagner",
+    "url": "https://drive.uber.radio/uber/crwagner/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png"
+  },
+  {
+    "id": "38951",
+    "name": "Love Radio - Bollywood",
+    "url": "https://drive.uber.radio/uber/lrbollywood/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38952",
+    "name": "Classical Radio - Tchaikovsky",
+    "url": "https://drive.uber.radio/uber/crtchaikovsky/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png"
+  },
+  {
+    "id": "38953",
+    "name": "Ray Charles",
+    "url": "https://streaming.exclusive.radio/er/raycharles/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38955",
+    "name": "Exclusively Lionel Richie",
+    "url": "https://streaming.exclusive.radio/er/lionelrichie/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38956",
+    "name": "Exclusively Tom Jones",
+    "url": "https://streaming.exclusive.radio/er/tomjones/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38957",
+    "name": "Classical Radio - Luciano Pavarotti",
+    "url": "https://drive.uber.radio/uber/crlucianopavarotti/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38958",
+    "name": "Barbra Streisand",
+    "url": "https://streaming.exclusive.radio/er/streisand/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38959",
+    "name": "Exclusively Bob Dylan",
+    "url": "https://streaming.exclusive.radio/er/bobdylan/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38960",
+    "name": "Exclusively John Denver",
+    "url": "https://streaming.exclusive.radio/er/johndenver/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38961",
+    "name": "Exclusively Steely Dan",
+    "url": "https://streaming.exclusive.radio/er/steelydan/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38962",
+    "name": "Exclusively  Michael Jackson ",
+    "url": "https://streaming.exclusive.radio/er/michaeljackson/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38963",
+    "name": "Exclusively Dolly Parton",
+    "url": "https://streaming.exclusive.radio/er/dollyparton/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38964",
+    "name": "Exclusively The Allman Brothers Band",
+    "url": "https://streaming.exclusive.radio/er/allmanbrothers/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38965",
+    "name": "Exclusive Radio - Italy",
+    "url": "http://streaming.exclusive.radio/er/italy/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38966",
+    "name": "Classical Radio - Bavarian Radio Symphony Orchestr",
+    "url": "https://drive.uber.radio/uber/crbavarianradioorchestra/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38967",
+    "name": "ER Willie Nelson",
+    "url": "http://streaming.exclusive.radio/er/willienelson/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "android-icon-192x192.png"
+  },
+  {
+    "id": "38968",
+    "name": "Classical Radio - Brahms",
+    "url": "https://drive.uber.radio/uber/crbrahms/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png"
+  },
+  {
+    "id": "38969",
+    "name": "Easy Instrumentals",
+    "url": "https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38970",
+    "name": "Exclusively Cliff Richard",
+    "url": "https://streaming.exclusive.radio/er/cliffrichard/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38971",
+    "name": "Classical Radio - Schubert",
+    "url": "https://drive.uber.radio/uber/crschubert/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png"
+  },
+  {
+    "id": "38972",
+    "name": "Exclusively Prince",
+    "url": "https://streaming.exclusive.radio/er/prince/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38973",
+    "name": "Exclusively America",
+    "url": "https://streaming.exclusive.radio/er/america/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38974",
+    "name": "Exclusively David Bowie",
+    "url": "https://streaming.exclusive.radio/er/davidbowie/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38975",
+    "name": "Exclusively Tom Petty",
+    "url": "https://streaming.exclusive.radio/er/tompetty/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38976",
+    "name": "Exclusively Jimi Hendrix",
+    "url": "https://streaming.exclusive.radio/er/hendrix/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38977",
+    "name": "Exclusively Cat Stevens ",
+    "url": "https://streaming.exclusive.radio/er/catstevens/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38978",
+    "name": "Exclusively Sade",
+    "url": "http://2.mystreaming.net/er/sade/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "84bbdae1-3fba-4fab-a9b4-86d31db702a5.jpg"
+  },
+  {
+    "id": "38979",
+    "name": "Classical Radio - Debussy",
+    "url": "https://drive.uber.radio/uber/crdebussy/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png"
+  },
+  {
+    "id": "38980",
+    "name": "Exclusively 50 Cent",
+    "url": "https://streaming.exclusive.radio/er/50cent/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38981",
+    "name": "Exclusively Moby",
+    "url": "https://streaming.exclusive.radio/er/moby/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38982",
+    "name": "Exclusively INXS",
+    "url": "https://streaming.exclusive.radio/er/INXS/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38983",
+    "name": "Exclusively Joe Bonamassa",
+    "url": "https://streaming.exclusive.radio/er/joebonamassa/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38984",
+    "name": "Exclusively Peter Frampton",
+    "url": "https://streaming.exclusive.radio/er/peterframpton/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38985",
+    "name": "Exclusively The Byrds",
+    "url": "https://streaming.exclusive.radio/er/thebyrds/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38986",
+    "name": "Classical Radio - Verdi",
+    "url": "https://drive.uber.radio/uber/crverdi/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png"
+  },
+  {
+    "id": "38987",
+    "name": "Exclusively ELO-Hits",
+    "url": "https://streaming.exclusive.radio/er/elohits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38988",
+    "name": "Exclusively Joe Satriani",
+    "url": "https://streaming.exclusive.radio/er/joesatriani/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38989",
+    "name": "Positively Meditation -om",
+    "url": "https://streaming.positivity.radio/pr/posimeditation/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "6b82f1f4-8ac2-4d42-9908-34c40c79a257.png"
+  },
+  {
+    "id": "38990",
+    "name": "Dubai Holy Quran",
+    "url": "https://uk5.internet-radio.com/proxy/dubaiholyquran?mp=/stream;",
+    "country": "United Arab Emirates",
+    "image": "favicon.png"
+  },
+  {
+    "id": "38991",
+    "name": "Exclusively Thin Lizzy",
+    "url": "https://streaming.exclusive.radio/er/thinlizzy/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "38992",
+    "name": "Classical Radio  - Sibelius",
+    "url": "https://drive.uber.radio/uber/crsibelius/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38993",
+    "name": "Easy Doris Day",
+    "url": "https://streaming.exclusive.radio/uber/easydorisday/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38994",
+    "name": "Exclusively The Kinks",
+    "url": "https://streaming.exclusive.radio/er/thekinks/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38995",
+    "name": "Classical Radio - Shostakovich",
+    "url": "https://drive.uber.radio/uber/crshostakovich/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "a658ac8819a0668d2d6cc678e3efd96e.jpg_size_70x70"
+  },
+  {
+    "id": "38996",
+    "name": "Easy James Last",
+    "url": "https://streaming.exclusive.radio/uber/easyjameslast/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38997",
+    "name": "Virgin Radio Dubai 104.4 FM",
+    "url": "https://radio.virginradio.co.uk/stream",
+    "country": "United Arab Emirates",
+    "image": "5e4291c8edb12.png"
+  },
+  {
+    "id": "38998",
+    "name": "exclusive BB King",
+    "url": "https://streaming.exclusive.radio/er/bbking/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "38999",
+    "name": "Exclusively John Lee Hooker",
+    "url": "https://streaming.exclusive.radio/er/johnleehooker/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39000",
+    "name": "Exclusively Amy Winehouse",
+    "url": "https://streaming.exclusive.radio/er/amywinehouse/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39002",
+    "name": "Classical Radio - Berlin Philharmonic",
+    "url": "https://drive.uber.radio/uber/crberlinphilharmonic/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39003",
+    "name": "Maria Callas - Classical Radio ",
+    "url": "https://drive.uber.radio/uber/crmariacallas/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39004",
+    "name": "Exclusively Lynyrd Skynyrd",
+    "url": "https://streaming.exclusive.radio/er/thinlizzy/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39005",
+    "name": "Exclusively Radio Italy",
+    "url": "https://streaming.exclusive.radio/er/italy/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39006",
+    "name": "Cleveland Orchestra - Classical Radio ",
+    "url": "https://drive.uber.radio/uber/crclevelandorchestra/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39007",
+    "name": "Love Radio - Indie Romance",
+    "url": "https://drive.uber.radio/uber/lrindieromance/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "116702.v1.png"
+  },
+  {
+    "id": "39008",
+    "name": "Exclusively Rory Gallagher",
+    "url": "https://streaming.exclusive.radio/er/rorygallagher/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39009",
+    "name": "Herbert Von Karajan - Classical Radio ",
+    "url": "https://drive.uber.radio/uber/crherbertvonkarajan/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "herbert-von-karajan01.jpg"
+  },
+  {
+    "id": "39010",
+    "name": "Classical Radio - CALM",
+    "url": "https://drive.uber.radio/uber/crcalm/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39011",
+    "name": "Classical Radio - Vienna Philharmonic",
+    "url": "https://drive.uber.radio/uber/crviennaphilharmonic/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39012",
+    "name": "StarBox Soft Rock",
+    "url": "https://drive.uber.radio/uber/starboxsoftrock/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39013",
+    "name": "Classical Radio - Liszt",
+    "url": "https://drive.uber.radio/uber/crliszt/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "683282aa68794c0b0b2d182b04efaad9.jpg_size_70x70"
+  },
+  {
+    "id": "39014",
+    "name": "Exclusively 2Pac",
+    "url": "https://streaming.exclusive.radio/er/2pac/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39015",
+    "name": "Exclusively Janet Jackson",
+    "url": "https://streaming.exclusive.radio/er/janetjackson/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39016",
+    "name": "Exclusively Gary Moore",
+    "url": "https://streaming.exclusive.radio/er/garymoore/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39017",
+    "name": "Beethoven - Classical Radio",
+    "url": "http://drive.uber.radio/uber/crbeethoven/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39018",
+    "name": "Exclusively Bad Company",
+    "url": "https://streaming.exclusive.radio/er/badcompany/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39020",
+    "name": "Vanessa Mae - Classical Radio",
+    "url": "https://drive.uber.radio/uber/crvanessamae/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "img_6934.jpg"
+  },
+  {
+    "id": "39021",
+    "name": "Berlin Philharmonic Orchestra - Classical Radio\n",
+    "url": "https://drive.uber.radio/uber/crberlinphilharmonic/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39022",
+    "name": "Exclusively The Cure",
+    "url": "https://streaming.exclusive.radio/er/thecure/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39023",
+    "name": "Andrea Bocelli - Classical Radio ",
+    "url": "https://drive.uber.radio/uber/crandreabocelli/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39024",
+    "name": "Exclusively Justin Timberlake",
+    "url": "https://streaming.exclusive.radio/er/justintimberlake/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39025",
+    "name": "Exclusive Queen",
+    "url": "https://streaming.exclusive.radio/er/queen/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c300.png"
+  },
+  {
+    "id": "39026",
+    "name": "Positively Sleep Relax -om",
+    "url": "https://streaming.positivity.radio/pr/sleeprelax/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "908c3c4f-367a-4962-b9ea-8a2f458e80da.png"
+  },
+  {
+    "id": "39027",
+    "name": "Exclusively Radio - Charlie Parker",
+    "url": "https://streaming.exclusive.radio/er/charlieparker/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "CP_Gallery_550x550_006_MAR22.jpg"
+  },
+  {
+    "id": "39028",
+    "name": "Classica Radio - Ravel",
+    "url": "https://drive.uber.radio/uber/crravel/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39029",
+    "name": "Classical Radio - New Releases",
+    "url": "https://drive.uber.radio/uber/crnewreleases/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39030",
+    "name": "Exclusively Keane",
+    "url": "https://streaming.exclusive.radio/er/keane/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39031",
+    "name": "Easy 60s",
+    "url": "https://streaming.exclusive.radio/uber/easy60/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "2c35413f-17b5-43c5-aaa4-b930a2578ce0.png"
+  },
+  {
+    "id": "39032",
+    "name": " Exclusively The Eagles ",
+    "url": "https://streaming.exclusive.radio/er/eagles/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39033",
+    "name": "Exclusively Christina Aguilera",
+    "url": "https://streaming.exclusive.radio/er/christinaaguilera/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39034",
+    "name": "Greatest Hits 2000's",
+    "url": "https://drive.uber.radio/uber/boomerang2000s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39035",
+    "name": "C.R. - Handel",
+    "url": "http://drive.uber.radio/uber/crhandel/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39036",
+    "name": "Exclusively Radio-Italy",
+    "url": "https://streaming.exclusive.radio/er/italy/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39039",
+    "name": "Exclusively Status Quo",
+    "url": "https://streaming.exclusive.radio/er/statusquo/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39040",
+    "name": "Exclusively The Weeknd",
+    "url": "https://streaming.exclusive.radio/er/theweeknd/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39041",
+    "name": "Exclusively The Beach Boys",
+    "url": "https://streaming.exclusive.radio/er/beachboys/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39042",
+    "name": "Exclusively Billy Joel",
+    "url": "https://streaming.exclusive.radio/er/billyjoel/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39044",
+    "name": "Exclusively Justin Bieber",
+    "url": "https://streaming.exclusive.radio/er/justinbieber/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39045",
+    "name": "Classical Radio - Vladamir Horowitz",
+    "url": "https://drive.uber.radio/uber/crvladamirhorowitz/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39046",
+    "name": "Rock The World - Heavy Metal",
+    "url": "https://drive.uber.radio/uber/rtwheavymetal/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "9f9e3c8f-59ee-47dd-ab88-32bbd1547223.png"
+  },
+  {
+    "id": "39047",
+    "name": "Exclusively Barbra Streisand",
+    "url": "https://streaming.exclusive.radio/er/streisand/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39048",
+    "name": " Exclusively Madonna",
+    "url": "https://streaming.exclusive.radio/er/madonna/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "af0845bf-87b2-4abd-a401-8e0029bb2696.png"
+  },
+  {
+    "id": "39049",
+    "name": "Exclusively The Temptations",
+    "url": "https://streaming.exclusive.radio/er/thetemptations/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39050",
+    "name": "Easy 60s",
+    "url": "https://streaming.exclusive.radio/uber/easy60/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "7005fe06-7505-43c7-8086-6b5598332562.png"
+  },
+  {
+    "id": "39051",
+    "name": "Exclusively Adele (Only Hits)",
+    "url": "https://streaming.exclusive.radio/er/adelehits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39053",
+    "name": "Greatest Hits 1980's",
+    "url": "https://drive.uber.radio/uber/boomerang1980s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39054",
+    "name": "The Who Radio - Only Hits",
+    "url": "https://streaming.exclusive.radio/er-app/whohits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39056",
+    "name": "C.R - London Symphony Orchestra",
+    "url": "http://drive.uber.radio/uber/crlso/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39058",
+    "name": "Greatest Hits 1920's",
+    "url": "https://drive.uber.radio/uber/boomerang1920s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39059",
+    "name": "Positively 1950's",
+    "url": "https://streaming.positivity.radio/pr/1950/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39062",
+    "name": "Just Jazz The Best Of Jazz",
+    "url": "https://drive.uber.radio/uber/starboxjazz/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39063",
+    "name": "Positively 1940's",
+    "url": "https://streaming.positivity.radio/pr/1940/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-114x114.png"
+  },
+  {
+    "id": "39065",
+    "name": ".Quran Radio",
+    "url": "https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjKoABHgAdULpynjQ7EwB6A",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39066",
+    "name": "C.R. - Maria Callas",
+    "url": "http://drive.uber.radio/uber/crmariacallas/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39067",
+    "name": "Classical Radio  - Sir Colin Davis",
+    "url": "https://drive.uber.radio/uber/crcolindavis/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39068",
+    "name": "Easy Andrea Bocelli",
+    "url": "https://streaming.exclusive.radio/uber/easyandreabocelli/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39069",
+    "name": "Jacqueline Du Pre' - Classical Radio ",
+    "url": "https://drive.uber.radio/uber/crjacquelinedurpre/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "Remembering_20Jackie_2004.jpg"
+  },
+  {
+    "id": "39070",
+    "name": "Love Radio - Turkish Love songs",
+    "url": "https://drive.uber.radio/uber/lrturkish/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39071",
+    "name": "Classical Radio  - Stravinsky",
+    "url": "https://drive.uber.radio/uber/crstravinsky/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39072",
+    "name": "Classical Radio - Andres Segovia",
+    "url": "https://drive.uber.radio/uber/crandressegovia/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39073",
+    "name": "Easy Crooners",
+    "url": "https://streaming.exclusive.radio/uber/easycrooners/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "8fb8c0b2-e5c6-4419-a15e-7705a5b072aa.png"
+  },
+  {
+    "id": "39074",
+    "name": "Katherine Jenkins - Classical Radio ",
+    "url": "https://drive.uber.radio/uber/crkatherinejenkins/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39075",
+    "name": "Sportify bollywood workout ",
+    "url": "https://drive.uber.radio/uber/sportifybollywood/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39076",
+    "name": "StarBox Reggae",
+    "url": "https://drive.uber.radio/uber/starboxreggae/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39077",
+    "name": "C.R. - Stravinsky",
+    "url": "http://drive.uber.radio/uber/crstravinsky/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39078",
+    "name": "Dubai Eye 103.8",
+    "url": "https://gbradio.cdn.tibus.net/U105?aw_0_1st.playerId=wireless-website&_=477645",
+    "country": "United Arab Emirates",
+    "image": "5e43bc327c028.png"
+  },
+  {
+    "id": "39079",
+    "name": "Exclusively Beastie Boys",
+    "url": "https://streaming.exclusive.radio/er-app/beastieboys/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39080",
+    "name": "Greatest Hits 1970's",
+    "url": "https://drive.uber.radio/uber/boomerang1970s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39081",
+    "name": "Love Radio - Romantic Piano",
+    "url": "https://drive.uber.radio/uber/lrromanticpiano/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39083",
+    "name": "Easy Doris Day",
+    "url": "http://streaming.exclusive.radio/uber/easybertkaempfert/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39084",
+    "name": "Classical Radio - Malcolm Sargent",
+    "url": "https://drive.uber.radio/uber/crmalcolmsargent/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39085",
+    "name": "Classical Radio - John Williams",
+    "url": "https://drive.uber.radio/uber/crjohnwilliams/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png"
+  },
+  {
+    "id": "39087",
+    "name": "Arturo Toscanini - Classical Radio ",
+    "url": "https://drive.uber.radio/uber/crarturotoscanini/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39088",
+    "name": "Classical Radio - Liszt",
+    "url": "https://drive.uber.radio/uber/crvanessamae/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39089",
+    "name": "Exclusively Allman Brothers",
+    "url": "https://streaming.exclusive.radio/er/allmanbrothers/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39091",
+    "name": "Exclusively Boston",
+    "url": "https://streaming.exclusive.radio/er/boston/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39092",
+    "name": "Country Music Radio",
+    "url": "https://drive.uber.radio/uber/cmr50scountry/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39093",
+    "name": "Exclusively Genesis",
+    "url": "https://2.mystreaming.net/er/genesis/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "e82e9b96-c422-49ac-99fc-ae6cf3747bef.jpg"
+  },
+  {
+    "id": "39094",
+    "name": "Greatest Hits 1950's",
+    "url": "https://drive.uber.radio/uber/boomerang1950s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39095",
+    "name": "Julian Lloyd Webber - Classical Radio ",
+    "url": "https://drive.uber.radio/uber/crjulianlloydwebber/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39096",
+    "name": "C.R. - John Williams  (Guitarist)",
+    "url": "http://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39097",
+    "name": "Exclusively Huey Lewis & The News",
+    "url": "https://nl4.mystreaming.net/er/hueylewis/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "73d1d42d-f942-4273-8cd7-377ad6077a5f.jpg"
+  },
+  {
+    "id": "39098",
+    "name": "Exclusively Mobi",
+    "url": "https://streaming.exclusive.radio/er/moby/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39099",
+    "name": "Exclusively Amy Wibehouse",
+    "url": "https://streaming.exclusive.radio/er/amywinehouse/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39100",
+    "name": "Julian Bream - Classical Radio",
+    "url": "https://drive.uber.radio/uber/crjulianbream/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39101",
+    "name": "Exclusively Take That",
+    "url": "https://streaming.exclusive.radio/er/takethat/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39102",
+    "name": "C.R. - Sibelius",
+    "url": "http://drive.uber.radio/uber/crsibelius/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39103",
+    "name": "Classical Radio - Ralph Vaughan Williams",
+    "url": "https://drive.uber.radio/uber/crralphvaughanwilliams/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39104",
+    "name": "Exclusive Jefferson Airplane",
+    "url": "https://streaming.exclusive.radio/er/jeffersonairplane/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c300.png"
+  },
+  {
+    "id": "39105",
+    "name": "Exclusive Radio - Aretha Franklin",
+    "url": "https://streaming.exclusive.radio/er/arethafranklin/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39106",
+    "name": "Exclusively Crosby, Stills, Nash & Young",
+    "url": "http://2.mystreaming.net/er/csny/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "b49ea016-ef45-4560-9b42-2a28beef7520.jpg"
+  },
+  {
+    "id": "39107",
+    "name": "Exclusively Dean Martin",
+    "url": "https://streaming.exclusive.radio/er/deanmartin/icecast.audio?_=1407020069",
+    "country": "United Arab Emirates",
+    "image": "c300.png"
+  },
+  {
+    "id": "39108",
+    "name": "Greatest Hits 2020's",
+    "url": "https://drive.uber.radio/uber/boomerang2020s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39109",
+    "name": "Love Radio - 50s",
+    "url": "https://drive.uber.radio/uber/lr1950s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39110",
+    "name": "Positively 1930's",
+    "url": "https://streaming.positivity.radio/pr/1930/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39111",
+    "name": "Positively 1960's",
+    "url": "https://streaming.positivity.radio/pr/posi60s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39112",
+    "name": "Positively 1990's",
+    "url": "https://streaming.positivity.radio/pr/posi90s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39113",
+    "name": "Easy Country",
+    "url": "https://streaming.exclusive.radio/uber/easycountry/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39114",
+    "name": "Exclusively Amy Winehouse (Only Hits)",
+    "url": "https://streaming.exclusive.radio/er/amywinehousehits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39115",
+    "name": "Greatest Hits 1930's",
+    "url": "https://drive.uber.radio/uber/boomerang1930s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39116",
+    "name": "Just Jazz charles Mingus",
+    "url": "https://drive.uber.radio/uber/jjrcharlesmingus/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39117",
+    "name": "Just Jazz Chet Baker",
+    "url": "https://drive.uber.radio/uber/jjrchetbaker/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39118",
+    "name": "C.R. - Tchaikovsky ",
+    "url": "http://drive.uber.radio/uber/crtchaikovsky/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39120",
+    "name": "Classical Radio - Andrea Segovia",
+    "url": "https://drive.uber.radio/uber/crandressegovia/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39122",
+    "name": "Exclusively Joan Baez",
+    "url": "https://streaming.exclusive.radio/er/joanbaez/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39123",
+    "name": "Tinder Radio Hollywood & Broadway Musicals",
+    "url": "https://streaming.exclusive.radio/er/hollywoodandbroadway/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c9e3d176-babb-4195-a8c5-d7915abca91a.png"
+  },
+  {
+    "id": "39124",
+    "name": "C.R - Mozart",
+    "url": "http://drive.uber.radio/uber/crmozart/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png"
+  },
+  {
+    "id": "39125",
+    "name": "Classical Radio - Essential Classics",
+    "url": "https://drive.uber.radio/uber/cressentialclassics/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png"
+  },
+  {
+    "id": "39126",
+    "name": "Exclusively Frank Sinatra",
+    "url": "https://2.mystreaming.net/er/franksinatra/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c1dddbeb-24eb-4f77-8fe4-594956fc5c68.jpg"
+  },
+  {
+    "id": "39127",
+    "name": "Kiri Te Kanawa - Classical Radio ",
+    "url": "https://drive.uber.radio/uber/crkiritekanawa/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39128",
+    "name": "Positively 1980's",
+    "url": "https://streaming.positivity.radio/pr/posi80s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39129",
+    "name": "Exclusively Air Supply",
+    "url": "https://streaming.exclusive.radio/er/airsupply/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39130",
+    "name": "Classical Radio - Joan Sutherland",
+    "url": "https://drive.uber.radio/uber/crjoansutherland/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39131",
+    "name": "Exclusively 10cc",
+    "url": "https://streaming.exclusive.radio/er/10cc/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "34.png"
+  },
+  {
+    "id": "39133",
+    "name": "Bavarian Radio Symphony Orchestra",
+    "url": "https://drive.uber.radio/uber/crbavarianradioorchestra/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39134",
+    "name": "Boomerang 2000s",
+    "url": "https://drive.uber.radio/uber/boomerang2000s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39135",
+    "name": "Exclusively James Taylor",
+    "url": "http://2.mystreaming.net/er/jamestaylor/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "e66c65c6-3e83-4d42-b41a-a7cc198a4f88.jpg"
+  },
+  {
+    "id": "39136",
+    "name": "Exclusively Peter Gabriel",
+    "url": "https://nl4.mystreaming.net/er/petergabriel/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "f5d2bc84-34f8-417b-9d0e-55470919cc16.jpg"
+  },
+  {
+    "id": "39137",
+    "name": "Marin Alsop - Classical Radio ",
+    "url": "https://drive.uber.radio/uber/crmarinalsop/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39138",
+    "name": "Positively 2000's",
+    "url": "https://streaming.positivity.radio/pr/posi00s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39139",
+    "name": "Positively Peaceful 432Hz -om",
+    "url": "https://streaming.positivity.radio/pr/posipeaceful/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "flower-life-colorful-illustration-white-background-34947889.jpg"
+  },
+  {
+    "id": "39141",
+    "name": "C.R. - André Rieu ",
+    "url": "http://drive.uber.radio/uber/crandrerieu/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39142",
+    "name": "Love Radio - 80s",
+    "url": "https://drive.uber.radio/uber/lr1980s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39143",
+    "name": "Boomerang 50's",
+    "url": "https://drive.uber.radio/uber/boomerang1950s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39144",
+    "name": "C.R. - Chopin",
+    "url": "http://drive.uber.radio/uber/crchopin/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39145",
+    "name": "C.R. - Vienna Philarmonic Orchestra",
+    "url": "http://drive.uber.radio/uber/crviennaphilharmonic/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39146",
+    "name": "Classical Radio  - Katherine Jenkins",
+    "url": "https://drive.uber.radio/uber/crkatherinejenkins/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39147",
+    "name": "Classical Radio - Yehudi Menuin ",
+    "url": "https://drive.uber.radio/uber/cryehudimenuin/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "yehudi-menuhin02.jpg"
+  },
+  {
+    "id": "39148",
+    "name": "Love Radio - 60s",
+    "url": "https://drive.uber.radio/uber/lr1960s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39149",
+    "name": "C.R. - Chicago Symphony Orchestra ",
+    "url": "http://drive.uber.radio/uber/crchicagosymphonyorchestra/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39150",
+    "name": "Exclusively Demi Lovato",
+    "url": "https://streaming.exclusive.radio/er/demilovato/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39151",
+    "name": "Greatest Hits 2010's",
+    "url": "https://drive.uber.radio/uber/boomerang2010s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39152",
+    "name": "Exclusively Booker T & The MG's",
+    "url": "https://2.mystreaming.net/er/bookert/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "4c18ce0f-9e44-4e7d-9ee3-03071eb7c6ca.jpg"
+  },
+  {
+    "id": "39154",
+    "name": "Tinder Radio - Christmas Carols",
+    "url": "https://streaming.exclusive.radio/er/christmascarols/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "9af2a0dc-ea99-4bcc-9752-a18c7f2e2e06.png"
+  },
+  {
+    "id": "39155",
+    "name": "Greatest Hits 1960's",
+    "url": "https://drive.uber.radio/uber/boomerang1960s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39156",
+    "name": "Positively 1970's",
+    "url": "https://streaming.positivity.radio/pr/posi70s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39157",
+    "name": "Classical Radio  - Lang Lang",
+    "url": "https://drive.uber.radio/uber/crlanglang/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39158",
+    "name": "Classical Radio - Nigel Kennedy",
+    "url": "https://drive.uber.radio/uber/crnigelkennedy/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39159",
+    "name": "Greatest Hits 1990's",
+    "url": "https://drive.uber.radio/uber/boomerang1990s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39160",
+    "name": "Just Jazz Benny Goodman",
+    "url": "https://drive.uber.radio/uber/jjrbennygoodman/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39161",
+    "name": "Classical Radio - Sir Simon Rattle",
+    "url": "https://drive.uber.radio/uber/crsimonrattle/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39162",
+    "name": "Exclusively Post Malone",
+    "url": "http://streaming.exclusive.radio/er/postmalone/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39163",
+    "name": "C.R. - Royal Concert Orchestra of Netherlands",
+    "url": "http://drive.uber.radio/uber/crrcon/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39164",
+    "name": "Classical Radio - Andrea Bocelli",
+    "url": "https://drive.uber.radio/uber/crandreabocelli/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39165",
+    "name": "Mozart - Classical Radio",
+    "url": "https://drive.uber.radio/uber/crmozart/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39167",
+    "name": "Easy 70s",
+    "url": "https://streaming.exclusive.radio/uber/easy70/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "314e0fdd-80a2-4361-9786-706d37306b71.png"
+  },
+  {
+    "id": "39168",
+    "name": "C.R. - J.S. Bach",
+    "url": "http://drive.uber.radio/uber/crjsbach/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39169",
+    "name": "C.R. - Vivaldi",
+    "url": "http://drive.uber.radio/uber/crvivaldi/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39170",
+    "name": "Exclusively Alison Moyet",
+    "url": "https://streaming.exclusive.radio/er/alisonmoyet/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39171",
+    "name": "Exclusively Bob Dylan",
+    "url": "http://streaming.exclusive.radio/er/bobdylan/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39172",
+    "name": "Exclusively Dire Straits",
+    "url": "https://2.mystreaming.net/er/direstraits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "6fbeb789-537d-46b5-8862-83d4e948b520.jpg"
+  },
+  {
+    "id": "39173",
+    "name": "Love Radio - 70s",
+    "url": "https://drive.uber.radio/uber/lr1970s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39174",
+    "name": "Exclusive HITS - Celine Dion hits",
+    "url": "http://streaming.exclusive.radio/er/celinedionhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39175",
+    "name": "Exclusively ABBA",
+    "url": "https://2.mystreaming.net/er/abba/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "6b8adb31-5021-4e82-ad27-8f176caf9e91.jpg"
+  },
+  {
+    "id": "39176",
+    "name": "Love Radio - French Love Songs",
+    "url": "https://drive.uber.radio/uber/lrfrenchlovesongs/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39177",
+    "name": "Positively 1920's",
+    "url": "https://streaming.positivity.radio/pr/1920/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39178",
+    "name": "Positively Sleep Classical -om",
+    "url": "https://streaming.positivity.radio/pr/sleepclassical/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "3176fe92-b3c4-4c03-a69b-85712502e83c.png"
+  },
+  {
+    "id": "39179",
+    "name": "Exclusively Garth Brooks",
+    "url": "https://streaming.exclusive.radio/er/garthbrooks/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39180",
+    "name": "Love Radio - Movies",
+    "url": "https://drive.uber.radio/uber/lrmovies/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39181",
+    "name": "Classical Radio - Placido Domingo",
+    "url": "https://drive.uber.radio/uber/crplacidodomingo/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39182",
+    "name": "Classical Radio-  Sir Adrian Boult",
+    "url": "https://drive.uber.radio/uber/cradrianboult/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39183",
+    "name": "Exclusively Alice Cooper",
+    "url": "https://streaming.exclusive.radio/er/alicecooper/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39184",
+    "name": "Andrea Bocelli - Classical Radio ",
+    "url": "http://drive.uber.radio/uber/crandreabocelli/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "e9d80fb7-ffa2-4940-80cf-aaa3d79b71ab.png"
+  },
+  {
+    "id": "39185",
+    "name": "Classical Radio - Sir Colin Davis",
+    "url": "https://drive.uber.radio/uber/crcolindavis/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39186",
+    "name": "C.R. - Strauss",
+    "url": "http://drive.uber.radio/uber/crstrauss/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39187",
+    "name": "Easy Folk",
+    "url": "https://streaming.exclusive.radio/uber/easyfolk/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c504ef7a-1685-4c35-aa77-786399125edb.png"
+  },
+  {
+    "id": "39188",
+    "name": "Exclusively Alabama",
+    "url": "https://streaming.exclusive.radio/er/alabama/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39189",
+    "name": "Positively Sleep Baby -om",
+    "url": "https://streaming.positivity.radio/pr/sleepbaby/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "ee7a91c9-47e7-4931-9bb3-d35e222c7d71.png"
+  },
+  {
+    "id": "39190",
+    "name": "Vienna Philharmonic - Classical Radio",
+    "url": "https://drive.uber.radio/uber/crviennaphilharmonic/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39191",
+    "name": "Exclusively Kanye West",
+    "url": "https://streaming.exclusive.radio/er/kanyewest/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39192",
+    "name": "Montserrat Caballe' - Classical Radio ",
+    "url": "https://drive.uber.radio/uber/crmonserratcaballe/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39193",
+    "name": "Exclusively Carole King",
+    "url": "https://2.mystreaming.net/er/caroleking/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "27b72709-7188-48f5-a28d-abf6e077821c.jpg"
+  },
+  {
+    "id": "39194",
+    "name": "Exclusively Josh Groban",
+    "url": "https://streaming.exclusive.radio/er/joshgroban/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39195",
+    "name": "José Carreras - Classical Radio ",
+    "url": "https://drive.uber.radio/uber/crjosevarreras/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39196",
+    "name": "Just Jazz Billie Holiday",
+    "url": "https://drive.uber.radio/uber/jjrbillieholiday/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39197",
+    "name": "Vanessa Mae - Classical Radio",
+    "url": "https://drive.uber.radio/uber/crvanessamae/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39198",
+    "name": "Positively Relaxing Workout -om",
+    "url": "https://streaming.positivity.radio/pr/workoutrelax/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "7b774c5d-4e10-4024-bab2-a7967e4af698.png"
+  },
+  {
+    "id": "39199",
+    "name": "Boomerang 2010s",
+    "url": "https://drive.uber.radio/uber/boomerang2010s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39200",
+    "name": "Exclusively Andrea Bocelli",
+    "url": "https://streaming.exclusive.radio/er/andreabocelli/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39201",
+    "name": "Exclusively Emerson, Lake & Palmer",
+    "url": "https://streaming.exclusive.radio/er/emersonlakepalmer/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39203",
+    "name": ".القرآن الكريم ",
+    "url": "https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjKoABHgAdULpynjQ7EwB6A",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39204",
+    "name": "Lorin Maazel - Classical Radio ",
+    "url": "https://drive.uber.radio/uber/crlorinmaazel/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39205",
+    "name": "Easy 90s",
+    "url": "https://streaming.exclusive.radio/uber/easy90/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c6dbc863-421d-4e20-8496-5ece0735da8b.png"
+  },
+  {
+    "id": "39206",
+    "name": "Easy Radio - Celine Dion",
+    "url": "http://streaming.exclusive.radio/uber/easycelinedion/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39207",
+    "name": "Exclusively Cat Stevens",
+    "url": "http://2.mystreaming.net/er/catstevens/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "3abdf0c9-dc16-4599-993b-2da04299567c.jpg"
+  },
+  {
+    "id": "39208",
+    "name": "Exclusively Linda Ronstadt",
+    "url": "http://2.mystreaming.net/er/lindaronstadt/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "262fe18f-9207-459e-b41f-96c5d9269613.jpg"
+  },
+  {
+    "id": "39209",
+    "name": "Greatest Hits 1940's",
+    "url": "https://drive.uber.radio/uber/boomerang1940s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39210",
+    "name": "Joan Sutherland - Classical Radio ",
+    "url": "https://drive.uber.radio/uber/crjoansutherland/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39211",
+    "name": "Love Radio - 2000s",
+    "url": "https://drive.uber.radio/uber/lr2000s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39212",
+    "name": "Rock The World - Blues Rock",
+    "url": "https://drive.uber.radio/uber/rtwblues/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "dc25f41d-2e09-47ea-ad92-294cf1a36c2d.png"
+  },
+  {
+    "id": "39213",
+    "name": "City 1016",
+    "url": "https://n07.radiojar.com/gmwyu8xdrxquv?_=760588&rj-tok=AAABkXoon2EAToxxtPXBLFkydw&rj-ttl=5",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39214",
+    "name": "Easy Jazz",
+    "url": "https://streaming.exclusive.radio/uber/easyjazz/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "2e562904-2cab-4d53-ba20-a8a524bbc006.png"
+  },
+  {
+    "id": "39216",
+    "name": "Nadia Boulanger - Classical Radio",
+    "url": "https://drive.uber.radio/uber/crnadiaboulanger/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39217",
+    "name": "Positively Sleepy -om",
+    "url": "https://streaming.positivity.radio/pr/posisleepy/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "47b15c2e-423c-4648-bb2f-7bef025e5ba4.png"
+  },
+  {
+    "id": "39220",
+    "name": "Boomerang 2020s",
+    "url": "https://drive.uber.radio/uber/boomerang2020s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39221",
+    "name": "C.R. - Berlin Philarmonic",
+    "url": "http://drive.uber.radio/uber/crberlinphilharmonic/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39222",
+    "name": "Exclusive Pete Seeger",
+    "url": "https://streaming.exclusive.radio/er/peteseeger/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39223",
+    "name": "Exclusively Joni Mitchell",
+    "url": "http://2.mystreaming.net/er/jonimitchell/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "4b862137-5321-4dbf-8dc5-339f9df7bf9d.jpg"
+  },
+  {
+    "id": "39224",
+    "name": "Just Jazz Charlie Parker",
+    "url": "https://drive.uber.radio/uber/jjrcharlieparker/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39225",
+    "name": "Positively Piano -om",
+    "url": "https://streaming.positivity.radio/pr/piano/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "e4bebaf0-c36e-4ce9-b35a-a15022db7228.png"
+  },
+  {
+    "id": "39226",
+    "name": "Tinder radio bollywood",
+    "url": "https://2.mystreaming.net/uber/bollywoodmix/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39227",
+    "name": "C.R. - Luciano Pavarotti",
+    "url": "http://drive.uber.radio/uber/crlucianopavarotti/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39228",
+    "name": "C.R. - Wagner",
+    "url": "http://drive.uber.radio/uber/crwagner/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39229",
+    "name": "Exclusively  Michael Jackson ",
+    "url": "https://streaming.exclusive.radio/er/michaeljackson/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39230",
+    "name": "Exclusively Andy Williams",
+    "url": "https://streaming.exclusive.radio/er/andywilliams/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39231",
+    "name": "Exclusively Kate Bush",
+    "url": "http://2.mystreaming.net/er/katebush/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "38353153-c2ec-41d1-8c45-2828ebcb223e.jpg"
+  },
+  {
+    "id": "39232",
+    "name": "Exclusively Leonard Cohen",
+    "url": "https://2.mystreaming.net/er/leonardcohen/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "8e5a7514-b380-4b17-b3a1-dc1e43b407a1.jpg"
+  },
+  {
+    "id": "39233",
+    "name": "Exclusively Louis Armstrong",
+    "url": "https://nl4.mystreaming.net/er/louisarmstrong/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "9dd7f32f-79dc-42c5-b479-005ecdbe3483.jpg"
+  },
+  {
+    "id": "39234",
+    "name": "Exclusively Tears for Fears",
+    "url": "https://nl4.mystreaming.net/er/tearsforfears/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c473e131-17f7-4774-b2de-31f7c8a64dbf.jpg"
+  },
+  {
+    "id": "39238",
+    "name": "World music radio bollywood ",
+    "url": "http://streaming.exclusive.radio/er/bollywood/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39239",
+    "name": "JS Bach - Classical Radio",
+    "url": "https://drive.uber.radio/uber/crjsbach/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120.png"
+  },
+  {
+    "id": "39240",
+    "name": "Julian Lloyd Webber - Classical Radio",
+    "url": "https://drive.uber.radio/uber/crjulianlloydwebber/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39246",
+    "name": "Adrian Boult - Classical Radio",
+    "url": "http://drive.uber.radio/uber/cradrianboult/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39247",
+    "name": "Boomerang 60's",
+    "url": "https://drive.uber.radio/uber/boomerang1960s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39248",
+    "name": "C.R. - Bavarian Radio Symphony Orchestra",
+    "url": "http://drive.uber.radio/uber/crbavarianradioorchestra/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39249",
+    "name": "C.R. - Cleveland Orchestra ",
+    "url": "http://drive.uber.radio/uber/crclevelandorchestra/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39250",
+    "name": "C.R. - Liszt",
+    "url": "http://drive.uber.radio/uber/crliszt/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39251",
+    "name": "C.R. - Ralph Vaugham Williams",
+    "url": "http://drive.uber.radio/uber/crralphvaughanwilliams/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39252",
+    "name": "C.R. - Shostakovich",
+    "url": "http://drive.uber.radio/uber/crshostakovich/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39253",
+    "name": "Exclusively Bill Withers",
+    "url": "http://2.mystreaming.net/er/billwithers/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "19558440-200a-47cb-8b6b-38d6b857c971.jpg"
+  },
+  {
+    "id": "39254",
+    "name": "Easy 00s",
+    "url": "https://streaming.exclusive.radio/uber/easy00/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "939a4c9f-a4e0-43a2-a2fb-72b472fcde20.png"
+  },
+  {
+    "id": "39255",
+    "name": "Exclusively Donna Summer",
+    "url": "https://nl4.mystreaming.net/er/donnasummer/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c795a4a3-a7a5-48a0-9917-52bfe2ee5399.jpg"
+  },
+  {
+    "id": "39257",
+    "name": "Exclusively Moody Blues",
+    "url": "https://nl4.mystreaming.net/er/moodyblues/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c08d18d7-2028-482e-9a64-265669c04b26.jpg"
+  },
+  {
+    "id": "39258",
+    "name": "Fats Waller Just Jazz",
+    "url": "https://nl4.mystreaming.net/uber/jjrfatswaller/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39259",
+    "name": "Fats Waller Just Jazz",
+    "url": "https://2.mystreaming.net/uber/jjrfatswaller/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39260",
+    "name": "Kadak",
+    "url": "https://n05.radiojar.com/s1mygd1frxquv?rj-ttl=5&rj-tok=AAABkXobvR4AFEnBVGBGUn98ew",
+    "country": "United Arab Emirates",
+    "image": "images_q_tbn_ANd9GcRsR990fEHfe2FsqoI5Qc4R47IRjuJ3-rz0cA_s"
+  },
+  {
+    "id": "39261",
+    "name": "Exclusively Duke Ellington",
+    "url": "https://2.mystreaming.net/er/dukeellington/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "2fbd9a6e-e48c-461c-a667-50f360a13f4a.jpg"
+  },
+  {
+    "id": "39263",
+    "name": "Exclusively The Stranglers",
+    "url": "https://2.mystreaming.net/er/thestranglers/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c28f3099-a9bb-4fb7-9d3c-34e3ee98bd2b.jpg"
+  },
+  {
+    "id": "39265",
+    "name": "Positively Focus -om",
+    "url": "https://streaming.positivity.radio/pr/posisuccessful/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "4d88d6aa-ca72-46dd-bf10-db06c83a43c7.png"
+  },
+  {
+    "id": "39266",
+    "name": "Sportify bollywood workout radio",
+    "url": "https://2.mystreaming.net/uber/sportifybollywood/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39267",
+    "name": "StarBox RnB",
+    "url": "https://drive.uber.radio/uber/starboxrnb/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39271",
+    "name": "C.R. - Debussy",
+    "url": "http://drive.uber.radio/uber/crdebussy/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39273",
+    "name": "Love Radio - Love Mix",
+    "url": "https://drive.uber.radio/uber/lrlovemix/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "5fffb65a-330d-4a20-8f5f-8f2a208638c5.png"
+  },
+  {
+    "id": "39274",
+    "name": "Exclusively Big Country",
+    "url": "https://2.mystreaming.net/er/bigcountry/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "9546a7bb-6ff4-4c6a-a15a-6b667260bf55.jpg"
+  },
+  {
+    "id": "39275",
+    "name": "Exclusively Bollywood ",
+    "url": "https://nl4.mystreaming.net/er/bollywood/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39276",
+    "name": "Exclusively Bryan Ferry",
+    "url": "https://nl4.mystreaming.net/er/bryanferry/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "ec2a3b2e-d860-4bcd-80da-5be721d37f81.png"
+  },
+  {
+    "id": "39277",
+    "name": "Positively Calm Kids -om",
+    "url": "https://streaming.positivity.radio/pr/calmkids/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "004676ee-47e8-42d7-a013-58314d4eb985.png"
+  },
+  {
+    "id": "39278",
+    "name": "Exclusively Earth, Wind & Fire",
+    "url": "https://nl4.mystreaming.net/er/earthwindandfire/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "36f022c1-8177-4966-ad76-4933888ef846.jpg"
+  },
+  {
+    "id": "39279",
+    "name": "Positively Easy -om",
+    "url": "https://streaming.positivity.radio/pr/posieasy/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "ab269dc8-4a0c-4eaa-8529-f1105e72442c.png"
+  },
+  {
+    "id": "39280",
+    "name": "Exclusively Texas",
+    "url": "https://nl4.mystreaming.net/er/texas/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "d217c5ea-ee74-4673-8312-9ce935cb3c78.jpg"
+  },
+  {
+    "id": "39281",
+    "name": "Exclusively - Suzanne Vega",
+    "url": "https://streaming.exclusive.radio/er/suzannevega/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39282",
+    "name": "Exclusively - The Black Crowes",
+    "url": "https://streaming.exclusive.radio/er/theblackcrowes/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39283",
+    "name": "Exclusively - The Police",
+    "url": "https://streaming.exclusive.radio/er/police/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39284",
+    "name": "Exclusively - Tom Petty Hits",
+    "url": "https://streaming.exclusive.radio/er/tompettyhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39285",
+    "name": "Exclusively - U2",
+    "url": "https://streaming.exclusive.radio/er/u2/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39286",
+    "name": "Joni Mitchell 2",
+    "url": "https://nl4.mystreaming.net/er/jonimitchellhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39287",
+    "name": "Exclusively The Dubliners",
+    "url": "http://2.mystreaming.net/er/thedubliners/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "512796ee-250b-471d-9239-c0f712518dff.jpg"
+  },
+  {
+    "id": "39288",
+    "name": "Love Radio - Mandopop Love Songs",
+    "url": "https://drive.uber.radio/uber/lrmandopop/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39289",
+    "name": "Positively Massage -om",
+    "url": "https://streaming.positivity.radio/pr/massage/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "7bac10e2-c101-4732-afca-aad1345681e9.png"
+  },
+  {
+    "id": "39290",
+    "name": "Rock The World - Stadium Rock",
+    "url": "https://drive.uber.radio/uber/rtwstadium/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "bf566bf2-efc1-4ee7-b727-c2a940303ec1.png"
+  },
+  {
+    "id": "39291",
+    "name": "Exclusively - Aerosmith Hits",
+    "url": "https://streaming.exclusive.radio/er/aerosmithhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39292",
+    "name": "Exclusively - Artic Monkeys Hits",
+    "url": "https://streaming.exclusive.radio/er/arcticmonkeyshits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39293",
+    "name": "Exclusively - Avicii",
+    "url": "https://streaming.exclusive.radio/er/avicii/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39294",
+    "name": "Exclusively - Black Uhuru",
+    "url": "https://streaming.exclusive.radio/er/blackuhuru/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39295",
+    "name": "Exclusively - Blur",
+    "url": "https://streaming.exclusive.radio/er/blur/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39296",
+    "name": "Exclusively - Blur Hits",
+    "url": "https://streaming.exclusive.radio/er/blurhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39297",
+    "name": "Exclusively - Bob Dylan Hits",
+    "url": "https://streaming.exclusive.radio/er/bobdylanhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39298",
+    "name": "Exclusively - Dr Dre",
+    "url": "https://streaming.exclusive.radio/er/drdre/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39299",
+    "name": "Exclusively - Eminem",
+    "url": "https://streaming.exclusive.radio/er/eminem/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39300",
+    "name": "Exclusively - George Harrison",
+    "url": "https://streaming.exclusive.radio/er/georgeharrison/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39301",
+    "name": "Exclusively - Kasabian",
+    "url": "https://streaming.exclusive.radio/er/kasabian/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39302",
+    "name": "Exclusively - Keane",
+    "url": "https://streaming.exclusive.radio/er/keane/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39303",
+    "name": "Exclusively - Madness",
+    "url": "https://streaming.exclusive.radio/er/madness/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39304",
+    "name": "Exclusively - New Order",
+    "url": "https://streaming.exclusive.radio/er/neworder/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39305",
+    "name": "Exclusively - Norah Jones",
+    "url": "https://streaming.exclusive.radio/er/norahjones/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39306",
+    "name": "Exclusively - Oasis Hits",
+    "url": "https://streaming.exclusive.radio/er/oasishits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39307",
+    "name": "Exclusively - Patti Smith",
+    "url": "https://streaming.exclusive.radio/er/pattismith/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39308",
+    "name": "Exclusively - Pixies",
+    "url": "https://streaming.exclusive.radio/er/pixies/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39309",
+    "name": "Exclusively - Pretenders Hits",
+    "url": "https://streaming.exclusive.radio/er/pretendershits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39310",
+    "name": "Exclusively - Prince Hits",
+    "url": "https://streaming.exclusive.radio/er/princehits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39311",
+    "name": "Exclusively - R.E.M. Hits",
+    "url": "https://streaming.exclusive.radio/er/remhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39312",
+    "name": "Exclusively - Sia",
+    "url": "https://streaming.exclusive.radio/er/sia/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39313",
+    "name": "Exclusively - The B-52s",
+    "url": "https://streaming.exclusive.radio/er/theb52s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39314",
+    "name": "Exclusively - The Killers",
+    "url": "https://streaming.exclusive.radio/er/thekillers/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39315",
+    "name": "Exclusively - The Smiths",
+    "url": "https://streaming.exclusive.radio/er/thesmiths/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39316",
+    "name": "Exclusively - Twenty One Pilots",
+    "url": "https://streaming.exclusive.radio/er/twentyonepilots/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39317",
+    "name": "Exclusively - UB40",
+    "url": "https://streaming.exclusive.radio/er/ub40/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39318",
+    "name": "Exclusively - Ziggy Marley",
+    "url": "https://streaming.exclusive.radio/er/ziggymarley/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39320",
+    "name": "Positively Vibe -om",
+    "url": "https://streaming.positivity.radio/pr/posivibe/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "276f1ff6-4ac3-4ee1-bf2e-3711de267ee1.png"
+  },
+  {
+    "id": "39321",
+    "name": "Positively Christmas Carols -om",
+    "url": "https://2.mystreaming.net/er/christmascarols/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "68cf5138-97e2-46d7-9296-b6c453459029.png"
+  },
+  {
+    "id": "39322",
+    "name": "Rock The World - Alt Rock",
+    "url": "https://drive.uber.radio/uber/rtwalt/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "a7a81dd1-fdb2-441b-aabd-bfaacd611d94.png"
+  },
+  {
+    "id": "39323",
+    "name": "StarBox Rock",
+    "url": "https://drive.uber.radio/uber/starboxrock/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39325",
+    "name": "Tinder Radio - Christmas Pop",
+    "url": "https://streaming.exclusive.radio/er/christmaspop/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39326",
+    "name": "C.R. - Bryn Terfel",
+    "url": "http://drive.uber.radio/uber/crbrynterfel/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39327",
+    "name": "C.R. - Julian Bream",
+    "url": "http://drive.uber.radio/uber/crjulianbream/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39328",
+    "name": "C.R. - Lang Lang",
+    "url": "http://drive.uber.radio/uber/crlanglang/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39329",
+    "name": "C.R. - Marin Alsop",
+    "url": "http://drive.uber.radio/uber/crmarinalsop/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39330",
+    "name": "Exclusively  Billy Joel Hits",
+    "url": "https://streaming.exclusive.radio/er/billyjoelhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39331",
+    "name": "Exclusively  Celine Dion Hits",
+    "url": "https://streaming.exclusive.radio/er/celinedionhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39332",
+    "name": "Exclusively  Steve Winwood",
+    "url": "https://streaming.exclusive.radio/er/stevewinwood/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39333",
+    "name": "Exclusively Gordon Lightfoot",
+    "url": "http://2.mystreaming.net/er/gordonlightfoot/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "7980cd89-dc97-4417-97f1-1809d94cb6a7.jpg"
+  },
+  {
+    "id": "39334",
+    "name": "Positively Reiki -om",
+    "url": "https://streaming.positivity.radio/pr/reiki/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "c504b8e4-ad2e-4a1a-a146-5725a4aef01f.png"
+  },
+  {
+    "id": "39335",
+    "name": "Exclusively Talking Heads",
+    "url": "https://nl4.mystreaming.net/er/talkingheads/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "cc50da2d-7a57-41c0-9ebe-d9c1bd283745.jpg"
+  },
+  {
+    "id": "39337",
+    "name": "JS Bach - Classical Radio",
+    "url": "https://drive.uber.radio/uber/crjsbach/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120.png"
+  },
+  {
+    "id": "39338",
+    "name": "Love Radio - Date Night",
+    "url": "https://drive.uber.radio/uber/lrdatenight/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39340",
+    "name": "Love Radio -Cantopop Love",
+    "url": "https://drive.uber.radio/uber/lrcantopop/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39341",
+    "name": "Positively Running -om",
+    "url": "https://streaming.positivity.radio/pr/running/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "0f88e216-d1b8-4d00-93d2-86fec624bfb4.png"
+  },
+  {
+    "id": "39342",
+    "name": "Sportify bollywood workout ",
+    "url": "https://2.mystreaming.net/uber/sportifybollywood/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39343",
+    "name": "StarBox Jazz",
+    "url": "https://drive.uber.radio/uber/starboxjazz/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39344",
+    "name": "StarBox Motown",
+    "url": "https://drive.uber.radio/uber/starboxmotown/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "137"
+  },
+  {
+    "id": "39345",
+    "name": "C.R. - Arturo Toscanini",
+    "url": "http://drive.uber.radio/uber/crarturotoscanini/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39346",
+    "name": "C.R. - Essential Classics",
+    "url": "http://drive.uber.radio/uber/cressentialclassics/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39347",
+    "name": "C.R. - Jose Carreras ",
+    "url": "http://drive.uber.radio/uber/crjosevarreras/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39348",
+    "name": "C.R. - New Release",
+    "url": "http://drive.uber.radio/uber/crnewreleases/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39349",
+    "name": "C.R. - Vanessa Mae",
+    "url": "http://drive.uber.radio/uber/crvanessamae/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39350",
+    "name": "Exclusively Carly Simon",
+    "url": "http://2.mystreaming.net/er/carlysimon/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "0d227593-decb-4eb3-9113-74685a266f7b.jpg"
+  },
+  {
+    "id": "39351",
+    "name": "Exclusively Chic",
+    "url": "https://nl4.mystreaming.net/er/chic/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "e59b9825-f3e9-4bb7-83c6-63e9febfc7ad.jpg"
+  },
+  {
+    "id": "39352",
+    "name": "Positively Intuition 852Hz -om",
+    "url": "https://streaming.positivity.radio/pr/intuition/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "29e0e942-a279-4839-9df8-62985fae9c56.png"
+  },
+  {
+    "id": "39353",
+    "name": "Exclusively Ella Fitzgerald",
+    "url": "https://2.mystreaming.net/er/ellafitzgerald/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "5a9dbcbd-8bae-488a-8e04-5cf645c13562.jpg"
+  },
+  {
+    "id": "39354",
+    "name": "Positively Love -om",
+    "url": "https://streaming.positivity.radio/pr/posilove/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "48e55773-dd51-472f-bbf6-0aa8b91b36f8.png"
+  },
+  {
+    "id": "39355",
+    "name": "Exclusively Eva Cassidy",
+    "url": "https://2.mystreaming.net/er/evacassidy/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "cb1ac45e-268d-4d70-9ca3-155eab0cd3b9.jpg"
+  },
+  {
+    "id": "39356",
+    "name": "Positively Pain Relief 174Hz -om",
+    "url": "https://streaming.positivity.radio/pr/painrelief/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "da60976c-6fa6-48b4-b616-97214481ff98.png"
+  },
+  {
+    "id": "39357",
+    "name": "Exclusively Human League",
+    "url": "https://nl4.mystreaming.net/er/humanleague/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "088e94be-8b10-461a-8a67-8c40e7eaa600.jpg"
+  },
+  {
+    "id": "39358",
+    "name": "Rock The World - Country Rock",
+    "url": "https://drive.uber.radio/uber/rtwcountry/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "6a8484ea-3ecd-46b7-9a49-929d31944f35.png"
+  },
+  {
+    "id": "39359",
+    "name": "StarBox Northern Soul",
+    "url": "https://drive.uber.radio/uber/starboxnorthernsoul/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39362",
+    "name": "C.R. - Adrian Boult",
+    "url": "http://drive.uber.radio/uber/cradrianboult/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39363",
+    "name": "C.R. - Lorin Maazel",
+    "url": "http://drive.uber.radio/uber/crlorinmaazel/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39365",
+    "name": "Exclusively Level 42",
+    "url": "https://2.mystreaming.net/er/level42/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "bdd8b8e4-2a11-411a-a338-e2b356607358.jpg"
+  },
+  {
+    "id": "39366",
+    "name": "Exclusively Roy Orbison hits",
+    "url": "https://streaming.exclusive.radio/er/royorbisonhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39367",
+    "name": "Just Jazz Al Jarreau",
+    "url": "https://drive.uber.radio/uber/jjraljarreau/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39368",
+    "name": "Just Jazz Bessie Smith",
+    "url": "https://drive.uber.radio/uber/jjrbessiesmith/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39369",
+    "name": "LUV 107.1",
+    "url": "https://funasia.streamguys1.com/live2",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39372",
+    "name": "Boomerang 20's",
+    "url": "https://drive.uber.radio/uber/boomerang1920s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39373",
+    "name": "Boomerang 40's",
+    "url": "https://drive.uber.radio/uber/boomerang1940s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39374",
+    "name": "C.R. - Herbert Von Karajan",
+    "url": "http://drive.uber.radio/uber/crherbertvonkarajan/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39375",
+    "name": "C.R. - Kiri Te Kanawa",
+    "url": "http://drive.uber.radio/uber/crkiritekanawa/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39376",
+    "name": "C.R. - Placido Domingo",
+    "url": "http://drive.uber.radio/uber/crplacidodomingo/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39377",
+    "name": "Easy Barbra Streisand",
+    "url": "https://streaming.exclusive.radio/uber/easybarbrastreisand/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39378",
+    "name": "Exclusive Radio - Amy Winehouse Hits",
+    "url": "https://streaming.exclusive.radio/er/amywinehousehits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39380",
+    "name": "Exclusively Pete Seeger",
+    "url": "https://nl4.mystreaming.net/er/peteseeger/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "32b184ec-6524-4966-ab43-34172a1cbffb.jpg"
+  },
+  {
+    "id": "39382",
+    "name": "Love Radio - Timeless",
+    "url": "https://drive.uber.radio/uber/lrtimeless/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39383",
+    "name": "Love Radio - Wedding",
+    "url": "https://drive.uber.radio/uber/lrwedding/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39386",
+    "name": "Just Jazz Ray Charles ",
+    "url": "https://drive.uber.radio/uber/jjrraycharles/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39387",
+    "name": "Love Radio - Country",
+    "url": "https://drive.uber.radio/uber/lrcountry/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39389",
+    "name": "Love Radio - Love mix",
+    "url": "https://drive.uber.radio/uber/lrlovemix/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39390",
+    "name": "Positively Energy -om",
+    "url": "https://streaming.positivity.radio/pr/energy/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "8f9c9873-0e19-4eac-a3e7-4537720c40b2.png"
+  },
+  {
+    "id": "39391",
+    "name": "Oldies Vibes",
+    "url": "https://oldies.streeemer.com/listen/oldies/radio.aac",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-144x144-precomposed.png"
+  },
+  {
+    "id": "39392",
+    "name": "Positively Enlightening 936Hz -om",
+    "url": "https://streaming.positivity.radio/pr/enlightening/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "2c95f1d4-d34d-479f-b39b-4c961c2da75f.png"
+  },
+  {
+    "id": "39393",
+    "name": "Positively Happy -om",
+    "url": "https://streaming.positivity.radio/pr/happy/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39394",
+    "name": "C.R - Vladimir Horovitz",
+    "url": "http://drive.uber.radio/uber/crvladamirhorowitz/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39395",
+    "name": "C.R. - Nigel Kennedy",
+    "url": "http://drive.uber.radio/uber/crnigelkennedy/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39396",
+    "name": "C.R. - Simon Rattle",
+    "url": "https://drive.uber.radio/uber/crsimonrattle/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39397",
+    "name": "C.R. - Sir Adrian Boult",
+    "url": "http://drive.uber.radio/uber/cradrianboult/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39398",
+    "name": "Exclusively - Bryan Adams Hits",
+    "url": "https://streaming.exclusive.radio/er/bryanadamshits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39399",
+    "name": "Exclusively - Metallica",
+    "url": "https://streaming.exclusive.radio/er/metallica/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39400",
+    "name": "Exclusively Pete Seeger",
+    "url": "http://2.mystreaming.net/er/peteseeger/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39401",
+    "name": "Positively Calming 396Hz -om",
+    "url": "https://streaming.positivity.radio/pr/calming/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "4ee384c2-df1d-4cf3-a183-a3596d614f9a.png"
+  },
+  {
+    "id": "39402",
+    "name": "Gloria Estefan",
+    "url": "http://2.mystreaming.net/er/gloriaestefan/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "f044a098-02a6-4253-9380-63d0a4fe7184.jpg"
+  },
+  {
+    "id": "39404",
+    "name": "Love Radio - Love Break Up",
+    "url": "https://drive.uber.radio/uber/lrbreakupsongs/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39405",
+    "name": "Positively Detox 741Hz -om",
+    "url": "https://streaming.positivity.radio/pr/detox/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39406",
+    "name": "Positively Good Evening -om",
+    "url": "https://streaming.positivity.radio/pr/goodevening/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39407",
+    "name": "Positively Good Night -om",
+    "url": "https://streaming.positivity.radio/pr/goodnight/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "ac5f588d-6781-4dcf-82c7-fdcb6da653f8.png"
+  },
+  {
+    "id": "39408",
+    "name": "Positively Vibrant -om",
+    "url": "https://streaming.positivity.radio/pr/vibrant/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "3558595d-efa8-4964-883c-822c447e870c.png"
+  },
+  {
+    "id": "39409",
+    "name": "StarBox Easy",
+    "url": "https://drive.uber.radio/uber/starboxeasy/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39410",
+    "name": "Exclusively  Celine Dion Hits",
+    "url": "https://streaming.exclusive.radio/er/celinedionhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39411",
+    "name": "Exclusively - Bob Marley Hits",
+    "url": "https://streaming.exclusive.radio/er/bobmarleyhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39412",
+    "name": "Exclusively - Def Leppard",
+    "url": "https://streaming.exclusive.radio/er/defleppard/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39413",
+    "name": "Exclusively - Duran Duran Hits",
+    "url": "https://streaming.exclusive.radio/er/duranduranhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39414",
+    "name": "Positively Motivation -om",
+    "url": "https://streaming.positivity.radio/pr/motivation/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "a3506d94-3a61-40c9-875f-b5c671881de4.png"
+  },
+  {
+    "id": "39415",
+    "name": "Exclusively Drifters",
+    "url": "https://nl4.mystreaming.net/er/drifters/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "a2d7fc76-f7de-4635-bc8d-bbfb13aa7fa4.jpg"
+  },
+  {
+    "id": "39417",
+    "name": "Positively Rejuvenate 528 Hz -om",
+    "url": "https://streaming.positivity.radio/pr/rejuvenate/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "61662c9c-3f89-4151-804a-f1f7e9207533.png"
+  },
+  {
+    "id": "39418",
+    "name": "StarBox Indie",
+    "url": "https://drive.uber.radio/uber/starboxindie/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39420",
+    "name": "C.R. - Katherine Jenkins",
+    "url": "http://drive.uber.radio/uber/crkatherinejenkins/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39421",
+    "name": "C.R. - Lang Lang",
+    "url": "http://drive.uber.radio/uber/crlanglang/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39422",
+    "name": "C.R. - Monserrat Caballe",
+    "url": "http://drive.uber.radio/uber/crmonserratcaballe/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39423",
+    "name": "C.R. - Nadia Boulanger",
+    "url": "http://drive.uber.radio/uber/crnadiaboulanger/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39424",
+    "name": "C.R. - Yehudi Menuin ",
+    "url": "http://drive.uber.radio/uber/cryehudimenuin/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39425",
+    "name": "Exclusively  Celine Dion Hits",
+    "url": "https://streaming.exclusive.radio/er/celinedionhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39426",
+    "name": "Exclusively Crowded House",
+    "url": "https://2.mystreaming.net/er/crowdedhouse/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39427",
+    "name": "Positively Classical -om",
+    "url": "https://streaming.positivity.radio/pr/posiclassical/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "7affc9c1-009f-4ae7-92a1-25220cfd5183.png"
+  },
+  {
+    "id": "39429",
+    "name": "JS Bach - Classical Radio",
+    "url": "https://drive.uber.radio/uber/crjsbach/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120.png"
+  },
+  {
+    "id": "39430",
+    "name": "Positively Compassion 639Hz -om",
+    "url": "https://streaming.positivity.radio/pr/compassion/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "dc0f23c3-5262-446b-a641-926901eb872b.png"
+  },
+  {
+    "id": "39431",
+    "name": "Positively Good Afternoon -om",
+    "url": "https://streaming.positivity.radio/pr/goodafternoon/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39434",
+    "name": "Dance Machine",
+    "url": "https://edm.streeemer.com/listen/edm/radio.aac",
+    "country": "United Arab Emirates",
+    "image": "120.png"
+  },
+  {
+    "id": "39435",
+    "name": "Exclusively - Blondie Hits",
+    "url": "https://streaming.exclusive.radio/er/blondiehits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39436",
+    "name": "Exclusively - Bon Jovi Hits",
+    "url": "https://streaming.exclusive.radio/er/bonjovihits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39437",
+    "name": "Exclusively - Carpenters Hits",
+    "url": "https://streaming.exclusive.radio/er/carpentershits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39438",
+    "name": "Exclusively - Radiohead",
+    "url": "https://streaming.exclusive.radio/er/radiohead/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39439",
+    "name": "Exclusively - Sheryl Crow",
+    "url": "https://streaming.exclusive.radio/er/sherylcrow/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39440",
+    "name": "Exclusively - U2 Hits",
+    "url": "https://streaming.exclusive.radio/er/u2hits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39441",
+    "name": "Positively Spa -om",
+    "url": "https://streaming.positivity.radio/pr/spa/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "3bcc8b4f-8592-4b67-af51-340336df4b44.png"
+  },
+  {
+    "id": "39442",
+    "name": "Exclusively Curtis Mayfield",
+    "url": "https://2.mystreaming.net/er/curtismayfield/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "07f6aae5-5bfc-4afa-9f0a-2f43385b0790.jpg"
+  },
+  {
+    "id": "39443",
+    "name": "Exclusively Dionne Warwick",
+    "url": "https://2.mystreaming.net/er/dionnewarwick/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "3d7226ef-7d66-4a30-81a1-ea78f1800aea.jpg"
+  },
+  {
+    "id": "39444",
+    "name": "Exclusively Steeleye Span",
+    "url": "https://nl4.mystreaming.net/er/steeleyespan/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "fbb3a4d7-1178-4752-b24d-67b9017eb6eb.jpg"
+  },
+  {
+    "id": "39447",
+    "name": "Positively Sound Bath -om",
+    "url": "https://streaming.positivity.radio/pr/posisoundbath/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "a0650499-5824-42c9-bd94-b60804e32131.png"
+  },
+  {
+    "id": "39448",
+    "name": "Stan Gett",
+    "url": "https://drive.uber.radio/uber/jjrstangetz/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39449",
+    "name": "StarBox Soul",
+    "url": "https://drive.uber.radio/uber/starboxsoul/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39450",
+    "name": "Big Melodies",
+    "url": "https://funasia.streamguys1.com/live9",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39451",
+    "name": "Exclusively - Alanis Morissette",
+    "url": "https://streaming.exclusive.radio/er/alanismorissette/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39452",
+    "name": "Exclusively - Artic Monkeys",
+    "url": "https://streaming.exclusive.radio/er/arcticmonkeys/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39453",
+    "name": "Exclusively - Beatles Hits",
+    "url": "https://streaming.exclusive.radio/er/thebeatleshits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39454",
+    "name": "Exclusively - Joan Jett",
+    "url": "https://streaming.exclusive.radio/er/joanjett/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39455",
+    "name": "Exclusively - Kate Bush",
+    "url": "https://streaming.exclusive.radio/er/katebush/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39456",
+    "name": "Exclusively - Kiss",
+    "url": "https://streaming.exclusive.radio/er/kiss/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39457",
+    "name": "Exclusively - Lorde",
+    "url": "https://streaming.exclusive.radio/er/lorde/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39458",
+    "name": "Exclusively - Nickelback",
+    "url": "https://streaming.exclusive.radio/er/nickelback/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39459",
+    "name": "Exclusively - Red Hot Chili Peppers",
+    "url": "https://streaming.exclusive.radio/er/chilipeppers/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39460",
+    "name": "Exclusively - Roxette Hits",
+    "url": "https://streaming.exclusive.radio/er/roxettehits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39461",
+    "name": "TAG 91.1",
+    "url": "https://stream-159.zeno.fm/7neg6f1hbm0uv?zs=RHmhUhEpS6-utF-DsvVQUQ&zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bmVnNmYxaGJtMHV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsImp0aSI6IlJIbWhVaEVwUzYtdXRGLURzdlZRVVEiLCJpYXQiOjE3MTI4MTMwMjQsImV4cCI6MTcxMjgxMzA4NH0.7ZKhsErDvNbE9o6O0FUvA5lJtpzbMKj5VbqvAdIh9Mk&zttl=5",
+    "country": "United Arab Emirates",
+    "image": "www.tag911.ae"
+  },
+  {
+    "id": "39462",
+    "name": "TAG 91.1",
+    "url": "https://stream-161.zeno.fm/7neg6f1hbm0uv?zs=uHSY7gmTTQOoLq1o0YC7VQ&zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bmVnNmYxaGJtMHV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsImp0aSI6InVIU1k3Z21UVFFPb0xxMW8wWUM3VlEiLCJpYXQiOjE3MTI5MjEyMTIsImV4cCI6MTcxMjkyMTI3Mn0.4s2gDD67FdWyVPO9UquxsO-D47TlKQQ8YsWuvda09x0&zttl=5",
+    "country": "United Arab Emirates",
+    "image": "5bf547b7a679e.png"
+  },
+  {
+    "id": "39464",
+    "name": "C.R - Joan Sutherland",
+    "url": "http://drive.uber.radio/uber/crjoansutherland/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39465",
+    "name": "C.R. - Calm",
+    "url": "http://drive.uber.radio/uber/crcalm/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39466",
+    "name": "C.R. - Colin Davis",
+    "url": "http://drive.uber.radio/uber/crcolindavis/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39467",
+    "name": "C.R. - Essential Classics",
+    "url": "http://drive.uber.radio/uber/cressentialclassics/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39468",
+    "name": "C.R. - J.S. Bach",
+    "url": "http://drive.uber.radio/uber/crjsbach/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39469",
+    "name": "C.R. - J.S. Bach",
+    "url": "http://drive.uber.radio/uber/crjsbach/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39470",
+    "name": "C.R. - Julian Lloyd Webber",
+    "url": "http://drive.uber.radio/uber/crjulianlloydwebber/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39471",
+    "name": "C.R. - Malcolm Sargent",
+    "url": "http://drive.uber.radio/uber/crmalcolmsargent/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39472",
+    "name": "C.R. - Simon Rattle",
+    "url": "http://drive.uber.radio/uber/crsimonrattle/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39473",
+    "name": "C.R. - Vladimir  Horovitz",
+    "url": "http://drive.uber.radio/uber/crvladamirhorowitz/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39474",
+    "name": "Exclusively  Prince Hits",
+    "url": "https://nl4.mystreaming.net/er/princehits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39476",
+    "name": "Boomerang 80s",
+    "url": "https://drive.uber.radio/uber/boomerang1980s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39477",
+    "name": "C.R. - Andres Segovia ",
+    "url": "http://drive.uber.radio/uber/crandressegovia/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39478",
+    "name": "C.R. - Ravel",
+    "url": "http://drive.uber.radio/uber/crravel/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39479",
+    "name": "C.R. - Verdi",
+    "url": "http://drive.uber.radio/uber/crverdi/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39480",
+    "name": "Easy 10s",
+    "url": "https://streaming.exclusive.radio/uber/easy2010/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39481",
+    "name": "Exclusive Radio - George Michael  hits",
+    "url": "https://streaming.exclusive.radio/er/georgemichaelhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39482",
+    "name": "Exclusively Chicago",
+    "url": "https://streaming.exclusive.radio/er/chicago/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39483",
+    "name": "Exclusively ZZ Top",
+    "url": "https://2.mystreaming.net/er/zztop/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "e094b0d0-43ee-420a-ae44-f5c2d9eb51b4.jpg"
+  },
+  {
+    "id": "39484",
+    "name": "Just Jazz Art Tatum",
+    "url": "https://drive.uber.radio/uber/jjrarttatum/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39485",
+    "name": "Love Radio - Disney",
+    "url": "https://drive.uber.radio/uber/lrdisney/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39486",
+    "name": "Love Radio - Indie Romance",
+    "url": "https://drive.uber.radio/uber/lrindieromance/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39487",
+    "name": "Rock The World - Punk Rock",
+    "url": "https://drive.uber.radio/uber/rtwpunk/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "8107965e-0523-42b9-b474-e6e6af05df9d.png"
+  },
+  {
+    "id": "39488",
+    "name": "C.R. - Andrea Bocelli ",
+    "url": "http://drive.uber.radio/uber/crandreabocelli/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39489",
+    "name": "Classical Radio - Vanessa Mae",
+    "url": "https://drive.uber.radio/uber/crvanessamae/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39490",
+    "name": "Exclusively George Harrison",
+    "url": "http://2.mystreaming.net/er/georgeharrison/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "a625e66a-f925-4c6d-98a5-20027ae2949b.jpg"
+  },
+  {
+    "id": "39491",
+    "name": "Exclusively Simply Red",
+    "url": "https://2.mystreaming.net/er/simplyred/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "d5b40e1a-dee2-4e82-b4fd-e9014fae4239.jpg"
+  },
+  {
+    "id": "39492",
+    "name": "Love Radio - Reggae",
+    "url": "https://drive.uber.radio/uber/lrreggae/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39493",
+    "name": "Love radio bollywood ",
+    "url": "https://drive.uber.radio/uber/lrbollywood/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39494",
+    "name": "Positively Healing 285Hz -om",
+    "url": "https://streaming.positivity.radio/pr/healing/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39495",
+    "name": "Positively Sleep Tones -om",
+    "url": "https://streaming.positivity.radio/pr/sleeptones/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "13b4a62d-6af3-4150-b1d6-7bfb768608ef.png"
+  },
+  {
+    "id": "39496",
+    "name": "Tinder Radio - Hollywood & Broadway Musicals",
+    "url": "https://streaming.exclusive.radio/er/hollywoodandbroadway/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39497",
+    "name": "Boomerang 70's",
+    "url": "https://drive.uber.radio/uber/boomerang1970s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39498",
+    "name": "Boomerang 90s",
+    "url": "https://drive.uber.radio/uber/boomerang1990s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39499",
+    "name": "Easy Radio - Andrea Bocelli",
+    "url": "http://streaming.exclusive.radio/uber/easyandreabocelli/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39500",
+    "name": "Exclusively  Elvis Presley",
+    "url": "https://streaming.exclusive.radio/er/elvispresley/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39501",
+    "name": "Exclusively Diana Krall",
+    "url": "https://nl4.mystreaming.net/er/dianakrall/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "64da41ad-3742-4f62-907d-96f1cf11d81a.jpg"
+  },
+  {
+    "id": "39502",
+    "name": "Exclusively Reba Mcentire",
+    "url": "https://streaming.exclusive.radio/er/rebamcentire/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39503",
+    "name": "Just Jazz Amy Winehouse",
+    "url": "https://drive.uber.radio/uber/jjramywinehouse/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39504",
+    "name": "Katherine Jenkins - Classical Radio",
+    "url": "https://drive.uber.radio/uber/crkatherinejenkins/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39505",
+    "name": "Love Radio - 2010s",
+    "url": "https://drive.uber.radio/uber/lr2010s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39506",
+    "name": "Love Radio - Romance",
+    "url": "https://drive.uber.radio/uber/lrromance/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39507",
+    "name": "Positively 2010's",
+    "url": "https://streaming.positivity.radio/pr/posi10s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39508",
+    "name": "Positively Sleep Max Richter -om",
+    "url": "https://streaming.positivity.radio/pr/maxrichter/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "cea14a8d-e13f-4370-9feb-77df48b3b3cc.png"
+  },
+  {
+    "id": "39509",
+    "name": "StarBox Country Classic",
+    "url": "https://drive.uber.radio/uber/starboxcountry/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39511",
+    "name": "Exclusively Billy Idol",
+    "url": "http://2.mystreaming.net/er/billyidol/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "8827bc84-147d-48b4-9578-846936158311.jpg"
+  },
+  {
+    "id": "39512",
+    "name": "Just Jazz Bill Evans",
+    "url": "https://drive.uber.radio/uber/jjrbillevans/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39513",
+    "name": "Positively Sleep Kids -om",
+    "url": "https://streaming.positivity.radio/pr/sleepkids/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "94d1af8b-a87c-49d3-96cd-a6727ac5eaed.png"
+  },
+  {
+    "id": "39514",
+    "name": "Positively Uplifting 417Hz -om",
+    "url": "https://streaming.positivity.radio/pr/uplifting/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "240002ea-2a00-4f83-aa8e-01789fa230bd.png"
+  },
+  {
+    "id": "39518",
+    "name": "Bryn Terfel - Classical Radio ",
+    "url": "https://drive.uber.radio/uber/crbrynterfel/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39519",
+    "name": "Exclusively Olivia Newton-John",
+    "url": "https://2.mystreaming.net/er/onj/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "f33dbb53-05fe-427c-99d0-a7e7e1e3e46a.jpg"
+  },
+  {
+    "id": "39520",
+    "name": "Love Radio - Jazz",
+    "url": "https://drive.uber.radio/uber/lrjazz/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39521",
+    "name": "Rock The World - Classic Rock",
+    "url": "https://drive.uber.radio/uber/rtwclassics/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "ccd36487-9de6-45f7-ac5a-31e5b550776f.png"
+  },
+  {
+    "id": "39525",
+    "name": " Positively Stress Relief -om",
+    "url": "https://streaming.positivity.radio/pr/stressrelief/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "127496a8-d79b-4b7b-9981-a7112fb3922c.png"
+  },
+  {
+    "id": "39526",
+    "name": "Exclusively  Elton John ",
+    "url": "https://2.mystreaming.net/er/eltonjohn/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39527",
+    "name": "Exclusively Al Green",
+    "url": "https://streaming.exclusive.radio/er/algreen/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39528",
+    "name": "Exclusively Bonnie Raitt",
+    "url": "http://2.mystreaming.net/er/bonnieraitt/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "1759413c-3ca7-49ad-a1a8-6f8c510123f9.jpg"
+  },
+  {
+    "id": "39529",
+    "name": "Exclusively Tim McGraw",
+    "url": "https://streaming.exclusive.radio/er/timmcgraw/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39530",
+    "name": "Exclusively Tom Waits",
+    "url": "https://nl4.mystreaming.net/er/tomwaits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "5165a0af-919a-4bba-b358-e07774dd585a.jpg"
+  },
+  {
+    "id": "39534",
+    "name": " Exclusively Whitney Houston ",
+    "url": "https://streaming.exclusive.radio/er/whitneyhouston/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39535",
+    "name": "C.R - Beethoven",
+    "url": "http://drive.uber.radio/uber/crbeethoven/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png"
+  },
+  {
+    "id": "39536",
+    "name": "C.R. - Brahms",
+    "url": "http://drive.uber.radio/uber/crbrahms/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39537",
+    "name": "Exclusive Radio - Andrea Bocelli",
+    "url": "http://streaming.exclusive.radio/er/andreabocelli/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39538",
+    "name": "Exclusive Radio - Celine Dion",
+    "url": "http://streaming.exclusive.radio/er/celinedion/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39539",
+    "name": "Exclusively  Rod Stewart Hits",
+    "url": "https://streaming.exclusive.radio/er/rodstewarthits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39540",
+    "name": "Exclusively Tina Turner",
+    "url": "http://2.mystreaming.net/er/tinaturner/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "00ab6877-83a0-4ca4-a7c8-90cf7842b4c8.jpg"
+  },
+  {
+    "id": "39541",
+    "name": "Just Jazz Buddy Rich",
+    "url": "https://drive.uber.radio/uber/jjrbuddyrich/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39542",
+    "name": "Positively Calm -om",
+    "url": "https://streaming.positivity.radio/pr/calm/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "105614e4-f852-42d8-ab77-7d10b03b46c7.png"
+  },
+  {
+    "id": "39543",
+    "name": "Positively Gold -om",
+    "url": "https://streaming.positivity.radio/pr/posigold/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "1eae0b21-f4a6-4d6b-9a34-d77893d87b6e.png"
+  },
+  {
+    "id": "39544",
+    "name": "Positively Relaxation -om",
+    "url": "https://streaming.positivity.radio/pr/relaxation/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "05195052-fc0f-4478-afe1-359cb12fa6e7.png"
+  },
+  {
+    "id": "39545",
+    "name": "Rock The World - Prog Rock",
+    "url": "https://drive.uber.radio/uber/rtwprog/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "54cbea03-00ec-46a1-9e33-4e7823d47127.png"
+  },
+  {
+    "id": "39553",
+    "name": "Boomerang 30's",
+    "url": "https://drive.uber.radio/uber/boomerang1930s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39554",
+    "name": "C.R. - Jacqueline Du Pre ",
+    "url": "http://drive.uber.radio/uber/crjacquelinedurpre/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39555",
+    "name": "C.R. - John Williams ",
+    "url": "http://drive.uber.radio/uber/crjohnwilliams/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39556",
+    "name": "Exclusively  Shania Twain Hits",
+    "url": "https://streaming.exclusive.radio/er/shaniatwainhits/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39557",
+    "name": "Exclusively bollywood ",
+    "url": "https://nl4.mystreaming.net/er/bollywood/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "default.png"
+  },
+  {
+    "id": "39558",
+    "name": "Exclusively Ella Fitzgerald",
+    "url": "https://nl4.mystreaming.net/er/ellafitzgerald/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "5a9dbcbd-8bae-488a-8e04-5cf645c13562.jpg"
+  },
+  {
+    "id": "39561",
+    "name": "J.S.BACH - Classical Radio",
+    "url": "http://drive.uber.radio/uber/crjsbach/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39562",
+    "name": "Love Radio - 90s",
+    "url": "https://drive.uber.radio/uber/lr1990s/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39563",
+    "name": "StarBox Blues",
+    "url": "https://drive.uber.radio/uber/starboxblues/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39566",
+    "name": "Bryn Terfel - Classical Radio ",
+    "url": "https://drive.uber.radio/uber/crbrynterfel/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39567",
+    "name": "C.R. - Schubert",
+    "url": "http://drive.uber.radio/uber/crschubert/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39568",
+    "name": "Easy Andy Williams",
+    "url": "https://streaming.exclusive.radio/uber/easyandywilliams/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39569",
+    "name": "Easy Mix",
+    "url": "https://streaming.exclusive.radio/uber/easymix/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "2f06e9fc-f1df-4198-80f5-565f6750d4e5.png"
+  },
+  {
+    "id": "39570",
+    "name": "Exclusively Bruce Springsteen",
+    "url": "https://nl4.mystreaming.net/er/springsteen/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "14e65fec-3809-4f49-b6c2-fedd60e7c2c0.jpg"
+  },
+  {
+    "id": "39572",
+    "name": "Exclusively Heart",
+    "url": "https://nl4.mystreaming.net/er/heart/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "10b41c00-37ea-4397-b448-edb8af0e9581.jpg"
+  },
+  {
+    "id": "39573",
+    "name": "Exclusively Herbie Hancock",
+    "url": "https://2.mystreaming.net/er/herbiehancock/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "3363394a-cb41-4441-8a46-ca33962b18fe.jpg"
+  },
+  {
+    "id": "39574",
+    "name": "Exclusively Simple Minds",
+    "url": "https://nl4.mystreaming.net/er/simpleminds/icecast.audio",
+    "country": "United Arab Emirates",
+    "image": "caa3e98d-9725-4946-bf90-9a12e99468c8.jpg"
+  }
+]

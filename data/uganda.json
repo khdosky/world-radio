@@ -1,0 +1,3762 @@
+[
+  {
+    "id": "39575",
+    "name": "Akaboozi FM 87.9",
+    "url": "http://162.244.80.52:8732/stream.mp3",
+    "country": "Uganda",
+    "image": "favicon-150x150.png"
+  },
+  {
+    "id": "39577",
+    "name": "CBS FM 89.2",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39578",
+    "name": "Radio Simba",
+    "url": "https://www.radiosimba.ug/stream",
+    "country": "Uganda",
+    "image": "cropped-favicon-32x32-1-180x180.png"
+  },
+  {
+    "id": "39579",
+    "name": "Capital FM",
+    "url": "http://5229.cloudrad.io:8316/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39580",
+    "name": "Cbs fm",
+    "url": "http://s5.voscast.com:9908/EYOBUJJAJJA",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39581",
+    "name": "100.5 Bukedde Fm",
+    "url": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream",
+    "country": "Uganda",
+    "image": "icon_64x64.23d108.png"
+  },
+  {
+    "id": "39582",
+    "name": "CBS 88.8",
+    "url": "http://s5.voscast.com:9908/EYOBUJJAJJA",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39584",
+    "name": "Uganda DJs",
+    "url": "https://stream.zeno.fm/muzrp86994zuv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39585",
+    "name": "RADIO MARIA UGANDA",
+    "url": "http://dreamsiteradiocp.com:8052/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39586",
+    "name": "Radio Sapientia 94.4 FM",
+    "url": "http://www.radiosapientia.com/live",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39587",
+    "name": "107.9 Pearl Fm",
+    "url": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
+    "country": "Uganda",
+    "image": "cropped-pearl-180x180.png"
+  },
+  {
+    "id": "39591",
+    "name": "Sanyu Fm",
+    "url": "http://s44.myradiostream.com:8138/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39594",
+    "name": "Radio one",
+    "url": "http://162.244.80.52:8740/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39595",
+    "name": "89.2 CBS Emanduso ",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39596",
+    "name": "88.8 CBS Ey'obujjaja",
+    "url": "http://s5.voscast.com:9908/EYOBUJJAJJA",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39597",
+    "name": "97.3 Simba Fm Lubogola",
+    "url": "https://www.radiosimba.ug/stream",
+    "country": "Uganda",
+    "image": "cropped-favicon-32x32-1-180x180.png"
+  },
+  {
+    "id": "39598",
+    "name": "95.5 Radio Buddu ",
+    "url": "https://dc4.serverse.com/proxy/ccmxrgub/stream",
+    "country": "Uganda",
+    "image": "favicon.png"
+  },
+  {
+    "id": "39599",
+    "name": "CBS 88.8",
+    "url": "http://s5.voscast.com:9908/EYOBUJJAJJA",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39600",
+    "name": "AKABOOZI FM",
+    "url": "http://162.244.80.52:8732/stream.mp3",
+    "country": "Uganda",
+    "image": "favicon-150x150.png"
+  },
+  {
+    "id": "39601",
+    "name": "RX Radio",
+    "url": "https://c14.radioboss.fm:18223/stream?1615807421100=",
+    "country": "Uganda",
+    "image": "reckless_20logo_20black_20clear.webp"
+  },
+  {
+    "id": "39602",
+    "name": "KIIS Uganda",
+    "url": "http://14867.cloudrad.io:9224/live",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39603",
+    "name": "89.1 Vision radio",
+    "url": "https://stream-11.zeno.fm/rmtdek37zxhvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39605",
+    "name": "NBC News Radio ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39606",
+    "name": "Talksport Premier League ",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "apple-touch-icon-120x120.png"
+  },
+  {
+    "id": "39607",
+    "name": "Christian hits radio ",
+    "url": "https://shoutcast.christianrock.net/stream/5/",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "39608",
+    "name": "Talksport Premier League",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "39609",
+    "name": "CAPITAL FM",
+    "url": "http://5229.cloudrad.io:8316/;",
+    "country": "Uganda",
+    "image": "favicon-196x196.png"
+  },
+  {
+    "id": "39610",
+    "name": "Christian fm",
+    "url": "http://stream.dar.fm/27203",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "39612",
+    "name": "101.8 Radio maria",
+    "url": "http://dreamsiteradiocp.com:8052/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39614",
+    "name": "RFI Kiswahili ",
+    "url": "https://rfienswahili64k.ice.infomaniak.ch/rfienswahili-64.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39615",
+    "name": "XFM 94.8",
+    "url": "http://stream.hydeinnovations.com:2020/stream/xfm/stream",
+    "country": "Uganda",
+    "image": "xfm.jpg"
+  },
+  {
+    "id": "39617",
+    "name": "106.1 Next Radio ",
+    "url": "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw",
+    "country": "Uganda",
+    "image": "cropped-logo-1-180x180.gif"
+  },
+  {
+    "id": "39618",
+    "name": "106.7 Glory Fm",
+    "url": "https://stream-25.zeno.fm/5remmcqkpd0uv",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39620",
+    "name": "BUSOGA ONE",
+    "url": "https://stream.zeno.fm/xna2aad7gc9uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39621",
+    "name": "98.8 Buddu Fm",
+    "url": "https://dc4.serverse.com/proxy/ccmxrgub/stream",
+    "country": "Uganda",
+    "image": "favicon.png"
+  },
+  {
+    "id": "39622",
+    "name": "Beat FM - Kampala - 96.3 FM (MP3)",
+    "url": "http://5230.cloudrad.io:8354/live",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39624",
+    "name": "107.3 BBC Radio Uganda ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39625",
+    "name": "87.9 Kaboozi fm",
+    "url": "http://162.244.80.52:8732/stream.mp3",
+    "country": "Uganda",
+    "image": "favicon-150x150.png"
+  },
+  {
+    "id": "39626",
+    "name": "Radio Pacis 90.9",
+    "url": "https://radiopacisuganda.radioca.st/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39627",
+    "name": "Gospel Radio East Africa",
+    "url": "https://c32.radioboss.fm:18451/stream?1641237600584",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39628",
+    "name": "Talksport Premier League ",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "39629",
+    "name": "Trace Urban ",
+    "url": "http://hydra.cdnstream.com/1531_backup",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39630",
+    "name": "94.0 Jamaica fm",
+    "url": "https://stream.zeno.fm/cub84trbgy5tv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39631",
+    "name": "BBC Radio  Uganda ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39635",
+    "name": "NBC News Channel ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39636",
+    "name": "Christ FM 91.6 - Kampala - 91.6 FM (AAC)",
+    "url": "http://s39.myradiostream.com/:15664/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39638",
+    "name": "90.6 Busoga One Fm",
+    "url": "https://stream.zeno.fm/xna2aad7gc9uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39639",
+    "name": "Akaboozi 87.9 FM",
+    "url": "http://162.244.80.52:8732/stream",
+    "country": "Uganda",
+    "image": "favicon-150x150.png"
+  },
+  {
+    "id": "39640",
+    "name": "BBC AFRICA UG",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39641",
+    "name": "94.4 Radio Sapientia ",
+    "url": "http://www.radiosapientia.com/live",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39642",
+    "name": "Skynews Radio ",
+    "url": "https://video.news.sky.com/snr/news/snrnews.mp3",
+    "country": "Uganda",
+    "image": "apple-touch-icon-180x180.png_v__x3d_2"
+  },
+  {
+    "id": "39643",
+    "name": "SIMBA FM",
+    "url": "https://www.radiosimba.ug/stream",
+    "country": "Uganda",
+    "image": "cropped-favicon-32x32-1-180x180.png"
+  },
+  {
+    "id": "39644",
+    "name": "91.3 Lift Worship US",
+    "url": "https://emg.streamguys1.com/lift-website",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39645",
+    "name": "DW NEWS",
+    "url": "https://dw.audiostream.io/dw/1027/mp3/64/dw08",
+    "country": "Uganda",
+    "image": "favicon-120x120.png"
+  },
+  {
+    "id": "39646",
+    "name": "CBS EMANDUSO",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39647",
+    "name": "Capital FM Uganda",
+    "url": "https://capitalfm.cloudrad.io/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39649",
+    "name": "90.1 Discovery fm Jamaica ",
+    "url": "http://usa14.fastcast4u.com:5192/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39652",
+    "name": "107.3 BBC Radio Uganda ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39654",
+    "name": "Heathafro FM",
+    "url": "http://stream.zeno.fm/rdf0qac95p8uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39656",
+    "name": "104.1 Favour FM - Gulu - 104.1 FM (MP3)",
+    "url": "http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream",
+    "country": "Uganda",
+    "image": "favicon_drktfs.png"
+  },
+  {
+    "id": "39660",
+    "name": "Vision Radio 89.1 - Mbarara - 89.1 FM (MP3)",
+    "url": "http://stream.zeno.fm/rmtdek37zxhvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39662",
+    "name": "89.2 CBS Emmanduso",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39663",
+    "name": "100.2 Radio West",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39666",
+    "name": "88.2 Sanyu FM - Kampala - 88.2 FM (MP3)",
+    "url": "http://s44.myradiostream.com/8138/listen.mp3",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39667",
+    "name": "Canton News Radio China",
+    "url": "http://ls.qingting.fm/live/4848.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39674",
+    "name": "CBS Y'OBUJAJJA",
+    "url": "http://s5.voscast.com:9908/EYOBUJJAJJA",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39676",
+    "name": "Boona FM 91.8 - Rukungiri - 91.8 FM (MP3)",
+    "url": "http://stream.zeno.fm/ndi9k9r4lp9uv",
+    "country": "Uganda",
+    "image": "Boona-Logo-Elements-03.png"
+  },
+  {
+    "id": "39677",
+    "name": "EJAZZ Radio",
+    "url": "https://eu1.reliastream.com/proxy/ejazzug?mp=/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39679",
+    "name": "CAPITAL FM",
+    "url": "http://5229.cloudrad.io:8316/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39680",
+    "name": "Capital FM - Kampala - 91.3 FM (MP3)",
+    "url": "http://capitalfm.cloudrad.io/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39683",
+    "name": "Capital FM - 91.3 FM (MP3)",
+    "url": "http://capitalfm.cloudrad.io/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39685",
+    "name": "100.5 Bukedde FM ",
+    "url": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39687",
+    "name": "CBS EMANDUSO",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39688",
+    "name": "97.3 Simba Fm ",
+    "url": "https://www.radiosimba.ug/stream",
+    "country": "Uganda",
+    "image": "cropped-favicon-32x32-1-180x180.png"
+  },
+  {
+    "id": "39689",
+    "name": "CNN INTERNATIONAL",
+    "url": "https://tunein.cdnstream1.com/2868_96.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39690",
+    "name": "Smooth",
+    "url": "http://media-the.musicradio.com/SmoothLondonMP3",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39691",
+    "name": "107.9 Pearl Fm ",
+    "url": "https://dc4.serverse.com/proxy/pearlfm/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39692",
+    "name": "80's 90's old music radio",
+    "url": "https://maggie.torontocast.com:2020/stream/100greatestofthe80s",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39693",
+    "name": "87.9 Kaboozi Fm",
+    "url": "http://162.244.80.52:8732/stream.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39694",
+    "name": "SIMBA FM",
+    "url": "https://www.radiosimba.ug/stream",
+    "country": "Uganda",
+    "image": "cropped-favicon-32x32-1-180x180.png"
+  },
+  {
+    "id": "39695",
+    "name": "Old School Music ",
+    "url": "https://ilikeitoldskool.radioca.st/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39696",
+    "name": "RADIO EAST NIGERIA ",
+    "url": "http://stream.zeno.fm/7f4w4us5wp8uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39697",
+    "name": "100.5 Bukedde FM",
+    "url": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39699",
+    "name": "91.6 Christ Fm",
+    "url": "http://5.135.154.69:15664/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39700",
+    "name": "BUKEDDE FM",
+    "url": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream",
+    "country": "Uganda",
+    "image": "icon_64x64.23d108.png"
+  },
+  {
+    "id": "39702",
+    "name": "SIMBA FM",
+    "url": "https://www.radiosimba.ug/stream",
+    "country": "Uganda",
+    "image": "cropped-favicon-32x32-1-180x180.png"
+  },
+  {
+    "id": "39708",
+    "name": "TALKSPORT 1",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39709",
+    "name": "CBS EYO'BUJAJJA",
+    "url": "http://s5.voscast.com:9908/EYOBUJJAJJA",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39711",
+    "name": "Talksport Premier League ",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "favicon-128.png"
+  },
+  {
+    "id": "39712",
+    "name": "LBC RADIO ",
+    "url": "http://media-ice.musicradio.com/LBCUK",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "39713",
+    "name": "BBC AFRICA UG",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39714",
+    "name": "SANYU FM",
+    "url": "http://s44.myradiostream.com:8138/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39715",
+    "name": "91. 3 Capital fm",
+    "url": "http://5229.cloudrad.io:8316/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39716",
+    "name": "91.3 Lift Worship US",
+    "url": "https://emg.streamguys1.com/lift-website",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39717",
+    "name": "Country music (80's)",
+    "url": "http://listen.181fm.com/181-80scountry_128k.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39718",
+    "name": "94.4 Sapientia Enkulunza Y'amagezi ",
+    "url": "http://www.radiosapientia.com/live",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39720",
+    "name": "CAPITAL FM",
+    "url": "http://5229.cloudrad.io:8316/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39721",
+    "name": "94.4 Radio sapientia",
+    "url": "http://www.radiosapientia.com/live",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39722",
+    "name": "BUDDU FM",
+    "url": "https://dc4.serverse.com/proxy/ccmxrgub/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "39723",
+    "name": "90.6 Busoga one fm",
+    "url": "https://stream.zeno.fm/xna2aad7gc9uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39725",
+    "name": "104.4 Kaboozi Fm",
+    "url": "http://162.244.80.52:8732/;stream.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39726",
+    "name": "SKY NEWS",
+    "url": "https://video.news.sky.com/snr/news/snrnews.mp3",
+    "country": "Uganda",
+    "image": "apple-touch-icon-180x180.png_v__x3d_2"
+  },
+  {
+    "id": "39727",
+    "name": "Talksport Premier League ",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39728",
+    "name": "Christian music channel ",
+    "url": "http://streaming.live365.com/a08828",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "39729",
+    "name": "Mello fm Jamaica ",
+    "url": "http://peridot.streamguys.com:5660/live",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39730",
+    "name": "95.0 Fame fm Jamaica ",
+    "url": "https://stream.zenolive.com/d5mn12bchkeuv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39731",
+    "name": "VISION FM",
+    "url": "https://stream-11.zeno.fm/rmtdek37zxhvv",
+    "country": "Uganda",
+    "image": "default.png",
+    "localIcon": "assets/station-icons/visionfm.png"
+  },
+  {
+    "id": "39733",
+    "name": "English Premier League ",
+    "url": "http://13.54.221.214:8000/sen.mp3",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "39734",
+    "name": "Great Hits Manchester ",
+    "url": "https://listen-nation.sharp-stream.com/hull.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39735",
+    "name": "Top Cristiano Dominican ",
+    "url": "https://radio.dominiserver.com/proxy/topcristianoradio?mp=/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39736",
+    "name": "Voice Of Toro - Fort Portal - 101.0 FM (MP3)",
+    "url": "http://stream.zeno.fm/uebga0ac9mzuv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39737",
+    "name": "97.3 Radio Simba",
+    "url": "https://www.radiosimba.ug/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39738",
+    "name": "DW News",
+    "url": "https://dw.audiostream.io/dw/1027/mp3/64/dw08",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39739",
+    "name": "NEXT RADIO UG",
+    "url": "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "39740",
+    "name": "Street Deejays Radio - Mbarara (MP3)",
+    "url": "http://stream.zeno.fm/nbwdnxz7na0uv",
+    "country": "Uganda",
+    "image": "aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURnck92Y2tRa01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURReUplSnh3b01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE2NzcxNjUwMDA.webp"
+  },
+  {
+    "id": "39741",
+    "name": "100.2 Radio West ",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39743",
+    "name": "BBC UGANDA ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39745",
+    "name": "100.5 Bukedde Fm",
+    "url": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream/1/",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39746",
+    "name": "Bible Indepth Radio",
+    "url": "https://stream.radiojar.com/n6c576nrga0uv",
+    "country": "Uganda",
+    "image": "cropped-bindepth-180x180.png"
+  },
+  {
+    "id": "39748",
+    "name": "Voice of Lango - Lira - 88.0 FM (MP3)",
+    "url": "http://stream.zeno.fm/gbp29ctt6rhvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39749",
+    "name": "Radio Wa FM 89.8",
+    "url": "https://nr8.newradio.it/proxy/radiowa?mp=/stream&1600983346751",
+    "country": "Uganda",
+    "image": "Radio_wa_logo_english-crop.jpg"
+  },
+  {
+    "id": "39750",
+    "name": "Rock FM Uganda - Kampala (MP3)",
+    "url": "http://titan.shoutca.st:8341/;",
+    "country": "Uganda",
+    "image": "107725-v8.jpg"
+  },
+  {
+    "id": "39752",
+    "name": "BUKEDDE FM",
+    "url": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "39753",
+    "name": "CBS EMANDUSO",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "5a8689a2-e8a2-4ab7-9055-3a93e39baab8.png"
+  },
+  {
+    "id": "39754",
+    "name": "Kitintale Christian Fellowship ",
+    "url": "https://c24.radioboss.fm:18185/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39756",
+    "name": "90.6 Busoga One ",
+    "url": "https://stream.zeno.fm/xna2aad7gc9uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39759",
+    "name": "100.2 Radio West ",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "39760",
+    "name": "CBS News",
+    "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39761",
+    "name": "Bible 24/7",
+    "url": "http://c28.radioboss.fm:8335/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39762",
+    "name": "SMOOTH FM",
+    "url": "http://media-the.musicradio.com/SmoothLondonMP3",
+    "country": "Uganda",
+    "image": "favicon-196x196.png"
+  },
+  {
+    "id": "39764",
+    "name": "CGTN Radio",
+    "url": "http://sk.cri.cn/am846.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39765",
+    "name": "KIIS 100.9 - Kampala - 100.9 FM (MP3)",
+    "url": "http://14867.cloudrad.io:9224/live",
+    "country": "Uganda",
+    "image": "302142045-131711916253380-781783264782417610-n.jpg"
+  },
+  {
+    "id": "39766",
+    "name": "NBC NEWS ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39768",
+    "name": "PEARL FM",
+    "url": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39770",
+    "name": "RADIO 4",
+    "url": "https://alvinkayemba.radioca.st/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39771",
+    "name": "BBC WORLD SERVICE ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39772",
+    "name": "NBC News Radio ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39773",
+    "name": "Premier League Live",
+    "url": "http://13.54.221.214:8000/sen.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39774",
+    "name": "98.1 Isaiah FM Trinidad ",
+    "url": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39775",
+    "name": "Jubilee Radio - Fort Portal - 105.6 FM (MP3)",
+    "url": "http://stream.zeno.fm/f3y3up2k07zuv",
+    "country": "Uganda",
+    "image": "cropped-radio-logo.jpg_fit_180_2c180__038_ssl_1"
+  },
+  {
+    "id": "39777",
+    "name": "Smooth country ",
+    "url": "https://media-ssl.musicradio.com/SmoothCountry",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39778",
+    "name": "Kiira FM 88.6 - Jinja - 88.6 FM (MP3)",
+    "url": "http://stream.zeno.fm/iydttapi8rguv",
+    "country": "Uganda",
+    "image": "cropped-logo-1-180x180.png"
+  },
+  {
+    "id": "39780",
+    "name": "CHENNAI LIVE ",
+    "url": "http://216.55.178.11:8008/",
+    "country": "Uganda",
+    "image": "sedo_logo.png"
+  },
+  {
+    "id": "39785",
+    "name": "NBC News Radio ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "39786",
+    "name": "Talksport Premier League ",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "apple-touch-icon-120x120.png"
+  },
+  {
+    "id": "39787",
+    "name": "Christian hits radio ",
+    "url": "https://shoutcast.christianrock.net/stream/5/",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "39788",
+    "name": "Talksport Premier League",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "39789",
+    "name": "CAPITAL FM",
+    "url": "http://5229.cloudrad.io:8316/;",
+    "country": "Uganda",
+    "image": "favicon-196x196.png"
+  },
+  {
+    "id": "39790",
+    "name": "Christian fm",
+    "url": "http://stream.dar.fm/27203",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "39792",
+    "name": "101.8 Radio maria",
+    "url": "http://dreamsiteradiocp.com:8052/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39794",
+    "name": "RFI Kiswahili ",
+    "url": "https://rfienswahili64k.ice.infomaniak.ch/rfienswahili-64.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39795",
+    "name": "106.1 Next Radio ",
+    "url": "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw",
+    "country": "Uganda",
+    "image": "cropped-logo-1-180x180.gif"
+  },
+  {
+    "id": "39796",
+    "name": "106.7 Glory Fm",
+    "url": "https://stream-25.zeno.fm/5remmcqkpd0uv",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39797",
+    "name": "Talksport Premier League ",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "39798",
+    "name": "Trace Urban ",
+    "url": "http://hydra.cdnstream.com/1531_backup",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39799",
+    "name": "94.0 Jamaica fm",
+    "url": "https://stream.zeno.fm/cub84trbgy5tv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39800",
+    "name": "BBC Radio  Uganda ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39804",
+    "name": "NBC News Channel ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39805",
+    "name": "Christ FM 91.6 - Kampala - 91.6 FM (AAC)",
+    "url": "http://s39.myradiostream.com/:15664/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39807",
+    "name": "90.6 Busoga One Fm",
+    "url": "https://stream.zeno.fm/xna2aad7gc9uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39808",
+    "name": "Akaboozi 87.9 FM",
+    "url": "http://162.244.80.52:8732/stream",
+    "country": "Uganda",
+    "image": "favicon-150x150.png"
+  },
+  {
+    "id": "39809",
+    "name": "BBC AFRICA UG",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39810",
+    "name": "94.4 Radio Sapientia ",
+    "url": "http://www.radiosapientia.com/live",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39811",
+    "name": "Skynews Radio ",
+    "url": "https://video.news.sky.com/snr/news/snrnews.mp3",
+    "country": "Uganda",
+    "image": "apple-touch-icon-180x180.png_v__x3d_2"
+  },
+  {
+    "id": "39812",
+    "name": "SIMBA FM",
+    "url": "https://www.radiosimba.ug/stream",
+    "country": "Uganda",
+    "image": "cropped-favicon-32x32-1-180x180.png"
+  },
+  {
+    "id": "39813",
+    "name": "91.3 Lift Worship US",
+    "url": "https://emg.streamguys1.com/lift-website",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39814",
+    "name": "DW NEWS",
+    "url": "https://dw.audiostream.io/dw/1027/mp3/64/dw08",
+    "country": "Uganda",
+    "image": "favicon-120x120.png"
+  },
+  {
+    "id": "39815",
+    "name": "CBS EMANDUSO",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39816",
+    "name": "Capital FM Uganda",
+    "url": "https://capitalfm.cloudrad.io/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39818",
+    "name": "90.1 Discovery fm Jamaica ",
+    "url": "http://usa14.fastcast4u.com:5192/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39821",
+    "name": "107.3 BBC Radio Uganda ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39823",
+    "name": "Heathafro FM",
+    "url": "http://stream.zeno.fm/rdf0qac95p8uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39825",
+    "name": "104.1 Favour FM - Gulu - 104.1 FM (MP3)",
+    "url": "http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream",
+    "country": "Uganda",
+    "image": "favicon_drktfs.png"
+  },
+  {
+    "id": "39829",
+    "name": "Vision Radio 89.1 - Mbarara - 89.1 FM (MP3)",
+    "url": "http://stream.zeno.fm/rmtdek37zxhvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39831",
+    "name": "89.2 CBS Emmanduso",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39832",
+    "name": "100.2 Radio West",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39835",
+    "name": "88.2 Sanyu FM - Kampala - 88.2 FM (MP3)",
+    "url": "http://s44.myradiostream.com/8138/listen.mp3",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39836",
+    "name": "Canton News Radio China",
+    "url": "http://ls.qingting.fm/live/4848.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39843",
+    "name": "CBS Y'OBUJAJJA",
+    "url": "http://s5.voscast.com:9908/EYOBUJJAJJA",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39845",
+    "name": "Boona FM 91.8 - Rukungiri - 91.8 FM (MP3)",
+    "url": "http://stream.zeno.fm/ndi9k9r4lp9uv",
+    "country": "Uganda",
+    "image": "Boona-Logo-Elements-03.png"
+  },
+  {
+    "id": "39846",
+    "name": "EJAZZ Radio",
+    "url": "https://eu1.reliastream.com/proxy/ejazzug?mp=/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39848",
+    "name": "CAPITAL FM",
+    "url": "http://5229.cloudrad.io:8316/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39849",
+    "name": "Capital FM - Kampala - 91.3 FM (MP3)",
+    "url": "http://capitalfm.cloudrad.io/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39851",
+    "name": "English Premier League ",
+    "url": "http://13.54.221.214:8000/sen.mp3",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "39852",
+    "name": "Great Hits Manchester ",
+    "url": "https://listen-nation.sharp-stream.com/hull.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39853",
+    "name": "Top Cristiano Dominican ",
+    "url": "https://radio.dominiserver.com/proxy/topcristianoradio?mp=/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39854",
+    "name": "Voice Of Toro - Fort Portal - 101.0 FM (MP3)",
+    "url": "http://stream.zeno.fm/uebga0ac9mzuv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39855",
+    "name": "97.3 Radio Simba",
+    "url": "https://www.radiosimba.ug/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39856",
+    "name": "DW News",
+    "url": "https://dw.audiostream.io/dw/1027/mp3/64/dw08",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39857",
+    "name": "NEXT RADIO UG",
+    "url": "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "39858",
+    "name": "Radio Wa FM 89.8",
+    "url": "https://nr8.newradio.it/proxy/radiowa?mp=/stream&1600983346751",
+    "country": "Uganda",
+    "image": "Radio_wa_logo_english-crop.jpg"
+  },
+  {
+    "id": "39859",
+    "name": "Rock FM Uganda - Kampala (MP3)",
+    "url": "http://titan.shoutca.st:8341/;",
+    "country": "Uganda",
+    "image": "107725-v8.jpg"
+  },
+  {
+    "id": "39861",
+    "name": "BUKEDDE FM",
+    "url": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "39862",
+    "name": "CBS EMANDUSO",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "5a8689a2-e8a2-4ab7-9055-3a93e39baab8.png"
+  },
+  {
+    "id": "39863",
+    "name": "Kitintale Christian Fellowship ",
+    "url": "https://c24.radioboss.fm:18185/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39865",
+    "name": "90.6 Busoga One ",
+    "url": "https://stream.zeno.fm/xna2aad7gc9uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39868",
+    "name": "100.2 Radio West ",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "39869",
+    "name": "CBS News",
+    "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39870",
+    "name": "Bible 24/7",
+    "url": "http://c28.radioboss.fm:8335/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39871",
+    "name": "SMOOTH FM",
+    "url": "http://media-the.musicradio.com/SmoothLondonMP3",
+    "country": "Uganda",
+    "image": "favicon-196x196.png"
+  },
+  {
+    "id": "39873",
+    "name": "CGTN Radio",
+    "url": "http://sk.cri.cn/am846.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39874",
+    "name": "KIIS 100.9 - Kampala - 100.9 FM (MP3)",
+    "url": "http://14867.cloudrad.io:9224/live",
+    "country": "Uganda",
+    "image": "302142045-131711916253380-781783264782417610-n.jpg"
+  },
+  {
+    "id": "39875",
+    "name": "NBC NEWS ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39877",
+    "name": "PEARL FM",
+    "url": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39879",
+    "name": "RADIO 4",
+    "url": "https://alvinkayemba.radioca.st/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39880",
+    "name": "BBC WORLD SERVICE ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39881",
+    "name": "NBC News Radio ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39882",
+    "name": "Premier League Live",
+    "url": "http://13.54.221.214:8000/sen.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39883",
+    "name": "98.1 Isaiah FM Trinidad ",
+    "url": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39884",
+    "name": "Jubilee Radio - Fort Portal - 105.6 FM (MP3)",
+    "url": "http://stream.zeno.fm/f3y3up2k07zuv",
+    "country": "Uganda",
+    "image": "cropped-radio-logo.jpg_fit_180_2c180__038_ssl_1"
+  },
+  {
+    "id": "39886",
+    "name": "Smooth country ",
+    "url": "https://media-ssl.musicradio.com/SmoothCountry",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39887",
+    "name": "Kiira FM 88.6 - Jinja - 88.6 FM (MP3)",
+    "url": "http://stream.zeno.fm/iydttapi8rguv",
+    "country": "Uganda",
+    "image": "cropped-logo-1-180x180.png"
+  },
+  {
+    "id": "39889",
+    "name": "CHENNAI LIVE ",
+    "url": "http://216.55.178.11:8008/",
+    "country": "Uganda",
+    "image": "sedo_logo.png"
+  },
+  {
+    "id": "39911",
+    "name": "KFM - Kampala - 93.3 FM (MP3)",
+    "url": "http://radio.kfm.co.ug:8000/stream",
+    "country": "Uganda",
+    "image": "339675857-1080314672889112-3227691645273953957-n.jpg"
+  },
+  {
+    "id": "39920",
+    "name": "Teshuvah radio",
+    "url": "https://stream.zeno.fm/3qpkku63z5quv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39923",
+    "name": "Dove Radio",
+    "url": "https://carolinachristian.streamguys1.com/DoveRadio",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39924",
+    "name": "Enjiri Radio (MP3)",
+    "url": "http://stream.zeno.fm/xdb8nazajqcvv",
+    "country": "Uganda",
+    "image": "aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FkYTJlNDI3LTdlMmItNDIzNS05ZDNmLTllNjExOTk0NWMzNy9pbWFnZS8_dXBkYXRlZD0xNzA4MDg4NzU1MDAw.webp"
+  },
+  {
+    "id": "39927",
+    "name": "Sanctuary FM - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/vyx334hsbphvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39928",
+    "name": "TOYAL SOUL RADIO ",
+    "url": "https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39930",
+    "name": "Dove Fm",
+    "url": "https://ice64.securenetsystems.net/DOVEMAIN",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "39934",
+    "name": "Isaiah Fm",
+    "url": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39937",
+    "name": "SANCTUARY FM",
+    "url": "http://stream.zeno.fm/vyx334hsbphvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39939",
+    "name": "CHRIST FM",
+    "url": "http://s39.myradiostream.com/:15664/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39940",
+    "name": "Dove Radio ",
+    "url": "https://carolinachristian.streamguys1.com/DoveRadio",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "39941",
+    "name": "Dove Radio",
+    "url": "https://carolinachristian.streamguys1.com/DoveRadio",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39942",
+    "name": "Enjiri Radio",
+    "url": "http://stream.zeno.fm/xdb8nazajqcvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39946",
+    "name": "ISLANDS FM",
+    "url": "http://radio.canstream.co.uk:8040/live.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39948",
+    "name": "SBN ",
+    "url": "https://live.radio.sonlife.olympusatmedia.com/index.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39949",
+    "name": "Shalom Radio Jinja (MP3)",
+    "url": "http://stream.zeno.fm/rvnov6bmdhsvv",
+    "country": "Uganda",
+    "image": "aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzYxNjc2NTg1LTMzMWYtNDVhNy05YmMxLTEwYWFmOWQ2ZDAyMi9pbWFnZS8_dXBkYXRlZD0xNjkxMTUxMDU3MDAw.webp"
+  },
+  {
+    "id": "39953",
+    "name": "SANCTUARY FM",
+    "url": "http://stream.zeno.fm/vyx334hsbphvv",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "39954",
+    "name": "SBN",
+    "url": "https://live.radio.sonlife.olympusatmedia.com/index.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39956",
+    "name": "TOTAL SOUL RADIO ",
+    "url": "https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39959",
+    "name": "Glory FM Maganjo - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/bn7dbg8w0nhvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39961",
+    "name": "ISLANDS FM",
+    "url": "http://radio.canstream.co.uk:8040/live.mp3",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "39966",
+    "name": "104.1 Favour FM - Gulu - 104.1 FM",
+    "url": "http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream",
+    "country": "Uganda",
+    "image": "image.webp"
+  },
+  {
+    "id": "39984",
+    "name": "Radiocity 97fm",
+    "url": "https://cast1.asurahosting.com/proxy/richar16/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39988",
+    "name": "BLOCK FM 103.2",
+    "url": "https://stream.zeno.fm/gxjhbloltwluv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "39989",
+    "name": "BLOCK FM 103.2",
+    "url": "https://stream.zeno.fm/gxjhbloltwluv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40021",
+    "name": "LBC News",
+    "url": "http://media-ice.musicradio.com/LBCUK",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40022",
+    "name": "Rafa  radio music ",
+    "url": "https://gains.reviveradio.net/proxy/rafaradio?mp=/stream",
+    "country": "Uganda",
+    "image": "android-icon-144x144-1.png"
+  },
+  {
+    "id": "40023",
+    "name": "Shalom Radio Jinja (MP3)",
+    "url": "http://stream.zeno.fm/rvnov6bmdhsvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40025",
+    "name": "100.2 Radio West ",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40026",
+    "name": "94.4 Radio Sapientia ",
+    "url": "http://www.radiosapientia.com/live",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40027",
+    "name": "Ancient Faith Radio",
+    "url": "https://ancientfaith.streamguys1.com/music",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40028",
+    "name": "Christ Radio - Lira (MP3)",
+    "url": "http://stream.zeno.fm/zupkzgrj4dauv",
+    "country": "Uganda",
+    "image": "aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzdiOWQ2ZWQ3LWY1Y2YtNGE3YS04MThkLWU3YWQ3ODY5YzExMy9pbWFnZS8_dXBkYXRlZD0xNjc5OTgyNTY5MDAw.webp"
+  },
+  {
+    "id": "40029",
+    "name": "Exodus Comfort Radio - Mbarara (MP3)",
+    "url": "http://stream.zeno.fm/k2zma0qewtjvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40030",
+    "name": "JOY HITS RADIO ",
+    "url": "http://joyhits.online/joyhitshq.mp3",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40032",
+    "name": "Radio Yoo (MP3)",
+    "url": "http://stream.zeno.fm/v73tc5gwaphvv",
+    "country": "Uganda",
+    "image": "aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJby1MT3hBZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJNDh6eGlnb01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2ODk3NjkxNzYwMDA.webp"
+  },
+  {
+    "id": "40033",
+    "name": "Smooth Radio ",
+    "url": "http://media-the.musicradio.com/SmoothEastMids",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40034",
+    "name": "SONLIFE RADIO",
+    "url": "https://live.radio.sonlife.olympusatmedia.com/index.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40035",
+    "name": "talkRADIO",
+    "url": "https://radio.talkradio.co.uk/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40037",
+    "name": "THROWBACK RADIO",
+    "url": "https://ilikeitoldskool.radioca.st/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40038",
+    "name": "Way To God Radio (MP3)",
+    "url": "http://stream.zeno.fm/g876nxxz8vzuv",
+    "country": "Uganda",
+    "image": "aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNRNEthUjdBc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNRa1AyamhRc01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NTAxODg3MjQwMDA.webp"
+  },
+  {
+    "id": "40039",
+    "name": "100.2 Radio West",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40040",
+    "name": "101.8 Radio Maria",
+    "url": "http://dreamsiteradiocp.com:8052/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40041",
+    "name": "91.2 Capital FM",
+    "url": "https://capitalfm.cloudrad.io/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40042",
+    "name": "Church Radio (MP3)",
+    "url": "http://stream.zeno.fm/k0weys53f78uv",
+    "country": "Uganda",
+    "image": "aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUN3Z2RXel9RZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUR3cE9feGhRa01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE2MDYyNjEwMDA.webp"
+  },
+  {
+    "id": "40045",
+    "name": "TalkSport 1",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40046",
+    "name": "100.2 Radio West ",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40048",
+    "name": "87.9 Kaboozi Fm",
+    "url": "http://162.244.80.52:8732/;stream.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40050",
+    "name": "Bugwere Fm",
+    "url": "https://stream-174.zeno.fm/jddn0e0z9f0uv?zt",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40051",
+    "name": "CENTENARY RADIO",
+    "url": "https://c24.radioboss.fm:18185/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40052",
+    "name": "Chosen Radio Uganda (MP3)",
+    "url": "http://stream.zeno.fm/6uxwuag3srhvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40053",
+    "name": "Dema Radio - Gospel Promotions (MP3)",
+    "url": "http://stream.zeno.fm/m96foqqk7bxuv",
+    "country": "Uganda",
+    "image": "faviconnew.png"
+  },
+  {
+    "id": "40054",
+    "name": "SANYU FM",
+    "url": "http://s44.myradiostream.com:8138/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40055",
+    "name": "SEN Sports ",
+    "url": "http://13.54.221.214:8000/sen.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40057",
+    "name": "106.1 NxtRadio",
+    "url": "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40058",
+    "name": "Christ Love Radio (MP3)",
+    "url": "http://stream.zeno.fm/orioba9siustv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40060",
+    "name": "Fun Kids Radio ",
+    "url": "https://listen-funkids.sharp-stream.com/funkids.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40061",
+    "name": "Joy hits channel ",
+    "url": "http://joyhits.online/joyhitshq.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40062",
+    "name": "Radio Sinza (MP3)",
+    "url": "http://stream.zeno.fm/raoopfak6k2vv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40063",
+    "name": "SMOOTH RADIO UK",
+    "url": "http://media-the.musicradio.com/SmoothEastMids",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40065",
+    "name": "Turn Radio - Revive Your Soul (MP3)",
+    "url": "http://stream.zeno.fm/cuejngegi8btv",
+    "country": "Uganda",
+    "image": "Turn-Radio.jpg"
+  },
+  {
+    "id": "40069",
+    "name": "ANCIENT FAITH RADIO",
+    "url": "https://ancientfaith.streamguys1.com/music",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40071",
+    "name": "Nakawa Online Radio - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/6hs5suuvqfhvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40072",
+    "name": "Skynet Radio ",
+    "url": "https://stream-44.zeno.fm/1uhqawtfk5zuv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40073",
+    "name": "SONLIFE BROADCASTING NETWORK ",
+    "url": "https://live.radio.sonlife.olympusatmedia.com/index.m3u8",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40074",
+    "name": "Sonlife Radio ",
+    "url": "https://storage.sardius.media/archives/Ea867F3e1F56B06/events/site_5F46D0A41C/playlist-eng.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40076",
+    "name": "Sport Fm",
+    "url": "http://n0b.radiojar.com/yb7bcbkfewzuv?rj-ttl=5&rj-tok=AAABhE8OfscAWLZ-gC5hhZqxPA",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40077",
+    "name": "Talksport ",
+    "url": "https://radio.talksport.com/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=383957",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40080",
+    "name": "100.2 Radio West ",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40082",
+    "name": "90.6 Busoga One",
+    "url": "https://stream.zeno.fm/xna2aad7gc9uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40083",
+    "name": "Chosen Radio Uganda (MP3)",
+    "url": "http://stream.zeno.fm/6uxwuag3srhvv",
+    "country": "Uganda",
+    "image": "aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJdTd6bGdRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJLThhNXR3b01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjIwMTMwNzMwMDA.webp"
+  },
+  {
+    "id": "40084",
+    "name": "Exodus Comfort Radio",
+    "url": "http://stream.zeno.fm/k2zma0qewtjvv",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "40085",
+    "name": "Jembe Fm",
+    "url": "https://cast3.asurahosting.com/proxy/jembemed/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40086",
+    "name": "Radio Ankole 99.3 Fm",
+    "url": "https://stream.zeno.fm/xvslsscul2wvv",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40089",
+    "name": "UgOnlineMedia - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/8t4dtkxfgkuuv",
+    "country": "Uganda",
+    "image": "image.jpg"
+  },
+  {
+    "id": "40091",
+    "name": "CBN News",
+    "url": "http://cbnradio.streamguys1.com/news-128K?app=cbnplayer",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40092",
+    "name": "Islands FM",
+    "url": "http://radio.canstream.co.uk:8040/live.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40093",
+    "name": "Joy Hits Radio ",
+    "url": "http://joyhits.online/joyhitshq.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40094",
+    "name": "Radio Buddu",
+    "url": "https://dc4.serverse.com/proxy/ccmxrgub/stream?",
+    "country": "Uganda",
+    "image": "logom.png"
+  },
+  {
+    "id": "40097",
+    "name": "Buyinza Fm",
+    "url": "http://stream.zeno.fm/wcancipcbrevv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40098",
+    "name": "Buyinza FM (MP3)",
+    "url": "http://stream.zeno.fm/wcancipcbrevv",
+    "country": "Uganda",
+    "image": "aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzcyNThjMWRkLTEzZTEtNGQwYi04YzQzLWNlZWQ2NmUxYzlmMC9pbWFnZS8_dXBkYXRlZD0xNjY2MTAzNjYwMDAw.webp"
+  },
+  {
+    "id": "40099",
+    "name": "Dema Gospel Promotions (MP3)",
+    "url": "http://stream.zeno.fm/m96foqqk7bxuv",
+    "country": "Uganda",
+    "image": "faviconnew.png"
+  },
+  {
+    "id": "40100",
+    "name": "Dema Gospel Promotions (MP3)",
+    "url": "http://stream.zeno.fm/m96foqqk7bxuv",
+    "country": "Uganda",
+    "image": "demagpwhite.jpg"
+  },
+  {
+    "id": "40102",
+    "name": "Prayer Tower Radio (MP3)",
+    "url": "http://stream.zeno.fm/ymapb78yznhvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40103",
+    "name": "RADIO SAPIENTIA",
+    "url": "http://www.radiosapientia.com/live",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40104",
+    "name": "Radiocity 97fm",
+    "url": "https://cast1.asurahosting.com/proxy/richar16/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40105",
+    "name": "Sport Fm",
+    "url": "http://n0b.radiojar.com/yb7bcbkfewzuv?rj-ttl=5&rj-tok=AAABhE8OfscAWLZ-gC5hhZqxPA",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40106",
+    "name": "UgOnlineMedia - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/8t4dtkxfgkuuv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40108",
+    "name": "Dema Radio - Gospel Promotions (MP3)",
+    "url": "http://stream.zeno.fm/m96foqqk7bxuv",
+    "country": "Uganda",
+    "image": "faviconnew.png"
+  },
+  {
+    "id": "40109",
+    "name": "Dove Radio ",
+    "url": "https://ice64.securenetsystems.net/DOVEMAIN",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40110",
+    "name": "EMC Radio - Kampala (MP3)",
+    "url": "http://c22.radioboss.fm:18040/stream",
+    "country": "Uganda",
+    "image": "emcradio.jpg"
+  },
+  {
+    "id": "40112",
+    "name": "Gospel Kingz (MP3)",
+    "url": "http://stream.zeno.fm/vstzctms6rhvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40113",
+    "name": "Heart Xmas ",
+    "url": "https://media-ssl.musicradio.com/HeartXmas",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40114",
+    "name": "Heavenly Altar Church Radio - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/6s8719ctbphvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40117",
+    "name": "Radio Sinza (MP3)",
+    "url": "http://stream.zeno.fm/raoopfak6k2vv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40119",
+    "name": "Turn Radio",
+    "url": "http://stream.zeno.fm/cuejngegi8btv",
+    "country": "Uganda",
+    "image": "Turn-Radio.jpg"
+  },
+  {
+    "id": "40120",
+    "name": "Turn Radio ",
+    "url": "http://stream.zeno.fm/cuejngegi8btv",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40121",
+    "name": "BBC WORLD SERVICE ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40122",
+    "name": "Boona FM 91.8 - Rukungiri - 91.8 FM (MP3)",
+    "url": "http://stream.zeno.fm/ndi9k9r4lp9uv",
+    "country": "Uganda",
+    "image": "Boona-Logo-Elements-03.png"
+  },
+  {
+    "id": "40123",
+    "name": "EJAZZ Xtra",
+    "url": "https://c32.radioboss.fm:18320/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40124",
+    "name": "PREMIER LEAGUE",
+    "url": "http://13.54.221.214:8000/sen.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40125",
+    "name": "Sky News ",
+    "url": "https://video.news.sky.com/snr/news/snrnews.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40126",
+    "name": "100.5 Bukedde FM ",
+    "url": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40127",
+    "name": "87.9 Kaboozi Fm",
+    "url": "http://162.244.80.52:8732/stream.mp3",
+    "country": "Uganda",
+    "image": "favicon-96x96.png"
+  },
+  {
+    "id": "40130",
+    "name": "90.6 Busoga One",
+    "url": "https://stream.zeno.fm/xna2aad7gc9uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40131",
+    "name": "BIBLE 24/7",
+    "url": "http://c28.radioboss.fm:8335/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40132",
+    "name": "RADIO SAPIENTIA",
+    "url": "http://www.radiosapientia.com/live",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40133",
+    "name": "Voice of Kyankwanzi - Kiboga - 89.7 FM (MP3)",
+    "url": "http://stream.zeno.fm/eyzf4ddwqcmvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40134",
+    "name": "Capital FM UK ",
+    "url": "http://media-ice.musicradio.com/CapitalLiverpoolMP3",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40136",
+    "name": "KABOOZI FM",
+    "url": "http://162.244.80.52:8732/stream.mp3",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40138",
+    "name": "PEARL FM",
+    "url": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40139",
+    "name": "RADIO WEST ",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40140",
+    "name": "Sky News ",
+    "url": "https://video.news.sky.com/snr/news/snrnews.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40141",
+    "name": "100.2 Radio West ",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40143",
+    "name": "CAPITAL FM UG",
+    "url": "http://capitalfm.cloudrad.io/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40145",
+    "name": "Kitintale Christian Fellowship ",
+    "url": "https://c24.radioboss.fm:18185/stream",
+    "country": "Uganda",
+    "image": "favicon.png"
+  },
+  {
+    "id": "40146",
+    "name": "Radio Wa",
+    "url": "https://nr8.newradio.it/proxy/radiowa?mp=/stream&1600983346751",
+    "country": "Uganda",
+    "image": "radio-wa1.jpg"
+  },
+  {
+    "id": "40147",
+    "name": "RFI Kiswahili ",
+    "url": "https://rfiswahili96k.ice.infomaniak.ch/rfiswahili-96k.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40149",
+    "name": "Smooth Radio",
+    "url": "http://media-the.musicradio.com/SmoothEastMids",
+    "country": "Uganda",
+    "image": "favicon-196x196.png"
+  },
+  {
+    "id": "40150",
+    "name": "TalkSport",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40151",
+    "name": "X FM",
+    "url": "http://stream.hydeinnovations.com:2020/stream/xfm/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40153",
+    "name": "Church Radio (MP3)",
+    "url": "http://stream.zeno.fm/k0weys53f78uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40154",
+    "name": "FUN KIDS RADIO",
+    "url": "https://listen-funkids.sharp-stream.com/funkids.mp3",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40157",
+    "name": "Premier League Live",
+    "url": "http://13.54.221.214:8000/sen.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40158",
+    "name": "Radiocity 97fm",
+    "url": "https://cast1.asurahosting.com/proxy/richar16/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40166",
+    "name": "KITINTALE CHRISTIAN FELLOWSHIP ",
+    "url": "https://c24.radioboss.fm:18185/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40168",
+    "name": "TALKRADIO",
+    "url": "https://radio.talkradio.co.uk/stream",
+    "country": "Uganda",
+    "image": "favicon.png"
+  },
+  {
+    "id": "40169",
+    "name": "US Local News",
+    "url": "http://usa8.fastcast4u.com:5168/1/",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40170",
+    "name": "106.1 NxtRadio",
+    "url": "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40171",
+    "name": "BIBLE 24/7",
+    "url": "http://c28.radioboss.fm:8335/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40173",
+    "name": "Radio Benediction Dominican ",
+    "url": "https://samuel.i-radio.co:9000/radiobendicion",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40174",
+    "name": "RADIO BUDDU",
+    "url": "https://dc4.serverse.com/proxy/ccmxrgub/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40175",
+    "name": "SAPIENTIA ",
+    "url": "http://www.radiosapientia.com/live",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40176",
+    "name": "Sonlife Broadcasting Network ",
+    "url": "https://live.radio.sonlife.olympusatmedia.com/index.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40177",
+    "name": "talkRADIO",
+    "url": "https://radio.talkradio.co.uk/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40180",
+    "name": "Smooth Chill",
+    "url": "https://media-ssl.musicradio.com/ChillMP3",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40181",
+    "name": "Sound City ",
+    "url": "http://pureplay.cdnstream1.com/6038_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRu",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40182",
+    "name": "TALK RADIO ",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TALK_RADIO_EUROPE.mp3",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40183",
+    "name": "BBC Radio ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40184",
+    "name": "Bugwere Fm",
+    "url": "https://stream-174.zeno.fm/jddn0e0z9f0uv?zt",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40185",
+    "name": "CAPITAL FM UK",
+    "url": "http://capitalfm.cloudrad.io/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40189",
+    "name": "Smooth Country ",
+    "url": "https://media-ssl.musicradio.com/SmoothCountry",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40190",
+    "name": "SNB",
+    "url": "https://live.radio.sonlife.olympusatmedia.com/index.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40191",
+    "name": "100.2 Radio West",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40192",
+    "name": "88.6 Kiira Fm",
+    "url": "http://stream.zeno.fm/iydttapi8rguv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40193",
+    "name": "Christian Radio ",
+    "url": "https://shoutcast.christianrock.net/stream/5/",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40194",
+    "name": "KITINTALE CHRISTIAN FELLOWSHIP",
+    "url": "https://c24.radioboss.fm:18185/stream",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "40197",
+    "name": "Voice Of Heaven - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/s961sfesdmntv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40198",
+    "name": "107.9 Pearl Fm",
+    "url": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40199",
+    "name": "88.1 Centenary Fm",
+    "url": "https://c24.radioboss.fm:18185/stream",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "40201",
+    "name": "Bible Trivia ",
+    "url": "https://streamer.radio.co/se1aece429/listen",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40202",
+    "name": "CBS Emanduso",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40205",
+    "name": "LBC News",
+    "url": "http://media-ice.musicradio.com/LBCUK",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40208",
+    "name": "Prayer Tower Radio - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/ymapb78yznhvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40209",
+    "name": "Progressive Radio Network ",
+    "url": "http://216.55.165.146:8000/listen.pls",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40210",
+    "name": "Son Life radio ",
+    "url": "https://live.radio.sonlife.olympusatmedia.com/index.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40211",
+    "name": "Vision Radio 89.1 - Mbarara - 89.1 FM (MP3)",
+    "url": "http://stream.zeno.fm/rmtdek37zxhvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40212",
+    "name": "talkRADIO ",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TALK_RADIO_EUROPE.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40213",
+    "name": "Talksport Spanish ",
+    "url": "http://live.talksport.com/channel1m-es",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40215",
+    "name": "Bible 24/7",
+    "url": "http://c28.radioboss.fm:8335/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40216",
+    "name": "CBS EYO'BUJAJJA",
+    "url": "http://s5.voscast.com:9908/EYOBUJJAJJA",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40217",
+    "name": "Christ Radio - Lira (MP3)",
+    "url": "http://stream.zeno.fm/zupkzgrj4dauv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40218",
+    "name": "88.6 Kiira FM ",
+    "url": "http://stream.zeno.fm/iydttapi8rguv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40220",
+    "name": "Free Sports Radio ",
+    "url": "https://stream.zeno.fm/31nnibfpnxktv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40221",
+    "name": "BUKEDDE FM",
+    "url": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40222",
+    "name": "CBS EMANDUSO",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "5a8689a2-e8a2-4ab7-9055-3a93e39baab8.png"
+  },
+  {
+    "id": "40223",
+    "name": "Kitintale Christian Fellowship ",
+    "url": "https://c24.radioboss.fm:18185/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40225",
+    "name": "90.6 Busoga One ",
+    "url": "https://stream.zeno.fm/xna2aad7gc9uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40228",
+    "name": "100.2 Radio West ",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "40229",
+    "name": "CBS News",
+    "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40230",
+    "name": "Bible 24/7",
+    "url": "http://c28.radioboss.fm:8335/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40231",
+    "name": "SMOOTH FM",
+    "url": "http://media-the.musicradio.com/SmoothLondonMP3",
+    "country": "Uganda",
+    "image": "favicon-196x196.png"
+  },
+  {
+    "id": "40233",
+    "name": "CGTN Radio",
+    "url": "http://sk.cri.cn/am846.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40234",
+    "name": "KIIS 100.9 - Kampala - 100.9 FM (MP3)",
+    "url": "http://14867.cloudrad.io:9224/live",
+    "country": "Uganda",
+    "image": "302142045-131711916253380-781783264782417610-n.jpg"
+  },
+  {
+    "id": "40235",
+    "name": "NBC NEWS ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40237",
+    "name": "PEARL FM",
+    "url": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40239",
+    "name": "RADIO 4",
+    "url": "https://alvinkayemba.radioca.st/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40240",
+    "name": "BBC WORLD SERVICE ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40241",
+    "name": "NBC News Radio ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40242",
+    "name": "Premier League Live",
+    "url": "http://13.54.221.214:8000/sen.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40243",
+    "name": "98.1 Isaiah FM Trinidad ",
+    "url": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40244",
+    "name": "Jubilee Radio - Fort Portal - 105.6 FM (MP3)",
+    "url": "http://stream.zeno.fm/f3y3up2k07zuv",
+    "country": "Uganda",
+    "image": "cropped-radio-logo.jpg_fit_180_2c180__038_ssl_1"
+  },
+  {
+    "id": "40246",
+    "name": "Smooth country ",
+    "url": "https://media-ssl.musicradio.com/SmoothCountry",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40247",
+    "name": "Kiira FM 88.6 - Jinja - 88.6 FM (MP3)",
+    "url": "http://stream.zeno.fm/iydttapi8rguv",
+    "country": "Uganda",
+    "image": "cropped-logo-1-180x180.png"
+  },
+  {
+    "id": "40249",
+    "name": "CHENNAI LIVE ",
+    "url": "http://216.55.178.11:8008/",
+    "country": "Uganda",
+    "image": "sedo_logo.png"
+  },
+  {
+    "id": "40254",
+    "name": "NBC News Radio ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "40255",
+    "name": "Talksport Premier League ",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "apple-touch-icon-120x120.png"
+  },
+  {
+    "id": "40256",
+    "name": "Christian hits radio ",
+    "url": "https://shoutcast.christianrock.net/stream/5/",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "40257",
+    "name": "Talksport Premier League",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "40258",
+    "name": "CAPITAL FM",
+    "url": "http://5229.cloudrad.io:8316/;",
+    "country": "Uganda",
+    "image": "favicon-196x196.png"
+  },
+  {
+    "id": "40259",
+    "name": "Christian fm",
+    "url": "http://stream.dar.fm/27203",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "40261",
+    "name": "101.8 Radio maria",
+    "url": "http://dreamsiteradiocp.com:8052/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40263",
+    "name": "RFI Kiswahili ",
+    "url": "https://rfienswahili64k.ice.infomaniak.ch/rfienswahili-64.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40264",
+    "name": "106.1 Next Radio ",
+    "url": "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw",
+    "country": "Uganda",
+    "image": "cropped-logo-1-180x180.gif"
+  },
+  {
+    "id": "40265",
+    "name": "106.7 Glory Fm",
+    "url": "https://stream-25.zeno.fm/5remmcqkpd0uv",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40266",
+    "name": "Talksport Premier League ",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40267",
+    "name": "Trace Urban ",
+    "url": "http://hydra.cdnstream.com/1531_backup",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40268",
+    "name": "94.0 Jamaica fm",
+    "url": "https://stream.zeno.fm/cub84trbgy5tv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40269",
+    "name": "BBC Radio  Uganda ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40273",
+    "name": "NBC News Channel ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40274",
+    "name": "Christ FM 91.6 - Kampala - 91.6 FM (AAC)",
+    "url": "http://s39.myradiostream.com/:15664/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40276",
+    "name": "90.6 Busoga One Fm",
+    "url": "https://stream.zeno.fm/xna2aad7gc9uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40277",
+    "name": "Akaboozi 87.9 FM",
+    "url": "http://162.244.80.52:8732/stream",
+    "country": "Uganda",
+    "image": "favicon-150x150.png"
+  },
+  {
+    "id": "40278",
+    "name": "BBC AFRICA UG",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40279",
+    "name": "94.4 Radio Sapientia ",
+    "url": "http://www.radiosapientia.com/live",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40280",
+    "name": "Skynews Radio ",
+    "url": "https://video.news.sky.com/snr/news/snrnews.mp3",
+    "country": "Uganda",
+    "image": "apple-touch-icon-180x180.png_v__x3d_2"
+  },
+  {
+    "id": "40281",
+    "name": "SIMBA FM",
+    "url": "https://www.radiosimba.ug/stream",
+    "country": "Uganda",
+    "image": "cropped-favicon-32x32-1-180x180.png"
+  },
+  {
+    "id": "40282",
+    "name": "91.3 Lift Worship US",
+    "url": "https://emg.streamguys1.com/lift-website",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40283",
+    "name": "DW NEWS",
+    "url": "https://dw.audiostream.io/dw/1027/mp3/64/dw08",
+    "country": "Uganda",
+    "image": "favicon-120x120.png"
+  },
+  {
+    "id": "40284",
+    "name": "CBS EMANDUSO",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40285",
+    "name": "Capital FM Uganda",
+    "url": "https://capitalfm.cloudrad.io/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40287",
+    "name": "90.1 Discovery fm Jamaica ",
+    "url": "http://usa14.fastcast4u.com:5192/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40290",
+    "name": "107.3 BBC Radio Uganda ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40292",
+    "name": "Heathafro FM",
+    "url": "http://stream.zeno.fm/rdf0qac95p8uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40294",
+    "name": "104.1 Favour FM - Gulu - 104.1 FM (MP3)",
+    "url": "http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream",
+    "country": "Uganda",
+    "image": "favicon_drktfs.png"
+  },
+  {
+    "id": "40298",
+    "name": "Vision Radio 89.1 - Mbarara - 89.1 FM (MP3)",
+    "url": "http://stream.zeno.fm/rmtdek37zxhvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40300",
+    "name": "89.2 CBS Emmanduso",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40301",
+    "name": "100.2 Radio West",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40304",
+    "name": "88.2 Sanyu FM - Kampala - 88.2 FM (MP3)",
+    "url": "http://s44.myradiostream.com/8138/listen.mp3",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40305",
+    "name": "Canton News Radio China",
+    "url": "http://ls.qingting.fm/live/4848.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40312",
+    "name": "CBS Y'OBUJAJJA",
+    "url": "http://s5.voscast.com:9908/EYOBUJJAJJA",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40314",
+    "name": "Boona FM 91.8 - Rukungiri - 91.8 FM (MP3)",
+    "url": "http://stream.zeno.fm/ndi9k9r4lp9uv",
+    "country": "Uganda",
+    "image": "Boona-Logo-Elements-03.png"
+  },
+  {
+    "id": "40315",
+    "name": "EJAZZ Radio",
+    "url": "https://eu1.reliastream.com/proxy/ejazzug?mp=/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40317",
+    "name": "CAPITAL FM",
+    "url": "http://5229.cloudrad.io:8316/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40318",
+    "name": "Capital FM - Kampala - 91.3 FM (MP3)",
+    "url": "http://capitalfm.cloudrad.io/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40320",
+    "name": "English Premier League ",
+    "url": "http://13.54.221.214:8000/sen.mp3",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40321",
+    "name": "Great Hits Manchester ",
+    "url": "https://listen-nation.sharp-stream.com/hull.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40322",
+    "name": "Top Cristiano Dominican ",
+    "url": "https://radio.dominiserver.com/proxy/topcristianoradio?mp=/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40323",
+    "name": "Voice Of Toro - Fort Portal - 101.0 FM (MP3)",
+    "url": "http://stream.zeno.fm/uebga0ac9mzuv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40324",
+    "name": "97.3 Radio Simba",
+    "url": "https://www.radiosimba.ug/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40325",
+    "name": "DW News",
+    "url": "https://dw.audiostream.io/dw/1027/mp3/64/dw08",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40326",
+    "name": "NEXT RADIO UG",
+    "url": "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40327",
+    "name": "Radio Wa FM 89.8",
+    "url": "https://nr8.newradio.it/proxy/radiowa?mp=/stream&1600983346751",
+    "country": "Uganda",
+    "image": "Radio_wa_logo_english-crop.jpg"
+  },
+  {
+    "id": "40328",
+    "name": "Rock FM Uganda - Kampala (MP3)",
+    "url": "http://titan.shoutca.st:8341/;",
+    "country": "Uganda",
+    "image": "107725-v8.jpg"
+  },
+  {
+    "id": "40330",
+    "name": "BUKEDDE FM",
+    "url": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40331",
+    "name": "CBS EMANDUSO",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "5a8689a2-e8a2-4ab7-9055-3a93e39baab8.png"
+  },
+  {
+    "id": "40332",
+    "name": "Kitintale Christian Fellowship ",
+    "url": "https://c24.radioboss.fm:18185/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40334",
+    "name": "90.6 Busoga One ",
+    "url": "https://stream.zeno.fm/xna2aad7gc9uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40337",
+    "name": "100.2 Radio West ",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "40338",
+    "name": "CBS News",
+    "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40339",
+    "name": "Bible 24/7",
+    "url": "http://c28.radioboss.fm:8335/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40340",
+    "name": "SMOOTH FM",
+    "url": "http://media-the.musicradio.com/SmoothLondonMP3",
+    "country": "Uganda",
+    "image": "favicon-196x196.png"
+  },
+  {
+    "id": "40342",
+    "name": "CGTN Radio",
+    "url": "http://sk.cri.cn/am846.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40343",
+    "name": "KIIS 100.9 - Kampala - 100.9 FM (MP3)",
+    "url": "http://14867.cloudrad.io:9224/live",
+    "country": "Uganda",
+    "image": "302142045-131711916253380-781783264782417610-n.jpg"
+  },
+  {
+    "id": "40344",
+    "name": "NBC NEWS ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40346",
+    "name": "PEARL FM",
+    "url": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40348",
+    "name": "RADIO 4",
+    "url": "https://alvinkayemba.radioca.st/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40349",
+    "name": "BBC WORLD SERVICE ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40350",
+    "name": "NBC News Radio ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40351",
+    "name": "Premier League Live",
+    "url": "http://13.54.221.214:8000/sen.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40352",
+    "name": "98.1 Isaiah FM Trinidad ",
+    "url": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40353",
+    "name": "Jubilee Radio - Fort Portal - 105.6 FM (MP3)",
+    "url": "http://stream.zeno.fm/f3y3up2k07zuv",
+    "country": "Uganda",
+    "image": "cropped-radio-logo.jpg_fit_180_2c180__038_ssl_1"
+  },
+  {
+    "id": "40355",
+    "name": "Smooth country ",
+    "url": "https://media-ssl.musicradio.com/SmoothCountry",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40356",
+    "name": "Kiira FM 88.6 - Jinja - 88.6 FM (MP3)",
+    "url": "http://stream.zeno.fm/iydttapi8rguv",
+    "country": "Uganda",
+    "image": "cropped-logo-1-180x180.png"
+  },
+  {
+    "id": "40358",
+    "name": "CHENNAI LIVE ",
+    "url": "http://216.55.178.11:8008/",
+    "country": "Uganda",
+    "image": "sedo_logo.png"
+  },
+  {
+    "id": "40363",
+    "name": "NBC News Radio ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "apple-icon-120x120.png"
+  },
+  {
+    "id": "40364",
+    "name": "Talksport Premier League ",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "apple-touch-icon-120x120.png"
+  },
+  {
+    "id": "40365",
+    "name": "Christian hits radio ",
+    "url": "https://shoutcast.christianrock.net/stream/5/",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "40366",
+    "name": "Talksport Premier League",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "40367",
+    "name": "CAPITAL FM",
+    "url": "http://5229.cloudrad.io:8316/;",
+    "country": "Uganda",
+    "image": "favicon-196x196.png"
+  },
+  {
+    "id": "40368",
+    "name": "Christian fm",
+    "url": "http://stream.dar.fm/27203",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "40370",
+    "name": "101.8 Radio maria",
+    "url": "http://dreamsiteradiocp.com:8052/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40372",
+    "name": "RFI Kiswahili ",
+    "url": "https://rfienswahili64k.ice.infomaniak.ch/rfienswahili-64.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40373",
+    "name": "106.1 Next Radio ",
+    "url": "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw",
+    "country": "Uganda",
+    "image": "cropped-logo-1-180x180.gif"
+  },
+  {
+    "id": "40374",
+    "name": "106.7 Glory Fm",
+    "url": "https://stream-25.zeno.fm/5remmcqkpd0uv",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40375",
+    "name": "Talksport Premier League ",
+    "url": "https://radio.talksport.com/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40376",
+    "name": "Trace Urban ",
+    "url": "http://hydra.cdnstream.com/1531_backup",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40377",
+    "name": "94.0 Jamaica fm",
+    "url": "https://stream.zeno.fm/cub84trbgy5tv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40378",
+    "name": "BBC Radio  Uganda ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40382",
+    "name": "NBC News Channel ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40383",
+    "name": "Christ FM 91.6 - Kampala - 91.6 FM (AAC)",
+    "url": "http://s39.myradiostream.com/:15664/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40385",
+    "name": "90.6 Busoga One Fm",
+    "url": "https://stream.zeno.fm/xna2aad7gc9uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40386",
+    "name": "Akaboozi 87.9 FM",
+    "url": "http://162.244.80.52:8732/stream",
+    "country": "Uganda",
+    "image": "favicon-150x150.png"
+  },
+  {
+    "id": "40387",
+    "name": "BBC AFRICA UG",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40388",
+    "name": "94.4 Radio Sapientia ",
+    "url": "http://www.radiosapientia.com/live",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40389",
+    "name": "Skynews Radio ",
+    "url": "https://video.news.sky.com/snr/news/snrnews.mp3",
+    "country": "Uganda",
+    "image": "apple-touch-icon-180x180.png_v__x3d_2"
+  },
+  {
+    "id": "40390",
+    "name": "SIMBA FM",
+    "url": "https://www.radiosimba.ug/stream",
+    "country": "Uganda",
+    "image": "cropped-favicon-32x32-1-180x180.png"
+  },
+  {
+    "id": "40391",
+    "name": "91.3 Lift Worship US",
+    "url": "https://emg.streamguys1.com/lift-website",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40392",
+    "name": "DW NEWS",
+    "url": "https://dw.audiostream.io/dw/1027/mp3/64/dw08",
+    "country": "Uganda",
+    "image": "favicon-120x120.png"
+  },
+  {
+    "id": "40393",
+    "name": "CBS EMANDUSO",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40394",
+    "name": "Capital FM Uganda",
+    "url": "https://capitalfm.cloudrad.io/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40396",
+    "name": "90.1 Discovery fm Jamaica ",
+    "url": "http://usa14.fastcast4u.com:5192/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40399",
+    "name": "107.3 BBC Radio Uganda ",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40401",
+    "name": "Heathafro FM",
+    "url": "http://stream.zeno.fm/rdf0qac95p8uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40403",
+    "name": "104.1 Favour FM - Gulu - 104.1 FM (MP3)",
+    "url": "http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream",
+    "country": "Uganda",
+    "image": "favicon_drktfs.png"
+  },
+  {
+    "id": "40407",
+    "name": "Vision Radio 89.1 - Mbarara - 89.1 FM (MP3)",
+    "url": "http://stream.zeno.fm/rmtdek37zxhvv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40409",
+    "name": "89.2 CBS Emmanduso",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40410",
+    "name": "100.2 Radio West",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40413",
+    "name": "88.2 Sanyu FM - Kampala - 88.2 FM (MP3)",
+    "url": "http://s44.myradiostream.com/8138/listen.mp3",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40414",
+    "name": "Canton News Radio China",
+    "url": "http://ls.qingting.fm/live/4848.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40421",
+    "name": "CBS Y'OBUJAJJA",
+    "url": "http://s5.voscast.com:9908/EYOBUJJAJJA",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40423",
+    "name": "Boona FM 91.8 - Rukungiri - 91.8 FM (MP3)",
+    "url": "http://stream.zeno.fm/ndi9k9r4lp9uv",
+    "country": "Uganda",
+    "image": "Boona-Logo-Elements-03.png"
+  },
+  {
+    "id": "40424",
+    "name": "EJAZZ Radio",
+    "url": "https://eu1.reliastream.com/proxy/ejazzug?mp=/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40426",
+    "name": "CAPITAL FM",
+    "url": "http://5229.cloudrad.io:8316/;",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40427",
+    "name": "Capital FM - Kampala - 91.3 FM (MP3)",
+    "url": "http://capitalfm.cloudrad.io/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40429",
+    "name": "English Premier League ",
+    "url": "http://13.54.221.214:8000/sen.mp3",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40430",
+    "name": "Great Hits Manchester ",
+    "url": "https://listen-nation.sharp-stream.com/hull.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40431",
+    "name": "Top Cristiano Dominican ",
+    "url": "https://radio.dominiserver.com/proxy/topcristianoradio?mp=/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40432",
+    "name": "Voice Of Toro - Fort Portal - 101.0 FM (MP3)",
+    "url": "http://stream.zeno.fm/uebga0ac9mzuv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40433",
+    "name": "97.3 Radio Simba",
+    "url": "https://www.radiosimba.ug/stream",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40434",
+    "name": "DW News",
+    "url": "https://dw.audiostream.io/dw/1027/mp3/64/dw08",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40435",
+    "name": "NEXT RADIO UG",
+    "url": "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40436",
+    "name": "Radio Wa FM 89.8",
+    "url": "https://nr8.newradio.it/proxy/radiowa?mp=/stream&1600983346751",
+    "country": "Uganda",
+    "image": "Radio_wa_logo_english-crop.jpg"
+  },
+  {
+    "id": "40437",
+    "name": "Rock FM Uganda - Kampala (MP3)",
+    "url": "http://titan.shoutca.st:8341/;",
+    "country": "Uganda",
+    "image": "107725-v8.jpg"
+  },
+  {
+    "id": "40439",
+    "name": "BUKEDDE FM",
+    "url": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream",
+    "country": "Uganda",
+    "image": "touch-icon-180x180.png_v_8"
+  },
+  {
+    "id": "40440",
+    "name": "CBS EMANDUSO",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "image": "5a8689a2-e8a2-4ab7-9055-3a93e39baab8.png"
+  },
+  {
+    "id": "40441",
+    "name": "Kitintale Christian Fellowship ",
+    "url": "https://c24.radioboss.fm:18185/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40443",
+    "name": "90.6 Busoga One ",
+    "url": "https://stream.zeno.fm/xna2aad7gc9uv",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40446",
+    "name": "100.2 Radio West ",
+    "url": "https://stream.hydeinnovations.com:2020/stream/radiowest/stream",
+    "country": "Uganda",
+    "image": "apple-touch-icon.png"
+  },
+  {
+    "id": "40447",
+    "name": "CBS News",
+    "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40448",
+    "name": "Bible 24/7",
+    "url": "http://c28.radioboss.fm:8335/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40449",
+    "name": "SMOOTH FM",
+    "url": "http://media-the.musicradio.com/SmoothLondonMP3",
+    "country": "Uganda",
+    "image": "favicon-196x196.png"
+  },
+  {
+    "id": "40451",
+    "name": "CGTN Radio",
+    "url": "http://sk.cri.cn/am846.m3u8",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40452",
+    "name": "KIIS 100.9 - Kampala - 100.9 FM (MP3)",
+    "url": "http://14867.cloudrad.io:9224/live",
+    "country": "Uganda",
+    "image": "302142045-131711916253380-781783264782417610-n.jpg"
+  },
+  {
+    "id": "40453",
+    "name": "NBC NEWS ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40455",
+    "name": "PEARL FM",
+    "url": "https://dc4.serverse.com/proxy/pearlfm/stream/1/",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40457",
+    "name": "RADIO 4",
+    "url": "https://alvinkayemba.radioca.st/stream",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40458",
+    "name": "BBC WORLD SERVICE",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40459",
+    "name": "NBC News Radio ",
+    "url": "http://stream.revma.ihrhls.com/zc6043",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40460",
+    "name": "Premier League Live",
+    "url": "http://13.54.221.214:8000/sen.mp3",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40461",
+    "name": "98.1 Isaiah FM Trinidad ",
+    "url": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
+    "country": "Uganda",
+    "image": "default.png"
+  },
+  {
+    "id": "40462",
+    "name": "Jubilee Radio - Fort Portal - 105.6 FM (MP3)",
+    "url": "http://stream.zeno.fm/f3y3up2k07zuv",
+    "country": "Uganda",
+    "image": "cropped-radio-logo.jpg_fit_180_2c180__038_ssl_1"
+  },
+  {
+    "id": "40464",
+    "name": "Smooth country ",
+    "url": "https://media-ssl.musicradio.com/SmoothCountry",
+    "country": "Uganda",
+    "image": "favicon.ico"
+  },
+  {
+    "id": "40465",
+    "name": "Kiira FM 88.6 - Jinja - 88.6 FM (MP3)",
+    "url": "http://stream.zeno.fm/iydttapi8rguv",
+    "country": "Uganda",
+    "image": "cropped-logo-1-180x180.png"
+  },
+  {
+    "id": "40467",
+    "name": "CHENNAI LIVE ",
+    "url": "http://216.55.178.11:8008/",
+    "country": "Uganda",
+    "image": "sedo_logo.png"
+  }
+]
